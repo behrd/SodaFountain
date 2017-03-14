@@ -3,18 +3,35 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen, urlretrieve, quote
 from urllib.parse import urljoin
 
-browser = webdriver.Chrome()
-for i in range(120,100000):
-	try:
-		url ='https://freemidi.org/download-'+str(i)
-		browser.get(url)
-		u = urlopen(url)
-		html = u.read().decode('utf-8')
-		soup = BeautifulSoup(html)
+start =4134
+def download(genres):
+	"""
+	Genres is a list of genres as strings
+	"""
+	lowergenres = []
+	for genre in genres:
+		lowergenres.append(genre.lower())
+	print(lowergenres)
+	browser = webdriver.Chrome()
 
-		for link in soup.select('ol'):
-			if 'blues' in link.getText() or 'rnb-soul' in link.getText() or 'jazz' in link.getText():
-				button =browser.find_element_by_id('downloadmidi')
-				button.click()
-	except:
-		continue
+	for i in range(start,100000):
+		try:
+			url ='https://freemidi.org/download-'+str(i)
+		
+			u = urlopen(url)
+			html = u.read().decode('utf-8')
+			soup = BeautifulSoup(html)
+
+			for link in soup.select('ol'):
+				for genre in lowergenres:
+					passed =False 
+					if genre in link.getText() and not passed:
+						browser.get(url)
+						button =browser.find_element_by_id('downloadmidi')
+						button.click()
+						print('pass')
+						passed= True
+						print(i)
+		except:
+			continue
+
