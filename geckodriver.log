@@ -1,0 +1,18 @@
+1489467034460	geckodriver	INFO	Listening on 127.0.0.1:37427
+1489467035554	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QMZWrFOAAXe2
+1489467035556	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1489467035559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38968
+1489467037013	Marionette	INFO	Listening on port 38968
+JavaScript warning: https://cdn.adsafeprotected.com/sca.17.2.2.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+
+(firefox:18727): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18727): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18727): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18727): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18727): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18727): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed

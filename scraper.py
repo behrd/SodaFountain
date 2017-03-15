@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen, urlretrieve, quote
 from urllib.parse import urljoin
 
-start =4134
+start =10000
 def download(genres):
 	"""
 	Genres is a list of genres as strings
@@ -32,6 +32,7 @@ def download(genres):
 						print('pass')
 						passed= True
 						print(i)
+					print(i)
 		except:
 			continue
 
