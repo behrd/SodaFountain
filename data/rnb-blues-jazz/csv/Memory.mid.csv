@@ -1,0 +1,253 @@
+0, 0, Header, 0, 1, 96
+1, 0, Start_track
+1, 0, Title_t, "Memory"
+1, 0, Title_t, "Barbra"
+1, 0, Copyright_t, "Copyright © 1999 by Dencho Dulgerov"
+1, 0, Text_t, "http://www.geocities.com/horndouble/index.html\012"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, -2, "major"
+1, 0, Tempo, 1132075
+1, 0, Control_c, 5, 0, 0
+1, 0, Program_c, 5, 0
+1, 0, Control_c, 5, 7, 120
+1, 0, Control_c, 5, 10, 64
+1, 0, Control_c, 10, 0, 0
+1, 0, Program_c, 10, 71
+1, 0, Control_c, 10, 7, 100
+1, 0, Control_c, 10, 10, 64
+1, 48, Control_c, 5, 121, 0
+1, 48, Control_c, 10, 121, 0
+1, 96, Control_c, 5, 91, 110
+1, 96, Control_c, 10, 91, 110
+1, 120, Control_c, 5, 93, 0
+1, 120, Control_c, 10, 93, 0
+1, 120, Pitch_bend_c, 10, 8492
+1, 121, Pitch_bend_c, 10, 9078
+1, 122, Pitch_bend_c, 10, 8192
+1, 144, Control_c, 5, 11, 127
+1, 144, Control_c, 10, 11, 127
+1, 384, Marker_t, "http://www.geocities.com/horndouble/index.html"
+1, 384, Note_on_c, 5, 46, 80
+1, 416, Note_on_c, 5, 53, 80
+1, 448, Note_on_c, 5, 62, 80
+1, 510, Note_on_c, 5, 53, 0
+1, 512, Note_on_c, 5, 53, 80
+1, 542, Note_on_c, 5, 62, 0
+1, 544, Note_on_c, 5, 62, 80
+1, 574, Note_on_c, 5, 46, 0
+1, 576, Note_on_c, 5, 46, 80
+1, 606, Note_on_c, 5, 53, 0
+1, 608, Note_on_c, 5, 53, 80
+1, 638, Note_on_c, 5, 62, 0
+1, 640, Note_on_c, 5, 62, 80
+1, 702, Note_on_c, 5, 53, 0
+1, 704, Note_on_c, 5, 53, 80
+1, 734, Note_on_c, 5, 62, 0
+1, 736, Note_on_c, 5, 62, 80
+1, 766, Note_on_c, 5, 62, 0
+1, 766, Note_on_c, 5, 53, 0
+1, 766, Note_on_c, 5, 46, 0
+1, 768, Note_on_c, 5, 46, 80
+1, 800, Note_on_c, 5, 53, 80
+1, 832, Note_on_c, 5, 62, 80
+1, 832, Note_on_c, 10, 62, 74
+1, 880, Note_on_c, 10, 62, 0
+1, 894, Note_on_c, 5, 53, 0
+1, 896, Note_on_c, 5, 53, 80
+1, 926, Note_on_c, 5, 62, 0
+1, 928, Note_on_c, 5, 62, 80
+1, 928, Note_on_c, 10, 62, 68
+1, 958, Note_on_c, 5, 46, 0
+1, 960, Note_on_c, 5, 46, 80
+1, 976, Note_on_c, 10, 62, 0
+1, 990, Note_on_c, 5, 53, 0
+1, 992, Note_on_c, 5, 53, 80
+1, 1022, Note_on_c, 5, 62, 0
+1, 1024, Note_on_c, 5, 62, 80
+1, 1024, Note_on_c, 10, 62, 60
+1, 1072, Note_on_c, 10, 62, 0
+1, 1086, Note_on_c, 5, 53, 0
+1, 1088, Note_on_c, 5, 53, 80
+1, 1118, Note_on_c, 5, 62, 0
+1, 1120, Note_on_c, 5, 62, 80
+1, 1120, Note_on_c, 10, 62, 52
+1, 1150, Note_on_c, 5, 62, 0
+1, 1150, Note_on_c, 5, 46, 0
+1, 1150, Note_on_c, 5, 53, 0
+1, 1152, Note_on_c, 10, 62, 0
+1, 1152, Note_on_c, 5, 46, 80
+1, 1184, Note_on_c, 5, 53, 78
+1, 1216, Note_on_c, 5, 62, 74
+1, 1278, Note_on_c, 5, 53, 0
+1, 1280, Note_on_c, 5, 53, 70
+1, 1310, Note_on_c, 5, 62, 0
+1, 1312, Note_on_c, 5, 62, 68
+1, 1342, Note_on_c, 5, 46, 0
+1, 1344, Note_on_c, 5, 46, 64
+1, 1374, Note_on_c, 5, 53, 0
+1, 1376, Note_on_c, 5, 53, 62
+1, 1406, Note_on_c, 5, 62, 0
+1, 1408, Note_on_c, 5, 62, 60
+1, 1470, Note_on_c, 5, 53, 0
+1, 1472, Note_on_c, 5, 53, 54
+1, 1502, Note_on_c, 5, 62, 0
+1, 1504, Note_on_c, 5, 62, 52
+1, 1534, Note_on_c, 5, 62, 0
+1, 1534, Note_on_c, 5, 53, 0
+1, 1534, Note_on_c, 5, 46, 0
+1, 1536, Note_on_c, 5, 43, 80
+1, 1568, Note_on_c, 5, 50, 78
+1, 1600, Note_on_c, 5, 58, 74
+1, 1662, Note_on_c, 5, 50, 0
+1, 1664, Note_on_c, 5, 50, 70
+1, 1694, Note_on_c, 5, 58, 0
+1, 1696, Note_on_c, 5, 58, 68
+1, 1726, Note_on_c, 5, 43, 0
+1, 1728, Note_on_c, 5, 43, 64
+1, 1758, Note_on_c, 5, 50, 0
+1, 1760, Note_on_c, 5, 50, 62
+1, 1790, Note_on_c, 5, 58, 0
+1, 1792, Note_on_c, 5, 58, 60
+1, 1854, Note_on_c, 5, 50, 0
+1, 1856, Note_on_c, 5, 50, 54
+1, 1886, Note_on_c, 5, 58, 0
+1, 1888, Note_on_c, 5, 58, 52
+1, 1918, Note_on_c, 5, 58, 0
+1, 1918, Note_on_c, 5, 50, 0
+1, 1918, Note_on_c, 5, 43, 0
+1, 1920, Note_on_c, 5, 39, 80
+1, 1952, Note_on_c, 5, 46, 78
+1, 1984, Note_on_c, 5, 55, 74
+1, 2046, Note_on_c, 5, 46, 0
+1, 2048, Note_on_c, 5, 46, 70
+1, 2078, Note_on_c, 5, 55, 0
+1, 2080, Note_on_c, 5, 58, 68
+1, 2110, Note_on_c, 5, 39, 0
+1, 2112, Note_on_c, 5, 39, 64
+1, 2142, Note_on_c, 5, 46, 0
+1, 2144, Note_on_c, 5, 46, 62
+1, 2174, Note_on_c, 5, 58, 0
+1, 2176, Note_on_c, 5, 55, 60
+1, 2238, Note_on_c, 5, 46, 0
+1, 2240, Note_on_c, 5, 46, 54
+1, 2270, Note_on_c, 5, 55, 0
+1, 2272, Note_on_c, 5, 55, 52
+1, 2302, Note_on_c, 5, 55, 0
+1, 2302, Note_on_c, 5, 46, 0
+1, 2302, Note_on_c, 5, 39, 0
+1, 2304, Note_on_c, 5, 38, 70
+1, 2336, Note_on_c, 5, 45, 70
+1, 2368, Note_on_c, 5, 50, 74
+1, 2398, Note_on_c, 5, 50, 0
+1, 2400, Note_on_c, 5, 50, 78
+1, 2432, Note_on_c, 5, 53, 82
+1, 2464, Note_on_c, 5, 57, 86
+1, 2496, Note_on_c, 5, 62, 90
+1, 2526, Note_on_c, 5, 57, 0
+1, 2526, Note_on_c, 5, 53, 0
+1, 2528, Note_on_c, 5, 57, 86
+1, 2560, Note_on_c, 5, 53, 82
+1, 2590, Note_on_c, 5, 50, 0
+1, 2592, Note_on_c, 5, 50, 78
+1, 2622, Note_on_c, 5, 45, 0
+1, 2624, Note_on_c, 5, 45, 74
+1, 2654, Note_on_c, 5, 38, 0
+1, 2656, Note_on_c, 5, 38, 70
+1, 2686, Note_on_c, 5, 38, 0
+1, 2686, Note_on_c, 5, 45, 0
+1, 2686, Note_on_c, 5, 57, 0
+1, 2686, Note_on_c, 5, 62, 0
+1, 2686, Note_on_c, 5, 50, 0
+1, 2686, Note_on_c, 5, 53, 0
+1, 3840, Time_signature, 2, 2, 24, 8
+1, 4032, Time_signature, 4, 2, 24, 8
+1, 6720, Time_signature, 2, 2, 24, 8
+1, 6912, Time_signature, 4, 2, 24, 8
+1, 6912, Tempo, 1000000
+1, 6913, Tempo, 1000000
+1, 8134, Tempo, 983607
+1, 8285, Tempo, 967742
+1, 8437, Tempo, 952381
+1, 8438, Tempo, 952381
+1, 8544, Tempo, 952381
+1, 8607, Tempo, 967742
+1, 8671, Tempo, 983607
+1, 8735, Tempo, 1000000
+1, 8736, Tempo, 1000000
+1, 9600, Tempo, 1132075
+1, 9638, Tempo, 1153846
+1, 9676, Tempo, 1176471
+1, 9714, Tempo, 1200000
+1, 9752, Tempo, 1224490
+1, 9790, Tempo, 1250000
+1, 9791, Tempo, 1250000
+1, 9792, Tempo, 1132075
+1, 9793, Tempo, 1132075
+1, 12672, Time_signature, 2, 2, 24, 8
+1, 12864, Time_signature, 4, 2, 24, 8
+1, 12864, Key_signature, -6, "major"
+1, 14016, Time_signature, 2, 2, 24, 8
+1, 14208, Time_signature, 4, 2, 24, 8
+1, 14208, Key_signature, -5, "major"
+1, 14208, Tempo, 1000000
+1, 14209, Tempo, 1000000
+1, 15430, Tempo, 983607
+1, 15581, Tempo, 967742
+1, 15733, Tempo, 952381
+1, 15734, Tempo, 952381
+1, 16896, Tempo, 1132075
+1, 16934, Tempo, 1153846
+1, 16972, Tempo, 1176471
+1, 17010, Tempo, 1200000
+1, 17048, Tempo, 1224490
+1, 17086, Tempo, 1250000
+1, 17087, Tempo, 1250000
+1, 17088, Tempo, 1250000
+1, 17115, Tempo, 1224490
+1, 17142, Tempo, 1200000
+1, 17170, Tempo, 1176471
+1, 17197, Tempo, 1153846
+1, 17225, Tempo, 1132075
+1, 17252, Tempo, 1111111
+1, 17280, Tempo, 1090909
+1, 17281, Tempo, 1090909
+1, 19488, Tempo, 1500000
+1, 19489, Tempo, 1500000
+1, 19584, Time_signature, 5, 2, 24, 8
+1, 19584, Tempo, 1090909
+1, 19596, Tempo, 1111111
+1, 19609, Tempo, 1132075
+1, 19622, Tempo, 1153846
+1, 19635, Tempo, 1176471
+1, 19648, Tempo, 1200000
+1, 19660, Tempo, 1224490
+1, 19673, Tempo, 1250000
+1, 19686, Tempo, 1276596
+1, 19699, Tempo, 1304348
+1, 19712, Tempo, 1333333
+1, 19724, Tempo, 1363636
+1, 19737, Tempo, 1395349
+1, 19750, Tempo, 1428571
+1, 19763, Tempo, 1463415
+1, 19776, Tempo, 1500000
+1, 19777, Tempo, 1500000
+1, 20064, Time_signature, 4, 2, 24, 8
+1, 20064, Tempo, 1132075
+1, 20065, Tempo, 1132075
+1, 21216, Tempo, 1132075
+1, 21230, Tempo, 1153846
+1, 21245, Tempo, 1176471
+1, 21260, Tempo, 1200000
+1, 21275, Tempo, 1224490
+1, 21289, Tempo, 1250000
+1, 21304, Tempo, 1276596
+1, 21319, Tempo, 1304348
+1, 21334, Tempo, 1333333
+1, 21348, Tempo, 1363636
+1, 21363, Tempo, 1395349
+1, 21378, Tempo, 1428571
+1, 21393, Tempo, 1463415
+1, 21408, Tempo, 1500000
+1, 21409, Tempo, 1500000
+1, 21409, End_track
+0, 0, End_of_file

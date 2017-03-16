@@ -1,0 +1,1322 @@
+0, 0, Header, 1, 4, 384
+1, 0, Start_track
+1, 0, Tempo, 500000
+1, 0, Time_signature, 3, 2, 24, 8
+1, 73912, End_track
+2, 0, Start_track
+2, 0, Title_t, "Flute"
+2, 0, Program_c, 0, 73
+2, 4619, Note_on_c, 0, 76, 84
+2, 4959, Note_off_c, 0, 76, 0
+2, 4989, Note_on_c, 0, 81, 109
+2, 5062, Note_off_c, 0, 81, 0
+2, 5572, Note_on_c, 0, 76, 64
+2, 5728, Note_off_c, 0, 76, 0
+2, 5767, Note_on_c, 0, 71, 87
+2, 6115, Note_off_c, 0, 71, 0
+2, 6156, Note_on_c, 0, 76, 108
+2, 6238, Note_off_c, 0, 76, 0
+2, 6716, Note_on_c, 0, 74, 69
+2, 6889, Note_off_c, 0, 74, 0
+2, 6911, Note_on_c, 0, 73, 55
+2, 7681, Note_on_c, 0, 69, 85
+2, 7684, Note_off_c, 0, 73, 0
+2, 8019, Note_off_c, 0, 69, 0
+2, 8052, Note_on_c, 0, 70, 56
+2, 8058, Note_off_c, 0, 70, 0
+2, 8059, Note_on_c, 0, 71, 94
+2, 8905, Note_off_c, 0, 71, 0
+2, 9600, Note_on_c, 0, 76, 106
+2, 10129, Note_off_c, 0, 76, 0
+2, 10180, Note_on_c, 0, 78, 90
+2, 10358, Note_off_c, 0, 78, 0
+2, 10381, Note_on_c, 0, 79, 110
+2, 10733, Note_off_c, 0, 79, 0
+2, 10764, Note_on_c, 0, 81, 112
+2, 10844, Note_off_c, 0, 81, 0
+2, 11337, Note_on_c, 0, 79, 78
+2, 11502, Note_off_c, 0, 79, 0
+2, 11531, Note_on_c, 0, 76, 106
+2, 12480, Note_off_c, 0, 76, 0
+2, 16139, Note_on_c, 0, 76, 84
+2, 16479, Note_off_c, 0, 76, 0
+2, 16509, Note_on_c, 0, 81, 109
+2, 16582, Note_off_c, 0, 81, 0
+2, 17092, Note_on_c, 0, 76, 64
+2, 17248, Note_off_c, 0, 76, 0
+2, 17287, Note_on_c, 0, 71, 87
+2, 17635, Note_off_c, 0, 71, 0
+2, 17676, Note_on_c, 0, 76, 108
+2, 17758, Note_off_c, 0, 76, 0
+2, 18236, Note_on_c, 0, 74, 69
+2, 18409, Note_off_c, 0, 74, 0
+2, 18431, Note_on_c, 0, 73, 55
+2, 19201, Note_on_c, 0, 69, 85
+2, 19204, Note_off_c, 0, 73, 0
+2, 19539, Note_off_c, 0, 69, 0
+2, 19572, Note_on_c, 0, 70, 56
+2, 19578, Note_off_c, 0, 70, 0
+2, 19579, Note_on_c, 0, 71, 94
+2, 20448, Note_off_c, 0, 71, 0
+2, 21120, Note_on_c, 0, 76, 106
+2, 21649, Note_off_c, 0, 76, 0
+2, 21700, Note_on_c, 0, 78, 90
+2, 21878, Note_off_c, 0, 78, 0
+2, 21901, Note_on_c, 0, 79, 110
+2, 22253, Note_off_c, 0, 79, 0
+2, 22284, Note_on_c, 0, 81, 112
+2, 22364, Note_off_c, 0, 81, 0
+2, 22842, Note_on_c, 0, 79, 99
+2, 22998, Note_off_c, 0, 79, 0
+2, 23030, Note_on_c, 0, 78, 106
+2, 23384, Note_off_c, 0, 78, 0
+2, 23419, Note_on_c, 0, 76, 110
+2, 24288, Note_off_c, 0, 76, 0
+2, 24960, Note_on_c, 0, 75, 109
+2, 25134, Note_off_c, 0, 75, 0
+2, 25174, Note_on_c, 0, 78, 96
+2, 25339, Note_off_c, 0, 78, 0
+2, 25372, Note_on_c, 0, 78, 113
+2, 25905, Note_off_c, 0, 78, 0
+2, 25939, Note_on_c, 0, 71, 98
+2, 26103, Note_off_c, 0, 71, 0
+2, 26134, Note_on_c, 0, 73, 113
+2, 26300, Note_off_c, 0, 73, 0
+2, 26329, Note_on_c, 0, 76, 102
+2, 26518, Note_off_c, 0, 76, 0
+2, 26543, Note_on_c, 0, 78, 110
+2, 27360, Note_off_c, 0, 78, 0
+2, 27457, Note_on_c, 0, 80, 83
+2, 27623, Note_off_c, 0, 80, 0
+2, 27665, Note_on_c, 0, 81, 88
+2, 28032, Note_off_c, 0, 81, 0
+2, 28060, Note_on_c, 0, 83, 94
+2, 28512, Note_off_c, 0, 83, 0
+2, 28607, Note_on_c, 0, 81, 85
+2, 28781, Note_off_c, 0, 81, 0
+2, 28813, Note_on_c, 0, 80, 110
+2, 29132, Note_off_c, 0, 80, 0
+2, 29197, Note_on_c, 0, 78, 99
+2, 30432, Note_off_c, 0, 78, 0
+2, 31126, Note_on_c, 0, 81, 104
+2, 31776, Note_off_c, 0, 81, 0
+2, 31881, Note_on_c, 0, 81, 82
+2, 32204, Note_off_c, 0, 81, 0
+2, 32264, Note_on_c, 0, 78, 110
+2, 32884, Note_off_c, 0, 78, 0
+2, 33046, Note_on_c, 0, 76, 112
+2, 33403, Note_off_c, 0, 76, 0
+2, 33430, Note_on_c, 0, 78, 117
+2, 34560, Note_off_c, 0, 78, 0
+2, 36096, Note_on_c, 0, 76, 106
+2, 36625, Note_off_c, 0, 76, 0
+2, 36676, Note_on_c, 0, 78, 90
+2, 36854, Note_off_c, 0, 78, 0
+2, 36877, Note_on_c, 0, 79, 110
+2, 37229, Note_off_c, 0, 79, 0
+2, 37260, Note_on_c, 0, 81, 112
+2, 37340, Note_off_c, 0, 81, 0
+2, 37833, Note_on_c, 0, 79, 78
+2, 37998, Note_off_c, 0, 79, 0
+2, 38027, Note_on_c, 0, 76, 106
+2, 38976, Note_off_c, 0, 76, 0
+2, 42635, Note_on_c, 0, 76, 84
+2, 42975, Note_off_c, 0, 76, 0
+2, 43005, Note_on_c, 0, 81, 109
+2, 43078, Note_off_c, 0, 81, 0
+2, 43588, Note_on_c, 0, 76, 64
+2, 43744, Note_off_c, 0, 76, 0
+2, 43783, Note_on_c, 0, 71, 87
+2, 44131, Note_off_c, 0, 71, 0
+2, 44172, Note_on_c, 0, 76, 108
+2, 44254, Note_off_c, 0, 76, 0
+2, 44732, Note_on_c, 0, 74, 69
+2, 44905, Note_off_c, 0, 74, 0
+2, 44927, Note_on_c, 0, 73, 55
+2, 45697, Note_on_c, 0, 69, 85
+2, 45700, Note_off_c, 0, 73, 0
+2, 46035, Note_off_c, 0, 69, 0
+2, 46068, Note_on_c, 0, 70, 56
+2, 46074, Note_off_c, 0, 70, 0
+2, 46075, Note_on_c, 0, 71, 94
+2, 46921, Note_off_c, 0, 71, 0
+2, 47616, Note_on_c, 0, 76, 106
+2, 48145, Note_off_c, 0, 76, 0
+2, 48196, Note_on_c, 0, 78, 90
+2, 48374, Note_off_c, 0, 78, 0
+2, 48397, Note_on_c, 0, 79, 110
+2, 48749, Note_off_c, 0, 79, 0
+2, 48780, Note_on_c, 0, 81, 112
+2, 48860, Note_off_c, 0, 81, 0
+2, 49353, Note_on_c, 0, 79, 78
+2, 49518, Note_off_c, 0, 79, 0
+2, 49547, Note_on_c, 0, 76, 106
+2, 50592, Note_off_c, 0, 76, 0
+2, 54155, Note_on_c, 0, 76, 84
+2, 54495, Note_off_c, 0, 76, 0
+2, 54525, Note_on_c, 0, 81, 109
+2, 54598, Note_off_c, 0, 81, 0
+2, 55108, Note_on_c, 0, 76, 64
+2, 55264, Note_off_c, 0, 76, 0
+2, 55303, Note_on_c, 0, 71, 87
+2, 55651, Note_off_c, 0, 71, 0
+2, 55692, Note_on_c, 0, 76, 108
+2, 55774, Note_off_c, 0, 76, 0
+2, 56252, Note_on_c, 0, 74, 69
+2, 56425, Note_off_c, 0, 74, 0
+2, 56447, Note_on_c, 0, 73, 55
+2, 57217, Note_on_c, 0, 69, 85
+2, 57220, Note_off_c, 0, 73, 0
+2, 57555, Note_off_c, 0, 69, 0
+2, 57588, Note_on_c, 0, 70, 56
+2, 57594, Note_off_c, 0, 70, 0
+2, 57595, Note_on_c, 0, 71, 94
+2, 58464, Note_off_c, 0, 71, 0
+2, 59136, Note_on_c, 0, 76, 106
+2, 59665, Note_off_c, 0, 76, 0
+2, 59716, Note_on_c, 0, 78, 90
+2, 59894, Note_off_c, 0, 78, 0
+2, 59917, Note_on_c, 0, 79, 110
+2, 60269, Note_off_c, 0, 79, 0
+2, 60300, Note_on_c, 0, 81, 112
+2, 60380, Note_off_c, 0, 81, 0
+2, 60858, Note_on_c, 0, 79, 99
+2, 61014, Note_off_c, 0, 79, 0
+2, 61046, Note_on_c, 0, 78, 106
+2, 61400, Note_off_c, 0, 78, 0
+2, 61435, Note_on_c, 0, 76, 110
+2, 62304, Note_off_c, 0, 76, 0
+2, 62976, Note_on_c, 0, 75, 109
+2, 63150, Note_off_c, 0, 75, 0
+2, 63190, Note_on_c, 0, 78, 96
+2, 63355, Note_off_c, 0, 78, 0
+2, 63388, Note_on_c, 0, 78, 113
+2, 63921, Note_off_c, 0, 78, 0
+2, 63955, Note_on_c, 0, 71, 98
+2, 64119, Note_off_c, 0, 71, 0
+2, 64150, Note_on_c, 0, 73, 113
+2, 64316, Note_off_c, 0, 73, 0
+2, 64345, Note_on_c, 0, 76, 102
+2, 64534, Note_off_c, 0, 76, 0
+2, 64559, Note_on_c, 0, 78, 110
+2, 65376, Note_off_c, 0, 78, 0
+2, 65473, Note_on_c, 0, 80, 83
+2, 65639, Note_off_c, 0, 80, 0
+2, 65681, Note_on_c, 0, 81, 88
+2, 66048, Note_off_c, 0, 81, 0
+2, 66076, Note_on_c, 0, 83, 94
+2, 66528, Note_off_c, 0, 83, 0
+2, 66623, Note_on_c, 0, 81, 85
+2, 66797, Note_off_c, 0, 81, 0
+2, 66829, Note_on_c, 0, 80, 110
+2, 67148, Note_off_c, 0, 80, 0
+2, 67213, Note_on_c, 0, 78, 99
+2, 68448, Note_off_c, 0, 78, 0
+2, 69142, Note_on_c, 0, 81, 104
+2, 69792, Note_off_c, 0, 81, 0
+2, 69897, Note_on_c, 0, 81, 82
+2, 70220, Note_off_c, 0, 81, 0
+2, 70280, Note_on_c, 0, 78, 110
+2, 70900, Note_off_c, 0, 78, 0
+2, 71062, Note_on_c, 0, 76, 112
+2, 71419, Note_off_c, 0, 76, 0
+2, 71446, Note_on_c, 0, 78, 117
+2, 72576, Note_off_c, 0, 78, 0
+2, 73912, End_track
+3, 0, Start_track
+3, 0, Title_t, "Classic"
+3, 0, Control_c, 1, 7, 118
+3, 0, Program_c, 1, 25
+3, 3, Note_on_c, 1, 45, 83
+3, 3, Pitch_bend_c, 1, 8192
+3, 4, Pitch_bend_c, 1, 8202
+3, 10, Pitch_bend_c, 1, 8192
+3, 14, Pitch_bend_c, 1, 8202
+3, 22, Pitch_bend_c, 1, 8192
+3, 30, Pitch_bend_c, 1, 8202
+3, 38, Pitch_bend_c, 1, 8192
+3, 47, Pitch_bend_c, 1, 8202
+3, 156, Pitch_bend_c, 1, 8192
+3, 160, Pitch_bend_c, 1, 8202
+3, 165, Pitch_bend_c, 1, 8192
+3, 168, Pitch_bend_c, 1, 8202
+3, 173, Pitch_bend_c, 1, 8192
+3, 176, Pitch_bend_c, 1, 8202
+3, 180, Note_on_c, 1, 57, 73
+3, 180, Pitch_bend_c, 1, 8192
+3, 351, Note_on_c, 1, 61, 60
+3, 351, Pitch_bend_c, 1, 8192
+3, 371, Note_on_c, 1, 66, 77
+3, 371, Pitch_bend_c, 1, 8192
+3, 412, Pitch_bend_c, 1, 8192
+3, 922, Note_off_c, 1, 57, 0
+3, 938, Note_off_c, 1, 66, 0
+3, 951, Note_off_c, 1, 61, 0
+3, 1004, Note_off_c, 1, 45, 0
+3, 1212, Note_on_c, 1, 40, 63
+3, 1212, Pitch_bend_c, 1, 8192
+3, 1213, Pitch_bend_c, 1, 8144
+3, 1213, Pitch_bend_c, 1, 8202
+3, 1218, Pitch_bend_c, 1, 8160
+3, 1256, Pitch_bend_c, 1, 8182
+3, 1364, Pitch_bend_c, 1, 8192
+3, 1365, Note_on_c, 1, 52, 70
+3, 1518, Note_on_c, 1, 59, 66
+3, 1518, Pitch_bend_c, 1, 8192
+3, 1553, Note_on_c, 1, 62, 61
+3, 1553, Pitch_bend_c, 1, 8192
+3, 1594, Note_on_c, 1, 67, 71
+3, 1594, Pitch_bend_c, 1, 8192
+3, 1953, Note_off_c, 1, 52, 0
+3, 2084, Note_off_c, 1, 59, 0
+3, 2102, Note_off_c, 1, 62, 0
+3, 2126, Note_off_c, 1, 67, 0
+3, 2315, Pitch_bend_c, 1, 8192
+3, 2316, Note_on_c, 1, 45, 70
+3, 2481, Note_on_c, 1, 57, 71
+3, 2481, Pitch_bend_c, 1, 8192
+3, 2648, Pitch_bend_c, 1, 8192
+3, 2649, Note_on_c, 1, 61, 59
+3, 2664, Pitch_bend_c, 1, 8192
+3, 2665, Note_on_c, 1, 66, 71
+3, 2686, Pitch_bend_c, 1, 8192
+3, 3177, Note_off_c, 1, 45, 0
+3, 3207, Note_off_c, 1, 57, 0
+3, 3209, Note_off_c, 1, 66, 0
+3, 3226, Note_off_c, 1, 61, 0
+3, 3270, Note_off_c, 1, 40, 0
+3, 3477, Pitch_bend_c, 1, 8192
+3, 3478, Pitch_bend_c, 1, 8144
+3, 3478, Pitch_bend_c, 1, 8202
+3, 3478, Note_on_c, 1, 40, 62
+3, 3483, Pitch_bend_c, 1, 8182
+3, 3505, Pitch_bend_c, 1, 8160
+3, 3520, Pitch_bend_c, 1, 8182
+3, 3553, Pitch_bend_c, 1, 8202
+3, 3564, Pitch_bend_c, 1, 8182
+3, 3580, Pitch_bend_c, 1, 8202
+3, 3585, Pitch_bend_c, 1, 8182
+3, 3591, Pitch_bend_c, 1, 8202
+3, 3597, Pitch_bend_c, 1, 8182
+3, 3603, Pitch_bend_c, 1, 8202
+3, 3641, Pitch_bend_c, 1, 8192
+3, 3642, Note_on_c, 1, 52, 69
+3, 3787, Pitch_bend_c, 1, 8192
+3, 3788, Note_on_c, 1, 59, 64
+3, 3824, Pitch_bend_c, 1, 8192
+3, 3825, Note_on_c, 1, 62, 59
+3, 3858, Note_on_c, 1, 67, 69
+3, 3858, Pitch_bend_c, 1, 8192
+3, 4335, Note_off_c, 1, 52, 0
+3, 4347, Note_off_c, 1, 59, 0
+3, 4355, Note_off_c, 1, 62, 0
+3, 4379, Note_off_c, 1, 67, 0
+3, 4611, Note_on_c, 1, 45, 83
+3, 4611, Pitch_bend_c, 1, 8192
+3, 4612, Pitch_bend_c, 1, 8202
+3, 4618, Pitch_bend_c, 1, 8192
+3, 4622, Pitch_bend_c, 1, 8202
+3, 4630, Pitch_bend_c, 1, 8192
+3, 4638, Pitch_bend_c, 1, 8202
+3, 4646, Pitch_bend_c, 1, 8192
+3, 4655, Pitch_bend_c, 1, 8202
+3, 4764, Pitch_bend_c, 1, 8192
+3, 4768, Pitch_bend_c, 1, 8202
+3, 4773, Pitch_bend_c, 1, 8192
+3, 4776, Pitch_bend_c, 1, 8202
+3, 4781, Pitch_bend_c, 1, 8192
+3, 4784, Pitch_bend_c, 1, 8202
+3, 4788, Note_on_c, 1, 57, 73
+3, 4788, Pitch_bend_c, 1, 8192
+3, 4959, Note_on_c, 1, 61, 60
+3, 4959, Pitch_bend_c, 1, 8192
+3, 4979, Note_on_c, 1, 66, 77
+3, 4979, Pitch_bend_c, 1, 8192
+3, 5020, Pitch_bend_c, 1, 8192
+3, 5530, Note_off_c, 1, 57, 0
+3, 5546, Note_off_c, 1, 66, 0
+3, 5559, Note_off_c, 1, 61, 0
+3, 5612, Note_off_c, 1, 45, 0
+3, 5709, Note_off_c, 1, 40, 0
+3, 5820, Note_on_c, 1, 40, 63
+3, 5820, Pitch_bend_c, 1, 8192
+3, 5821, Pitch_bend_c, 1, 8144
+3, 5821, Pitch_bend_c, 1, 8202
+3, 5826, Pitch_bend_c, 1, 8160
+3, 5864, Pitch_bend_c, 1, 8182
+3, 5972, Pitch_bend_c, 1, 8192
+3, 5973, Note_on_c, 1, 52, 70
+3, 6126, Note_on_c, 1, 59, 66
+3, 6126, Pitch_bend_c, 1, 8192
+3, 6161, Note_on_c, 1, 62, 61
+3, 6161, Pitch_bend_c, 1, 8192
+3, 6202, Note_on_c, 1, 67, 71
+3, 6202, Pitch_bend_c, 1, 8192
+3, 6561, Note_off_c, 1, 52, 0
+3, 6692, Note_off_c, 1, 59, 0
+3, 6710, Note_off_c, 1, 62, 0
+3, 6734, Note_off_c, 1, 67, 0
+3, 6923, Pitch_bend_c, 1, 8192
+3, 6924, Note_on_c, 1, 45, 70
+3, 7089, Note_on_c, 1, 57, 71
+3, 7089, Pitch_bend_c, 1, 8192
+3, 7256, Pitch_bend_c, 1, 8192
+3, 7257, Note_on_c, 1, 61, 59
+3, 7272, Pitch_bend_c, 1, 8192
+3, 7273, Note_on_c, 1, 66, 71
+3, 7294, Pitch_bend_c, 1, 8192
+3, 7785, Note_off_c, 1, 45, 0
+3, 7815, Note_off_c, 1, 57, 0
+3, 7817, Note_off_c, 1, 66, 0
+3, 7834, Note_off_c, 1, 61, 0
+3, 7878, Note_off_c, 1, 40, 0
+3, 8085, Pitch_bend_c, 1, 8192
+3, 8086, Pitch_bend_c, 1, 8144
+3, 8086, Pitch_bend_c, 1, 8202
+3, 8086, Note_on_c, 1, 40, 62
+3, 8091, Pitch_bend_c, 1, 8182
+3, 8113, Pitch_bend_c, 1, 8160
+3, 8128, Pitch_bend_c, 1, 8182
+3, 8161, Pitch_bend_c, 1, 8202
+3, 8172, Pitch_bend_c, 1, 8182
+3, 8188, Pitch_bend_c, 1, 8202
+3, 8193, Pitch_bend_c, 1, 8182
+3, 8199, Pitch_bend_c, 1, 8202
+3, 8205, Pitch_bend_c, 1, 8182
+3, 8211, Pitch_bend_c, 1, 8202
+3, 8249, Pitch_bend_c, 1, 8192
+3, 8250, Note_on_c, 1, 52, 69
+3, 8395, Pitch_bend_c, 1, 8192
+3, 8396, Note_on_c, 1, 59, 64
+3, 8432, Pitch_bend_c, 1, 8192
+3, 8433, Note_on_c, 1, 62, 59
+3, 8466, Note_on_c, 1, 67, 69
+3, 8466, Pitch_bend_c, 1, 8192
+3, 8943, Note_off_c, 1, 52, 0
+3, 8955, Note_off_c, 1, 59, 0
+3, 8963, Note_off_c, 1, 62, 0
+3, 8987, Note_off_c, 1, 67, 0
+3, 9261, Note_on_c, 1, 40, 60
+3, 9438, Note_on_c, 1, 47, 67
+3, 9584, Note_on_c, 1, 52, 62
+3, 9613, Note_on_c, 1, 55, 57
+3, 9628, Note_on_c, 1, 62, 66
+3, 9653, Note_on_c, 1, 64, 63
+3, 9931, Note_off_c, 1, 47, 0
+3, 10317, Note_off_c, 1, 40, 0
+3, 10364, Note_off_c, 1, 40, 0
+3, 10388, Note_on_c, 1, 40, 60
+3, 10448, Note_off_c, 1, 64, 0
+3, 10569, Note_on_c, 1, 47, 66
+3, 10584, Note_off_c, 1, 62, 0
+3, 10585, Note_off_c, 1, 52, 0
+3, 10733, Note_on_c, 1, 52, 64
+3, 10750, Note_off_c, 1, 55, 0
+3, 10758, Note_on_c, 1, 55, 58
+3, 10775, Note_on_c, 1, 62, 69
+3, 10793, Note_on_c, 1, 64, 61
+3, 10963, Note_off_c, 1, 40, 0
+3, 11506, Note_off_c, 1, 64, 0
+3, 11520, Note_off_c, 1, 47, 0
+3, 11521, Note_off_c, 1, 62, 0
+3, 11523, Note_on_c, 1, 45, 83
+3, 11523, Pitch_bend_c, 1, 8192
+3, 11524, Pitch_bend_c, 1, 8202
+3, 11525, Note_off_c, 1, 55, 0
+3, 11525, Note_off_c, 1, 52, 0
+3, 11530, Pitch_bend_c, 1, 8192
+3, 11534, Pitch_bend_c, 1, 8202
+3, 11542, Pitch_bend_c, 1, 8192
+3, 11550, Pitch_bend_c, 1, 8202
+3, 11558, Pitch_bend_c, 1, 8192
+3, 11567, Pitch_bend_c, 1, 8202
+3, 11676, Pitch_bend_c, 1, 8192
+3, 11680, Pitch_bend_c, 1, 8202
+3, 11685, Pitch_bend_c, 1, 8192
+3, 11688, Pitch_bend_c, 1, 8202
+3, 11693, Pitch_bend_c, 1, 8192
+3, 11696, Pitch_bend_c, 1, 8202
+3, 11700, Note_on_c, 1, 57, 73
+3, 11700, Pitch_bend_c, 1, 8192
+3, 11871, Note_on_c, 1, 61, 60
+3, 11871, Pitch_bend_c, 1, 8192
+3, 11891, Note_on_c, 1, 66, 77
+3, 11891, Pitch_bend_c, 1, 8192
+3, 11932, Pitch_bend_c, 1, 8192
+3, 12442, Note_off_c, 1, 57, 0
+3, 12458, Note_off_c, 1, 66, 0
+3, 12471, Note_off_c, 1, 61, 0
+3, 12524, Note_off_c, 1, 45, 0
+3, 12732, Note_on_c, 1, 40, 63
+3, 12732, Pitch_bend_c, 1, 8192
+3, 12733, Pitch_bend_c, 1, 8144
+3, 12733, Pitch_bend_c, 1, 8202
+3, 12738, Pitch_bend_c, 1, 8160
+3, 12776, Pitch_bend_c, 1, 8182
+3, 12884, Pitch_bend_c, 1, 8192
+3, 12885, Note_on_c, 1, 52, 70
+3, 13038, Note_on_c, 1, 59, 66
+3, 13038, Pitch_bend_c, 1, 8192
+3, 13073, Note_on_c, 1, 62, 61
+3, 13073, Pitch_bend_c, 1, 8192
+3, 13114, Note_on_c, 1, 67, 71
+3, 13114, Pitch_bend_c, 1, 8192
+3, 13473, Note_off_c, 1, 52, 0
+3, 13604, Note_off_c, 1, 59, 0
+3, 13622, Note_off_c, 1, 62, 0
+3, 13646, Note_off_c, 1, 67, 0
+3, 13835, Pitch_bend_c, 1, 8192
+3, 13836, Note_on_c, 1, 45, 70
+3, 14001, Note_on_c, 1, 57, 71
+3, 14001, Pitch_bend_c, 1, 8192
+3, 14168, Pitch_bend_c, 1, 8192
+3, 14169, Note_on_c, 1, 61, 59
+3, 14184, Pitch_bend_c, 1, 8192
+3, 14185, Note_on_c, 1, 66, 71
+3, 14206, Pitch_bend_c, 1, 8192
+3, 14697, Note_off_c, 1, 45, 0
+3, 14727, Note_off_c, 1, 57, 0
+3, 14729, Note_off_c, 1, 66, 0
+3, 14746, Note_off_c, 1, 61, 0
+3, 14790, Note_off_c, 1, 40, 0
+3, 14997, Pitch_bend_c, 1, 8192
+3, 14998, Pitch_bend_c, 1, 8144
+3, 14998, Pitch_bend_c, 1, 8202
+3, 14998, Note_on_c, 1, 40, 62
+3, 15003, Pitch_bend_c, 1, 8182
+3, 15025, Pitch_bend_c, 1, 8160
+3, 15040, Pitch_bend_c, 1, 8182
+3, 15073, Pitch_bend_c, 1, 8202
+3, 15084, Pitch_bend_c, 1, 8182
+3, 15100, Pitch_bend_c, 1, 8202
+3, 15105, Pitch_bend_c, 1, 8182
+3, 15111, Pitch_bend_c, 1, 8202
+3, 15117, Pitch_bend_c, 1, 8182
+3, 15123, Pitch_bend_c, 1, 8202
+3, 15161, Pitch_bend_c, 1, 8192
+3, 15162, Note_on_c, 1, 52, 69
+3, 15307, Pitch_bend_c, 1, 8192
+3, 15308, Note_on_c, 1, 59, 64
+3, 15344, Pitch_bend_c, 1, 8192
+3, 15345, Note_on_c, 1, 62, 59
+3, 15378, Note_on_c, 1, 67, 69
+3, 15378, Pitch_bend_c, 1, 8192
+3, 15855, Note_off_c, 1, 52, 0
+3, 15867, Note_off_c, 1, 59, 0
+3, 15875, Note_off_c, 1, 62, 0
+3, 15899, Note_off_c, 1, 67, 0
+3, 16131, Note_on_c, 1, 45, 83
+3, 16131, Pitch_bend_c, 1, 8192
+3, 16132, Pitch_bend_c, 1, 8202
+3, 16138, Pitch_bend_c, 1, 8192
+3, 16142, Pitch_bend_c, 1, 8202
+3, 16150, Pitch_bend_c, 1, 8192
+3, 16158, Pitch_bend_c, 1, 8202
+3, 16166, Pitch_bend_c, 1, 8192
+3, 16175, Pitch_bend_c, 1, 8202
+3, 16284, Pitch_bend_c, 1, 8192
+3, 16288, Pitch_bend_c, 1, 8202
+3, 16293, Pitch_bend_c, 1, 8192
+3, 16296, Pitch_bend_c, 1, 8202
+3, 16301, Pitch_bend_c, 1, 8192
+3, 16304, Pitch_bend_c, 1, 8202
+3, 16308, Note_on_c, 1, 57, 73
+3, 16308, Pitch_bend_c, 1, 8192
+3, 16479, Note_on_c, 1, 61, 60
+3, 16479, Pitch_bend_c, 1, 8192
+3, 16499, Note_on_c, 1, 66, 77
+3, 16499, Pitch_bend_c, 1, 8192
+3, 16540, Pitch_bend_c, 1, 8192
+3, 17050, Note_off_c, 1, 57, 0
+3, 17066, Note_off_c, 1, 66, 0
+3, 17079, Note_off_c, 1, 61, 0
+3, 17132, Note_off_c, 1, 45, 0
+3, 17229, Note_off_c, 1, 40, 0
+3, 17340, Note_on_c, 1, 40, 63
+3, 17340, Pitch_bend_c, 1, 8192
+3, 17341, Pitch_bend_c, 1, 8144
+3, 17341, Pitch_bend_c, 1, 8202
+3, 17346, Pitch_bend_c, 1, 8160
+3, 17384, Pitch_bend_c, 1, 8182
+3, 17492, Pitch_bend_c, 1, 8192
+3, 17493, Note_on_c, 1, 52, 70
+3, 17646, Note_on_c, 1, 59, 66
+3, 17646, Pitch_bend_c, 1, 8192
+3, 17681, Note_on_c, 1, 62, 61
+3, 17681, Pitch_bend_c, 1, 8192
+3, 17722, Note_on_c, 1, 67, 71
+3, 17722, Pitch_bend_c, 1, 8192
+3, 18081, Note_off_c, 1, 52, 0
+3, 18212, Note_off_c, 1, 59, 0
+3, 18230, Note_off_c, 1, 62, 0
+3, 18254, Note_off_c, 1, 67, 0
+3, 18443, Pitch_bend_c, 1, 8192
+3, 18444, Note_on_c, 1, 45, 70
+3, 18609, Note_on_c, 1, 57, 71
+3, 18609, Pitch_bend_c, 1, 8192
+3, 18776, Pitch_bend_c, 1, 8192
+3, 18777, Note_on_c, 1, 61, 59
+3, 18792, Pitch_bend_c, 1, 8192
+3, 18793, Note_on_c, 1, 66, 71
+3, 18814, Pitch_bend_c, 1, 8192
+3, 19305, Note_off_c, 1, 45, 0
+3, 19335, Note_off_c, 1, 57, 0
+3, 19337, Note_off_c, 1, 66, 0
+3, 19354, Note_off_c, 1, 61, 0
+3, 19398, Note_off_c, 1, 40, 0
+3, 19605, Pitch_bend_c, 1, 8192
+3, 19606, Pitch_bend_c, 1, 8144
+3, 19606, Pitch_bend_c, 1, 8202
+3, 19606, Note_on_c, 1, 40, 62
+3, 19611, Pitch_bend_c, 1, 8182
+3, 19633, Pitch_bend_c, 1, 8160
+3, 19648, Pitch_bend_c, 1, 8182
+3, 19681, Pitch_bend_c, 1, 8202
+3, 19692, Pitch_bend_c, 1, 8182
+3, 19708, Pitch_bend_c, 1, 8202
+3, 19713, Pitch_bend_c, 1, 8182
+3, 19719, Pitch_bend_c, 1, 8202
+3, 19725, Pitch_bend_c, 1, 8182
+3, 19731, Pitch_bend_c, 1, 8202
+3, 19769, Pitch_bend_c, 1, 8192
+3, 19770, Note_on_c, 1, 52, 69
+3, 19915, Pitch_bend_c, 1, 8192
+3, 19916, Note_on_c, 1, 59, 64
+3, 19952, Pitch_bend_c, 1, 8192
+3, 19953, Note_on_c, 1, 62, 59
+3, 19986, Note_on_c, 1, 67, 69
+3, 19986, Pitch_bend_c, 1, 8192
+3, 20463, Note_off_c, 1, 52, 0
+3, 20475, Note_off_c, 1, 59, 0
+3, 20483, Note_off_c, 1, 62, 0
+3, 20507, Note_off_c, 1, 67, 0
+3, 21837, Note_off_c, 1, 40, 0
+3, 23053, Note_on_c, 1, 45, 74
+3, 23235, Note_on_c, 1, 57, 69
+3, 23403, Note_on_c, 1, 61, 59
+3, 23408, Note_off_c, 1, 57, 0
+3, 23411, Note_on_c, 1, 57, 59
+3, 23435, Note_on_c, 1, 66, 70
+3, 23458, Note_off_c, 1, 45, 0
+3, 23460, Note_on_c, 1, 64, 62
+3, 23751, Note_off_c, 1, 57, 0
+3, 24230, Note_on_c, 1, 45, 85
+3, 24399, Note_on_c, 1, 57, 73
+3, 24405, Note_off_c, 1, 61, 0
+3, 24571, Note_off_c, 1, 66, 0
+3, 24576, Note_on_c, 1, 61, 66
+3, 24582, Note_on_c, 1, 66, 96
+3, 24675, Note_off_c, 1, 57, 0
+3, 24683, Note_off_c, 1, 66, 0
+3, 24685, Note_off_c, 1, 61, 0
+3, 24712, Note_off_c, 1, 64, 0
+3, 24733, Note_off_c, 1, 45, 0
+3, 38019, Note_on_c, 1, 45, 83
+3, 38019, Pitch_bend_c, 1, 8192
+3, 38020, Pitch_bend_c, 1, 8202
+3, 38026, Pitch_bend_c, 1, 8192
+3, 38030, Pitch_bend_c, 1, 8202
+3, 38038, Pitch_bend_c, 1, 8192
+3, 38046, Pitch_bend_c, 1, 8202
+3, 38054, Pitch_bend_c, 1, 8192
+3, 38063, Pitch_bend_c, 1, 8202
+3, 38172, Pitch_bend_c, 1, 8192
+3, 38176, Pitch_bend_c, 1, 8202
+3, 38181, Pitch_bend_c, 1, 8192
+3, 38184, Pitch_bend_c, 1, 8202
+3, 38189, Pitch_bend_c, 1, 8192
+3, 38192, Pitch_bend_c, 1, 8202
+3, 38196, Note_on_c, 1, 57, 73
+3, 38196, Pitch_bend_c, 1, 8192
+3, 38367, Note_on_c, 1, 61, 60
+3, 38367, Pitch_bend_c, 1, 8192
+3, 38387, Note_on_c, 1, 66, 77
+3, 38387, Pitch_bend_c, 1, 8192
+3, 38428, Pitch_bend_c, 1, 8192
+3, 38938, Note_off_c, 1, 57, 0
+3, 38954, Note_off_c, 1, 66, 0
+3, 38967, Note_off_c, 1, 61, 0
+3, 39020, Note_off_c, 1, 45, 0
+3, 39228, Note_on_c, 1, 40, 63
+3, 39228, Pitch_bend_c, 1, 8192
+3, 39229, Pitch_bend_c, 1, 8144
+3, 39229, Pitch_bend_c, 1, 8202
+3, 39234, Pitch_bend_c, 1, 8160
+3, 39272, Pitch_bend_c, 1, 8182
+3, 39380, Pitch_bend_c, 1, 8192
+3, 39381, Note_on_c, 1, 52, 70
+3, 39534, Note_on_c, 1, 59, 66
+3, 39534, Pitch_bend_c, 1, 8192
+3, 39569, Note_on_c, 1, 62, 61
+3, 39569, Pitch_bend_c, 1, 8192
+3, 39610, Note_on_c, 1, 67, 71
+3, 39610, Pitch_bend_c, 1, 8192
+3, 39969, Note_off_c, 1, 52, 0
+3, 40100, Note_off_c, 1, 59, 0
+3, 40118, Note_off_c, 1, 62, 0
+3, 40142, Note_off_c, 1, 67, 0
+3, 40331, Pitch_bend_c, 1, 8192
+3, 40332, Note_on_c, 1, 45, 70
+3, 40497, Note_on_c, 1, 57, 71
+3, 40497, Pitch_bend_c, 1, 8192
+3, 40664, Pitch_bend_c, 1, 8192
+3, 40665, Note_on_c, 1, 61, 59
+3, 40680, Pitch_bend_c, 1, 8192
+3, 40681, Note_on_c, 1, 66, 71
+3, 40702, Pitch_bend_c, 1, 8192
+3, 41193, Note_off_c, 1, 45, 0
+3, 41223, Note_off_c, 1, 57, 0
+3, 41225, Note_off_c, 1, 66, 0
+3, 41242, Note_off_c, 1, 61, 0
+3, 41286, Note_off_c, 1, 40, 0
+3, 41493, Pitch_bend_c, 1, 8192
+3, 41494, Pitch_bend_c, 1, 8144
+3, 41494, Pitch_bend_c, 1, 8202
+3, 41494, Note_on_c, 1, 40, 62
+3, 41499, Pitch_bend_c, 1, 8182
+3, 41521, Pitch_bend_c, 1, 8160
+3, 41536, Pitch_bend_c, 1, 8182
+3, 41569, Pitch_bend_c, 1, 8202
+3, 41580, Pitch_bend_c, 1, 8182
+3, 41596, Pitch_bend_c, 1, 8202
+3, 41601, Pitch_bend_c, 1, 8182
+3, 41607, Pitch_bend_c, 1, 8202
+3, 41613, Pitch_bend_c, 1, 8182
+3, 41619, Pitch_bend_c, 1, 8202
+3, 41657, Pitch_bend_c, 1, 8192
+3, 41658, Note_on_c, 1, 52, 69
+3, 41803, Pitch_bend_c, 1, 8192
+3, 41804, Note_on_c, 1, 59, 64
+3, 41840, Pitch_bend_c, 1, 8192
+3, 41841, Note_on_c, 1, 62, 59
+3, 41874, Note_on_c, 1, 67, 69
+3, 41874, Pitch_bend_c, 1, 8192
+3, 42351, Note_off_c, 1, 52, 0
+3, 42363, Note_off_c, 1, 59, 0
+3, 42371, Note_off_c, 1, 62, 0
+3, 42395, Note_off_c, 1, 67, 0
+3, 42627, Note_on_c, 1, 45, 83
+3, 42627, Pitch_bend_c, 1, 8192
+3, 42628, Pitch_bend_c, 1, 8202
+3, 42634, Pitch_bend_c, 1, 8192
+3, 42638, Pitch_bend_c, 1, 8202
+3, 42646, Pitch_bend_c, 1, 8192
+3, 42654, Pitch_bend_c, 1, 8202
+3, 42662, Pitch_bend_c, 1, 8192
+3, 42671, Pitch_bend_c, 1, 8202
+3, 42780, Pitch_bend_c, 1, 8192
+3, 42784, Pitch_bend_c, 1, 8202
+3, 42789, Pitch_bend_c, 1, 8192
+3, 42792, Pitch_bend_c, 1, 8202
+3, 42797, Pitch_bend_c, 1, 8192
+3, 42800, Pitch_bend_c, 1, 8202
+3, 42804, Note_on_c, 1, 57, 73
+3, 42804, Pitch_bend_c, 1, 8192
+3, 42975, Note_on_c, 1, 61, 60
+3, 42975, Pitch_bend_c, 1, 8192
+3, 42995, Note_on_c, 1, 66, 77
+3, 42995, Pitch_bend_c, 1, 8192
+3, 43036, Pitch_bend_c, 1, 8192
+3, 43546, Note_off_c, 1, 57, 0
+3, 43562, Note_off_c, 1, 66, 0
+3, 43575, Note_off_c, 1, 61, 0
+3, 43628, Note_off_c, 1, 45, 0
+3, 43725, Note_off_c, 1, 40, 0
+3, 43836, Note_on_c, 1, 40, 63
+3, 43836, Pitch_bend_c, 1, 8192
+3, 43837, Pitch_bend_c, 1, 8144
+3, 43837, Pitch_bend_c, 1, 8202
+3, 43842, Pitch_bend_c, 1, 8160
+3, 43880, Pitch_bend_c, 1, 8182
+3, 43988, Pitch_bend_c, 1, 8192
+3, 43989, Note_on_c, 1, 52, 70
+3, 44142, Note_on_c, 1, 59, 66
+3, 44142, Pitch_bend_c, 1, 8192
+3, 44177, Note_on_c, 1, 62, 61
+3, 44177, Pitch_bend_c, 1, 8192
+3, 44218, Note_on_c, 1, 67, 71
+3, 44218, Pitch_bend_c, 1, 8192
+3, 44577, Note_off_c, 1, 52, 0
+3, 44708, Note_off_c, 1, 59, 0
+3, 44726, Note_off_c, 1, 62, 0
+3, 44750, Note_off_c, 1, 67, 0
+3, 44939, Pitch_bend_c, 1, 8192
+3, 44940, Note_on_c, 1, 45, 70
+3, 45105, Note_on_c, 1, 57, 71
+3, 45105, Pitch_bend_c, 1, 8192
+3, 45272, Pitch_bend_c, 1, 8192
+3, 45273, Note_on_c, 1, 61, 59
+3, 45288, Pitch_bend_c, 1, 8192
+3, 45289, Note_on_c, 1, 66, 71
+3, 45310, Pitch_bend_c, 1, 8192
+3, 45801, Note_off_c, 1, 45, 0
+3, 45831, Note_off_c, 1, 57, 0
+3, 45833, Note_off_c, 1, 66, 0
+3, 45850, Note_off_c, 1, 61, 0
+3, 45894, Note_off_c, 1, 40, 0
+3, 46101, Pitch_bend_c, 1, 8192
+3, 46102, Pitch_bend_c, 1, 8144
+3, 46102, Pitch_bend_c, 1, 8202
+3, 46102, Note_on_c, 1, 40, 62
+3, 46107, Pitch_bend_c, 1, 8182
+3, 46129, Pitch_bend_c, 1, 8160
+3, 46144, Pitch_bend_c, 1, 8182
+3, 46177, Pitch_bend_c, 1, 8202
+3, 46188, Pitch_bend_c, 1, 8182
+3, 46204, Pitch_bend_c, 1, 8202
+3, 46209, Pitch_bend_c, 1, 8182
+3, 46215, Pitch_bend_c, 1, 8202
+3, 46221, Pitch_bend_c, 1, 8182
+3, 46227, Pitch_bend_c, 1, 8202
+3, 46265, Pitch_bend_c, 1, 8192
+3, 46266, Note_on_c, 1, 52, 69
+3, 46411, Pitch_bend_c, 1, 8192
+3, 46412, Note_on_c, 1, 59, 64
+3, 46448, Pitch_bend_c, 1, 8192
+3, 46449, Note_on_c, 1, 62, 59
+3, 46482, Note_on_c, 1, 67, 69
+3, 46482, Pitch_bend_c, 1, 8192
+3, 46959, Note_off_c, 1, 52, 0
+3, 46971, Note_off_c, 1, 59, 0
+3, 46979, Note_off_c, 1, 62, 0
+3, 47003, Note_off_c, 1, 67, 0
+3, 48333, Note_off_c, 1, 40, 0
+3, 49539, Note_on_c, 1, 45, 83
+3, 49539, Pitch_bend_c, 1, 8192
+3, 49540, Pitch_bend_c, 1, 8202
+3, 49546, Pitch_bend_c, 1, 8192
+3, 49550, Pitch_bend_c, 1, 8202
+3, 49558, Pitch_bend_c, 1, 8192
+3, 49566, Pitch_bend_c, 1, 8202
+3, 49574, Pitch_bend_c, 1, 8192
+3, 49583, Pitch_bend_c, 1, 8202
+3, 49692, Pitch_bend_c, 1, 8192
+3, 49696, Pitch_bend_c, 1, 8202
+3, 49701, Pitch_bend_c, 1, 8192
+3, 49704, Pitch_bend_c, 1, 8202
+3, 49709, Pitch_bend_c, 1, 8192
+3, 49712, Pitch_bend_c, 1, 8202
+3, 49716, Note_on_c, 1, 57, 73
+3, 49716, Pitch_bend_c, 1, 8192
+3, 49887, Note_on_c, 1, 61, 60
+3, 49887, Pitch_bend_c, 1, 8192
+3, 49907, Note_on_c, 1, 66, 77
+3, 49907, Pitch_bend_c, 1, 8192
+3, 49948, Pitch_bend_c, 1, 8192
+3, 50458, Note_off_c, 1, 57, 0
+3, 50474, Note_off_c, 1, 66, 0
+3, 50487, Note_off_c, 1, 61, 0
+3, 50540, Note_off_c, 1, 45, 0
+3, 50748, Note_on_c, 1, 40, 63
+3, 50748, Pitch_bend_c, 1, 8192
+3, 50749, Pitch_bend_c, 1, 8144
+3, 50749, Pitch_bend_c, 1, 8202
+3, 50754, Pitch_bend_c, 1, 8160
+3, 50792, Pitch_bend_c, 1, 8182
+3, 50900, Pitch_bend_c, 1, 8192
+3, 50901, Note_on_c, 1, 52, 70
+3, 51054, Note_on_c, 1, 59, 66
+3, 51054, Pitch_bend_c, 1, 8192
+3, 51089, Note_on_c, 1, 62, 61
+3, 51089, Pitch_bend_c, 1, 8192
+3, 51130, Note_on_c, 1, 67, 71
+3, 51130, Pitch_bend_c, 1, 8192
+3, 51489, Note_off_c, 1, 52, 0
+3, 51620, Note_off_c, 1, 59, 0
+3, 51638, Note_off_c, 1, 62, 0
+3, 51662, Note_off_c, 1, 67, 0
+3, 51851, Pitch_bend_c, 1, 8192
+3, 51852, Note_on_c, 1, 45, 70
+3, 52017, Note_on_c, 1, 57, 71
+3, 52017, Pitch_bend_c, 1, 8192
+3, 52184, Pitch_bend_c, 1, 8192
+3, 52185, Note_on_c, 1, 61, 59
+3, 52200, Pitch_bend_c, 1, 8192
+3, 52201, Note_on_c, 1, 66, 71
+3, 52222, Pitch_bend_c, 1, 8192
+3, 52713, Note_off_c, 1, 45, 0
+3, 52743, Note_off_c, 1, 57, 0
+3, 52745, Note_off_c, 1, 66, 0
+3, 52762, Note_off_c, 1, 61, 0
+3, 52806, Note_off_c, 1, 40, 0
+3, 53013, Pitch_bend_c, 1, 8192
+3, 53014, Pitch_bend_c, 1, 8144
+3, 53014, Pitch_bend_c, 1, 8202
+3, 53014, Note_on_c, 1, 40, 62
+3, 53019, Pitch_bend_c, 1, 8182
+3, 53041, Pitch_bend_c, 1, 8160
+3, 53056, Pitch_bend_c, 1, 8182
+3, 53089, Pitch_bend_c, 1, 8202
+3, 53100, Pitch_bend_c, 1, 8182
+3, 53116, Pitch_bend_c, 1, 8202
+3, 53121, Pitch_bend_c, 1, 8182
+3, 53127, Pitch_bend_c, 1, 8202
+3, 53133, Pitch_bend_c, 1, 8182
+3, 53139, Pitch_bend_c, 1, 8202
+3, 53177, Pitch_bend_c, 1, 8192
+3, 53178, Note_on_c, 1, 52, 69
+3, 53323, Pitch_bend_c, 1, 8192
+3, 53324, Note_on_c, 1, 59, 64
+3, 53360, Pitch_bend_c, 1, 8192
+3, 53361, Note_on_c, 1, 62, 59
+3, 53394, Note_on_c, 1, 67, 69
+3, 53394, Pitch_bend_c, 1, 8192
+3, 53871, Note_off_c, 1, 52, 0
+3, 53883, Note_off_c, 1, 59, 0
+3, 53891, Note_off_c, 1, 62, 0
+3, 53915, Note_off_c, 1, 67, 0
+3, 54147, Note_on_c, 1, 45, 83
+3, 54147, Pitch_bend_c, 1, 8192
+3, 54148, Pitch_bend_c, 1, 8202
+3, 54154, Pitch_bend_c, 1, 8192
+3, 54158, Pitch_bend_c, 1, 8202
+3, 54166, Pitch_bend_c, 1, 8192
+3, 54174, Pitch_bend_c, 1, 8202
+3, 54182, Pitch_bend_c, 1, 8192
+3, 54191, Pitch_bend_c, 1, 8202
+3, 54300, Pitch_bend_c, 1, 8192
+3, 54304, Pitch_bend_c, 1, 8202
+3, 54309, Pitch_bend_c, 1, 8192
+3, 54312, Pitch_bend_c, 1, 8202
+3, 54317, Pitch_bend_c, 1, 8192
+3, 54320, Pitch_bend_c, 1, 8202
+3, 54324, Note_on_c, 1, 57, 73
+3, 54324, Pitch_bend_c, 1, 8192
+3, 54495, Note_on_c, 1, 61, 60
+3, 54495, Pitch_bend_c, 1, 8192
+3, 54515, Note_on_c, 1, 66, 77
+3, 54515, Pitch_bend_c, 1, 8192
+3, 54556, Pitch_bend_c, 1, 8192
+3, 55066, Note_off_c, 1, 57, 0
+3, 55082, Note_off_c, 1, 66, 0
+3, 55095, Note_off_c, 1, 61, 0
+3, 55148, Note_off_c, 1, 45, 0
+3, 55245, Note_off_c, 1, 40, 0
+3, 55356, Note_on_c, 1, 40, 63
+3, 55356, Pitch_bend_c, 1, 8192
+3, 55357, Pitch_bend_c, 1, 8144
+3, 55357, Pitch_bend_c, 1, 8202
+3, 55362, Pitch_bend_c, 1, 8160
+3, 55400, Pitch_bend_c, 1, 8182
+3, 55508, Pitch_bend_c, 1, 8192
+3, 55509, Note_on_c, 1, 52, 70
+3, 55662, Note_on_c, 1, 59, 66
+3, 55662, Pitch_bend_c, 1, 8192
+3, 55697, Note_on_c, 1, 62, 61
+3, 55697, Pitch_bend_c, 1, 8192
+3, 55738, Note_on_c, 1, 67, 71
+3, 55738, Pitch_bend_c, 1, 8192
+3, 56097, Note_off_c, 1, 52, 0
+3, 56228, Note_off_c, 1, 59, 0
+3, 56246, Note_off_c, 1, 62, 0
+3, 56270, Note_off_c, 1, 67, 0
+3, 56459, Pitch_bend_c, 1, 8192
+3, 56460, Note_on_c, 1, 45, 70
+3, 56625, Note_on_c, 1, 57, 71
+3, 56625, Pitch_bend_c, 1, 8192
+3, 56792, Pitch_bend_c, 1, 8192
+3, 56793, Note_on_c, 1, 61, 59
+3, 56808, Pitch_bend_c, 1, 8192
+3, 56809, Note_on_c, 1, 66, 71
+3, 56830, Pitch_bend_c, 1, 8192
+3, 57321, Note_off_c, 1, 45, 0
+3, 57351, Note_off_c, 1, 57, 0
+3, 57353, Note_off_c, 1, 66, 0
+3, 57370, Note_off_c, 1, 61, 0
+3, 57414, Note_off_c, 1, 40, 0
+3, 57621, Pitch_bend_c, 1, 8192
+3, 57622, Pitch_bend_c, 1, 8144
+3, 57622, Pitch_bend_c, 1, 8202
+3, 57622, Note_on_c, 1, 40, 62
+3, 57627, Pitch_bend_c, 1, 8182
+3, 57649, Pitch_bend_c, 1, 8160
+3, 57664, Pitch_bend_c, 1, 8182
+3, 57697, Pitch_bend_c, 1, 8202
+3, 57708, Pitch_bend_c, 1, 8182
+3, 57724, Pitch_bend_c, 1, 8202
+3, 57729, Pitch_bend_c, 1, 8182
+3, 57735, Pitch_bend_c, 1, 8202
+3, 57741, Pitch_bend_c, 1, 8182
+3, 57747, Pitch_bend_c, 1, 8202
+3, 57785, Pitch_bend_c, 1, 8192
+3, 57786, Note_on_c, 1, 52, 69
+3, 57931, Pitch_bend_c, 1, 8192
+3, 57932, Note_on_c, 1, 59, 64
+3, 57968, Pitch_bend_c, 1, 8192
+3, 57969, Note_on_c, 1, 62, 59
+3, 58002, Note_on_c, 1, 67, 69
+3, 58002, Pitch_bend_c, 1, 8192
+3, 58479, Note_off_c, 1, 52, 0
+3, 58491, Note_off_c, 1, 59, 0
+3, 58499, Note_off_c, 1, 62, 0
+3, 58523, Note_off_c, 1, 67, 0
+3, 59853, Note_off_c, 1, 40, 0
+3, 61069, Note_on_c, 1, 45, 74
+3, 61251, Note_on_c, 1, 57, 69
+3, 61419, Note_on_c, 1, 61, 59
+3, 61424, Note_off_c, 1, 57, 0
+3, 61427, Note_on_c, 1, 57, 59
+3, 61451, Note_on_c, 1, 66, 70
+3, 61474, Note_off_c, 1, 45, 0
+3, 61476, Note_on_c, 1, 64, 62
+3, 61767, Note_off_c, 1, 57, 0
+3, 62246, Note_on_c, 1, 45, 85
+3, 62415, Note_on_c, 1, 57, 73
+3, 62421, Note_off_c, 1, 61, 0
+3, 62587, Note_off_c, 1, 66, 0
+3, 62592, Note_on_c, 1, 61, 66
+3, 62598, Note_on_c, 1, 66, 96
+3, 62691, Note_off_c, 1, 57, 0
+3, 62699, Note_off_c, 1, 66, 0
+3, 62701, Note_off_c, 1, 61, 0
+3, 62728, Note_off_c, 1, 64, 0
+3, 62749, Note_off_c, 1, 45, 0
+3, 63340, End_track
+4, 0, Start_track
+4, 0, Title_t, "Guitar"
+4, 20781, Note_on_c, 1, 40, 60
+4, 20958, Note_on_c, 1, 47, 67
+4, 21104, Note_on_c, 1, 52, 62
+4, 21133, Note_on_c, 1, 55, 57
+4, 21148, Note_on_c, 1, 62, 66
+4, 21173, Note_on_c, 1, 64, 63
+4, 21451, Note_off_c, 1, 47, 0
+4, 21884, Note_off_c, 1, 40, 0
+4, 21908, Note_on_c, 1, 40, 60
+4, 21968, Note_off_c, 1, 64, 0
+4, 22089, Note_on_c, 1, 47, 66
+4, 22104, Note_off_c, 1, 62, 0
+4, 22105, Note_off_c, 1, 52, 0
+4, 22253, Note_on_c, 1, 52, 64
+4, 22270, Note_off_c, 1, 55, 0
+4, 22278, Note_on_c, 1, 55, 58
+4, 22295, Note_on_c, 1, 62, 69
+4, 22313, Note_on_c, 1, 64, 61
+4, 22483, Note_off_c, 1, 40, 0
+4, 23026, Note_off_c, 1, 64, 0
+4, 23040, Note_off_c, 1, 47, 0
+4, 23041, Note_off_c, 1, 62, 0
+4, 23045, Note_off_c, 1, 55, 0
+4, 23045, Note_off_c, 1, 52, 0
+4, 24877, Note_on_c, 1, 47, 73
+4, 24904, Note_on_c, 1, 54, 76
+4, 24934, Note_on_c, 1, 59, 69
+4, 24964, Note_on_c, 1, 63, 93
+4, 25154, Note_on_c, 1, 66, 77
+4, 25176, Note_off_c, 1, 47, 0
+4, 25221, Note_off_c, 1, 54, 0
+4, 25223, Note_off_c, 1, 66, 0
+4, 25255, Note_off_c, 1, 59, 0
+4, 25265, Note_off_c, 1, 63, 0
+4, 25355, Note_on_c, 1, 43, 62
+4, 25380, Note_on_c, 1, 50, 78
+4, 25391, Note_on_c, 1, 55, 67
+4, 25404, Note_on_c, 1, 59, 85
+4, 25426, Note_on_c, 1, 66, 84
+4, 25878, Note_off_c, 1, 59, 0
+4, 25917, Note_on_c, 1, 59, 73
+4, 25985, Note_off_c, 1, 43, 0
+4, 25988, Note_off_c, 1, 66, 0
+4, 26054, Note_off_c, 1, 55, 0
+4, 26057, Note_off_c, 1, 50, 0
+4, 26062, Note_off_c, 1, 59, 0
+4, 26098, Note_on_c, 1, 45, 69
+4, 26130, Note_on_c, 1, 52, 76
+4, 26144, Note_on_c, 1, 57, 70
+4, 26162, Note_on_c, 1, 61, 100
+4, 26187, Note_on_c, 1, 64, 74
+4, 26290, Note_off_c, 1, 45, 0
+4, 26319, Note_off_c, 1, 64, 0
+4, 26356, Note_on_c, 1, 64, 83
+4, 26577, Note_on_c, 1, 42, 91
+4, 26735, Note_off_c, 1, 52, 0
+4, 26748, Note_on_c, 1, 49, 95
+4, 26909, Note_on_c, 1, 54, 103
+4, 27007, Note_off_c, 1, 61, 0
+4, 27085, Note_on_c, 1, 57, 87
+4, 27100, Note_off_c, 1, 57, 0
+4, 27112, Note_off_c, 1, 64, 0
+4, 27264, Note_off_c, 1, 49, 0
+4, 27266, Note_on_c, 1, 61, 103
+4, 27460, Note_on_c, 1, 57, 83
+4, 27463, Note_off_c, 1, 54, 0
+4, 27552, Note_off_c, 1, 57, 0
+4, 27619, Note_off_c, 1, 42, 0
+4, 27660, Note_on_c, 1, 42, 91
+4, 27856, Note_on_c, 1, 49, 99
+4, 28046, Note_on_c, 1, 54, 95
+4, 28224, Note_off_c, 1, 57, 0
+4, 28236, Note_on_c, 1, 57, 83
+4, 28238, Note_off_c, 1, 61, 0
+4, 28436, Note_on_c, 1, 61, 76
+4, 28608, Note_off_c, 1, 57, 0
+4, 28627, Note_on_c, 1, 57, 87
+4, 28716, Note_off_c, 1, 57, 0
+4, 28726, Note_off_c, 1, 61, 0
+4, 28730, Note_off_c, 1, 49, 0
+4, 28734, Note_off_c, 1, 54, 0
+4, 28738, Note_off_c, 1, 42, 0
+4, 28829, Note_on_c, 1, 45, 83
+4, 29006, Note_on_c, 1, 54, 95
+4, 29194, Note_on_c, 1, 59, 64
+4, 29280, Note_off_c, 1, 45, 0
+4, 29382, Note_on_c, 1, 63, 74
+4, 29578, Note_on_c, 1, 68, 83
+4, 29677, Note_off_c, 1, 54, 0
+4, 29740, Note_off_c, 1, 63, 0
+4, 29769, Note_on_c, 1, 63, 74
+4, 29842, Note_off_c, 1, 68, 0
+4, 29855, Note_off_c, 1, 59, 0
+4, 29864, Note_off_c, 1, 63, 0
+4, 29968, Note_on_c, 1, 45, 79
+4, 30152, Note_on_c, 1, 57, 76
+4, 30335, Note_on_c, 1, 62, 66
+4, 30521, Note_on_c, 1, 66, 77
+4, 30723, Note_on_c, 1, 71, 69
+4, 30885, Note_off_c, 1, 45, 0
+4, 31007, Note_off_c, 1, 57, 0
+4, 31009, Note_off_c, 1, 66, 0
+4, 31019, Note_off_c, 1, 71, 0
+4, 31031, Note_off_c, 1, 62, 0
+4, 31122, Note_on_c, 1, 45, 77
+4, 31296, Note_on_c, 1, 57, 69
+4, 31488, Note_off_c, 1, 57, 0
+4, 31491, Note_on_c, 1, 62, 64
+4, 31686, Note_on_c, 1, 66, 74
+4, 31907, Note_on_c, 1, 69, 69
+4, 32057, Note_off_c, 1, 66, 0
+4, 32083, Note_on_c, 1, 66, 87
+4, 32251, Note_off_c, 1, 45, 0
+4, 32279, Note_on_c, 1, 45, 74
+4, 32453, Note_on_c, 1, 57, 74
+4, 32554, Note_off_c, 1, 62, 0
+4, 32647, Note_on_c, 1, 62, 65
+4, 32736, Note_off_c, 1, 66, 0
+4, 32846, Note_on_c, 1, 66, 78
+4, 32849, Note_off_c, 1, 69, 0
+4, 33037, Note_on_c, 1, 69, 72
+4, 33200, Note_off_c, 1, 66, 0
+4, 33200, Note_off_c, 1, 57, 0
+4, 33223, Note_on_c, 1, 66, 80
+4, 33253, Note_off_c, 1, 69, 0
+4, 33294, Note_off_c, 1, 66, 0
+4, 33303, Note_off_c, 1, 62, 0
+4, 33397, Note_off_c, 1, 45, 0
+4, 33443, Note_on_c, 1, 47, 58
+4, 33610, Note_on_c, 1, 54, 77
+4, 33800, Note_on_c, 1, 59, 77
+4, 33985, Note_on_c, 1, 63, 63
+4, 34201, Note_on_c, 1, 66, 71
+4, 34359, Note_off_c, 1, 63, 0
+4, 34394, Note_on_c, 1, 63, 60
+4, 34528, Note_off_c, 1, 59, 0
+4, 34548, Note_off_c, 1, 66, 0
+4, 34550, Note_on_c, 1, 59, 67
+4, 34554, Note_off_c, 1, 63, 0
+4, 34577, Note_on_c, 1, 63, 62
+4, 34607, Note_on_c, 1, 66, 80
+4, 34638, Note_on_c, 1, 71, 74
+4, 34792, Note_off_c, 1, 47, 0
+4, 35634, Note_off_c, 1, 54, 0
+4, 35652, Note_off_c, 1, 66, 0
+4, 35694, Note_off_c, 1, 71, 0
+4, 35698, Note_off_c, 1, 59, 0
+4, 35734, Note_off_c, 1, 63, 0
+4, 35757, Note_on_c, 1, 40, 60
+4, 35934, Note_on_c, 1, 47, 67
+4, 36080, Note_on_c, 1, 52, 62
+4, 36109, Note_on_c, 1, 55, 57
+4, 36124, Note_on_c, 1, 62, 66
+4, 36149, Note_on_c, 1, 64, 63
+4, 36427, Note_off_c, 1, 47, 0
+4, 36860, Note_off_c, 1, 40, 0
+4, 36884, Note_on_c, 1, 40, 60
+4, 36944, Note_off_c, 1, 64, 0
+4, 37065, Note_on_c, 1, 47, 66
+4, 37080, Note_off_c, 1, 62, 0
+4, 37081, Note_off_c, 1, 52, 0
+4, 37229, Note_on_c, 1, 52, 64
+4, 37246, Note_off_c, 1, 55, 0
+4, 37254, Note_on_c, 1, 55, 58
+4, 37271, Note_on_c, 1, 62, 69
+4, 37289, Note_on_c, 1, 64, 61
+4, 37459, Note_off_c, 1, 40, 0
+4, 38002, Note_off_c, 1, 64, 0
+4, 38016, Note_off_c, 1, 47, 0
+4, 38017, Note_off_c, 1, 62, 0
+4, 38021, Note_off_c, 1, 55, 0
+4, 38021, Note_off_c, 1, 52, 0
+4, 47277, Note_on_c, 1, 40, 60
+4, 47454, Note_on_c, 1, 47, 67
+4, 47600, Note_on_c, 1, 52, 62
+4, 47629, Note_on_c, 1, 55, 57
+4, 47644, Note_on_c, 1, 62, 66
+4, 47669, Note_on_c, 1, 64, 63
+4, 47947, Note_off_c, 1, 47, 0
+4, 48380, Note_off_c, 1, 40, 0
+4, 48404, Note_on_c, 1, 40, 60
+4, 48464, Note_off_c, 1, 64, 0
+4, 48585, Note_on_c, 1, 47, 66
+4, 48600, Note_off_c, 1, 62, 0
+4, 48601, Note_off_c, 1, 52, 0
+4, 48749, Note_on_c, 1, 52, 64
+4, 48766, Note_off_c, 1, 55, 0
+4, 48774, Note_on_c, 1, 55, 58
+4, 48791, Note_on_c, 1, 62, 69
+4, 48809, Note_on_c, 1, 64, 61
+4, 48979, Note_off_c, 1, 40, 0
+4, 49522, Note_off_c, 1, 64, 0
+4, 49536, Note_off_c, 1, 47, 0
+4, 49537, Note_off_c, 1, 62, 0
+4, 49541, Note_off_c, 1, 55, 0
+4, 49541, Note_off_c, 1, 52, 0
+4, 58797, Note_on_c, 1, 40, 60
+4, 58974, Note_on_c, 1, 47, 67
+4, 59120, Note_on_c, 1, 52, 62
+4, 59149, Note_on_c, 1, 55, 57
+4, 59164, Note_on_c, 1, 62, 66
+4, 59189, Note_on_c, 1, 64, 63
+4, 59467, Note_off_c, 1, 47, 0
+4, 59900, Note_off_c, 1, 40, 0
+4, 59924, Note_on_c, 1, 40, 60
+4, 59984, Note_off_c, 1, 64, 0
+4, 60105, Note_on_c, 1, 47, 66
+4, 60120, Note_off_c, 1, 62, 0
+4, 60121, Note_off_c, 1, 52, 0
+4, 60269, Note_on_c, 1, 52, 64
+4, 60286, Note_off_c, 1, 55, 0
+4, 60294, Note_on_c, 1, 55, 58
+4, 60311, Note_on_c, 1, 62, 69
+4, 60329, Note_on_c, 1, 64, 61
+4, 60499, Note_off_c, 1, 40, 0
+4, 61042, Note_off_c, 1, 64, 0
+4, 61056, Note_off_c, 1, 47, 0
+4, 61057, Note_off_c, 1, 62, 0
+4, 61061, Note_off_c, 1, 55, 0
+4, 61061, Note_off_c, 1, 52, 0
+4, 62893, Note_on_c, 1, 47, 73
+4, 62920, Note_on_c, 1, 54, 76
+4, 62950, Note_on_c, 1, 59, 69
+4, 62980, Note_on_c, 1, 63, 93
+4, 63170, Note_on_c, 1, 66, 77
+4, 63192, Note_off_c, 1, 47, 0
+4, 63237, Note_off_c, 1, 54, 0
+4, 63239, Note_off_c, 1, 66, 0
+4, 63271, Note_off_c, 1, 59, 0
+4, 63281, Note_off_c, 1, 63, 0
+4, 63371, Note_on_c, 1, 43, 62
+4, 63396, Note_on_c, 1, 50, 78
+4, 63407, Note_on_c, 1, 55, 67
+4, 63420, Note_on_c, 1, 59, 85
+4, 63442, Note_on_c, 1, 66, 84
+4, 63894, Note_off_c, 1, 59, 0
+4, 63933, Note_on_c, 1, 59, 73
+4, 64001, Note_off_c, 1, 43, 0
+4, 64004, Note_off_c, 1, 66, 0
+4, 64070, Note_off_c, 1, 55, 0
+4, 64073, Note_off_c, 1, 50, 0
+4, 64078, Note_off_c, 1, 59, 0
+4, 64114, Note_on_c, 1, 45, 69
+4, 64146, Note_on_c, 1, 52, 76
+4, 64160, Note_on_c, 1, 57, 70
+4, 64178, Note_on_c, 1, 61, 100
+4, 64203, Note_on_c, 1, 64, 74
+4, 64306, Note_off_c, 1, 45, 0
+4, 64335, Note_off_c, 1, 64, 0
+4, 64372, Note_on_c, 1, 64, 83
+4, 64593, Note_on_c, 1, 42, 91
+4, 64751, Note_off_c, 1, 52, 0
+4, 64764, Note_on_c, 1, 49, 95
+4, 64925, Note_on_c, 1, 54, 103
+4, 65023, Note_off_c, 1, 61, 0
+4, 65101, Note_on_c, 1, 57, 87
+4, 65116, Note_off_c, 1, 57, 0
+4, 65128, Note_off_c, 1, 64, 0
+4, 65280, Note_off_c, 1, 49, 0
+4, 65282, Note_on_c, 1, 61, 103
+4, 65476, Note_on_c, 1, 57, 83
+4, 65479, Note_off_c, 1, 54, 0
+4, 65568, Note_off_c, 1, 57, 0
+4, 65635, Note_off_c, 1, 42, 0
+4, 65676, Note_on_c, 1, 42, 91
+4, 65872, Note_on_c, 1, 49, 99
+4, 66062, Note_on_c, 1, 54, 95
+4, 66240, Note_off_c, 1, 57, 0
+4, 66252, Note_on_c, 1, 57, 83
+4, 66254, Note_off_c, 1, 61, 0
+4, 66452, Note_on_c, 1, 61, 76
+4, 66624, Note_off_c, 1, 57, 0
+4, 66643, Note_on_c, 1, 57, 87
+4, 66732, Note_off_c, 1, 57, 0
+4, 66742, Note_off_c, 1, 61, 0
+4, 66746, Note_off_c, 1, 49, 0
+4, 66750, Note_off_c, 1, 54, 0
+4, 66754, Note_off_c, 1, 42, 0
+4, 66845, Note_on_c, 1, 45, 83
+4, 67022, Note_on_c, 1, 54, 95
+4, 67210, Note_on_c, 1, 59, 64
+4, 67296, Note_off_c, 1, 45, 0
+4, 67398, Note_on_c, 1, 63, 74
+4, 67594, Note_on_c, 1, 68, 83
+4, 67693, Note_off_c, 1, 54, 0
+4, 67756, Note_off_c, 1, 63, 0
+4, 67785, Note_on_c, 1, 63, 74
+4, 67858, Note_off_c, 1, 68, 0
+4, 67871, Note_off_c, 1, 59, 0
+4, 67880, Note_off_c, 1, 63, 0
+4, 67984, Note_on_c, 1, 45, 79
+4, 68168, Note_on_c, 1, 57, 76
+4, 68351, Note_on_c, 1, 62, 66
+4, 68537, Note_on_c, 1, 66, 77
+4, 68739, Note_on_c, 1, 71, 69
+4, 68901, Note_off_c, 1, 45, 0
+4, 69023, Note_off_c, 1, 57, 0
+4, 69025, Note_off_c, 1, 66, 0
+4, 69035, Note_off_c, 1, 71, 0
+4, 69047, Note_off_c, 1, 62, 0
+4, 69138, Note_on_c, 1, 45, 77
+4, 69312, Note_on_c, 1, 57, 69
+4, 69504, Note_off_c, 1, 57, 0
+4, 69507, Note_on_c, 1, 62, 64
+4, 69702, Note_on_c, 1, 66, 74
+4, 69923, Note_on_c, 1, 69, 69
+4, 70073, Note_off_c, 1, 66, 0
+4, 70099, Note_on_c, 1, 66, 87
+4, 70267, Note_off_c, 1, 45, 0
+4, 70295, Note_on_c, 1, 45, 74
+4, 70469, Note_on_c, 1, 57, 74
+4, 70570, Note_off_c, 1, 62, 0
+4, 70663, Note_on_c, 1, 62, 65
+4, 70752, Note_off_c, 1, 66, 0
+4, 70862, Note_on_c, 1, 66, 78
+4, 70865, Note_off_c, 1, 69, 0
+4, 71053, Note_on_c, 1, 69, 72
+4, 71216, Note_off_c, 1, 66, 0
+4, 71216, Note_off_c, 1, 57, 0
+4, 71239, Note_on_c, 1, 66, 80
+4, 71269, Note_off_c, 1, 69, 0
+4, 71310, Note_off_c, 1, 66, 0
+4, 71319, Note_off_c, 1, 62, 0
+4, 71413, Note_off_c, 1, 45, 0
+4, 71459, Note_on_c, 1, 47, 58
+4, 71626, Note_on_c, 1, 54, 77
+4, 71816, Note_on_c, 1, 59, 77
+4, 72001, Note_on_c, 1, 63, 63
+4, 72217, Note_on_c, 1, 66, 71
+4, 72375, Note_off_c, 1, 63, 0
+4, 72410, Note_on_c, 1, 63, 60
+4, 72544, Note_off_c, 1, 59, 0
+4, 72564, Note_off_c, 1, 66, 0
+4, 72566, Note_on_c, 1, 59, 67
+4, 72570, Note_off_c, 1, 63, 0
+4, 72593, Note_on_c, 1, 63, 62
+4, 72623, Note_on_c, 1, 66, 80
+4, 72654, Note_on_c, 1, 71, 74
+4, 72808, Note_off_c, 1, 47, 0
+4, 73650, Note_off_c, 1, 54, 0
+4, 73714, Note_off_c, 1, 59, 0
+4, 73824, Note_off_c, 1, 71, 0
+4, 73824, Note_off_c, 1, 66, 0
+4, 73824, Note_off_c, 1, 63, 0
+4, 73890, End_track
+0, 0, End_of_file

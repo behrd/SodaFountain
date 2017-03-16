@@ -1,0 +1,4596 @@
+0, 0, Header, 0, 1, 384
+1, 0, Start_track
+1, 0, Title_t, "untitled"
+1, 0, Title_t, "tk1"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, Tempo, 895522
+1, 0, Program_c, 0, 1
+1, 0, Control_c, 0, 7, 110
+1, 0, Control_c, 0, 10, 64
+1, 0, Program_c, 1, 35
+1, 0, Control_c, 1, 7, 112
+1, 0, Control_c, 1, 10, 64
+1, 0, Program_c, 2, 49
+1, 0, Control_c, 2, 7, 100
+1, 0, Control_c, 2, 10, 64
+1, 0, Control_c, 9, 0, 127
+1, 0, Control_c, 9, 7, 115
+1, 0, Control_c, 9, 10, 64
+1, 0, Text_t, "@KMIDI KARAOKE FILE"
+1, 0, Text_t, "@V0100"
+1, 1, Control_c, 9, 32, 0
+1, 2, Program_c, 9, 0
+1, 1045, Marker_t, "\\""Someone "
+1, 1045, Text_t, "\\""Someone "
+1, 1536, Tempo, 895522
+1, 1661, Marker_t, "That "
+1, 1661, Text_t, "That "
+1, 1851, Marker_t, "I "
+1, 1851, Text_t, "I "
+1, 1922, Program_c, 0, 1
+1, 1926, Program_c, 1, 35
+1, 1930, Program_c, 2, 49
+1, 1956, Control_c, 9, 0, 127
+1, 1957, Control_c, 9, 32, 0
+1, 1958, Program_c, 9, 0
+1, 2037, Marker_t, "Used "
+1, 2037, Text_t, "Used "
+1, 2160, Marker_t, "To "
+1, 2160, Text_t, "To "
+1, 2279, Marker_t, "Love"" "
+1, 2279, Text_t, "Love"" "
+1, 2412, Marker_t, "/sung by;nathalie cole"
+1, 2412, Text_t, "/sung by;nathalie cole"
+1, 2534, Marker_t, "/Songwriters: "
+1, 2534, Text_t, "/Songwriters: "
+1, 2713, Marker_t, "Gerry "
+1, 2713, Text_t, "Gerry "
+1, 2823, Marker_t, "Goffin;Michael "
+1, 2823, Text_t, "Goffin;Michael "
+1, 3001, Marker_t, "Masser"
+1, 3001, Text_t, "Masser"
+1, 3398, Marker_t, "/lyrics entered by:jegzlacker  nov 9 2011"
+1, 3398, Text_t, "/lyrics entered by:jegzlacker  nov 9 2011"
+1, 3655, Marker_t, "/cebu city philippine "
+1, 3655, Text_t, "/cebu city philippine "
+1, 4124, Marker_t, "gangmiles@yahoo.com"
+1, 4124, Text_t, "gangmiles@yahoo.com"
+1, 4608, Control_c, 0, 91, 40
+1, 4608, Control_c, 0, 93, 30
+1, 4608, Control_c, 1, 91, 2
+1, 4608, Control_c, 1, 93, 34
+1, 4608, Control_c, 2, 91, 0
+1, 4608, Control_c, 2, 93, 20
+1, 4608, Control_c, 2, 7, 69
+1, 4608, Control_c, 9, 91, 75
+1, 4608, Control_c, 9, 93, 0
+1, 4608, Control_c, 9, 7, 75
+1, 4612, Control_c, 0, 10, 50
+1, 4612, Control_c, 1, 10, 64
+1, 4612, Control_c, 2, 10, 80
+1, 4612, Control_c, 9, 10, 64
+1, 4616, Control_c, 0, 11, 127
+1, 4616, Control_c, 1, 11, 127
+1, 4616, Control_c, 2, 11, 127
+1, 4616, Control_c, 9, 11, 127
+1, 4668, Control_c, 0, 64, 120
+1, 6144, Note_on_c, 9, 42, 80
+1, 6296, Note_on_c, 9, 42, 0
+1, 6528, Note_on_c, 9, 42, 80
+1, 6680, Note_on_c, 9, 42, 0
+1, 6912, Note_on_c, 9, 42, 80
+1, 7064, Note_on_c, 9, 42, 0
+1, 7296, Note_on_c, 9, 42, 80
+1, 7448, Note_on_c, 9, 42, 0
+1, 7488, Note_on_c, 0, 73, 81
+1, 7584, Note_on_c, 0, 74, 80
+1, 7588, Note_on_c, 0, 73, 0
+1, 7680, Note_on_c, 0, 76, 100
+1, 7680, Note_on_c, 0, 64, 81
+1, 7680, Note_on_c, 0, 57, 84
+1, 7680, Note_on_c, 9, 42, 80
+1, 7708, Note_on_c, 0, 74, 0
+1, 7816, Note_on_c, 0, 76, 0
+1, 7832, Note_on_c, 9, 42, 0
+1, 7869, Marker_t, "/- "
+1, 7869, Text_t, "/- [A] "
+1, 7872, Note_on_c, 0, 76, 97
+1, 7912, Note_on_c, 0, 64, 0
+1, 7944, Note_on_c, 0, 76, 0
+1, 7944, Note_on_c, 0, 57, 0
+1, 8064, Note_on_c, 0, 76, 103
+1, 8064, Note_on_c, 0, 64, 70
+1, 8064, Note_on_c, 0, 56, 71
+1, 8064, Note_on_c, 9, 42, 80
+1, 8188, Note_on_c, 0, 76, 0
+1, 8203, Marker_t, "- "
+1, 8203, Text_t, "- "
+1, 8212, Note_on_c, 0, 56, 0
+1, 8216, Note_on_c, 9, 42, 0
+1, 8256, Note_on_c, 0, 64, 0
+1, 8256, Note_on_c, 0, 76, 96
+1, 8328, Note_on_c, 0, 76, 0
+1, 8448, Note_on_c, 0, 55, 64
+1, 8448, Note_on_c, 0, 76, 98
+1, 8448, Note_on_c, 0, 64, 76
+1, 8448, Note_on_c, 9, 42, 80
+1, 8600, Note_on_c, 9, 42, 0
+1, 8620, Note_on_c, 0, 76, 0
+1, 8640, Note_on_c, 0, 78, 81
+1, 8644, Marker_t, "- "
+1, 8644, Text_t, "- "
+1, 8720, Note_on_c, 0, 78, 0
+1, 8736, Note_on_c, 0, 76, 80
+1, 8832, Note_on_c, 0, 74, 80
+1, 8832, Note_on_c, 9, 42, 80
+1, 8840, Note_on_c, 0, 76, 0
+1, 8876, Note_on_c, 0, 64, 0
+1, 8924, Note_on_c, 0, 55, 0
+1, 8984, Note_on_c, 9, 42, 0
+1, 9020, Note_on_c, 0, 74, 0
+1, 9024, Note_on_c, 0, 73, 79
+1, 9063, Marker_t, "- "
+1, 9063, Text_t, "- [A7] "
+1, 9108, Note_on_c, 0, 73, 0
+1, 9216, Note_on_c, 0, 38, 96
+1, 9216, Note_on_c, 0, 73, 90
+1, 9216, Note_on_c, 2, 50, 31
+1, 9216, Note_on_c, 2, 73, 35
+1, 9216, Note_on_c, 9, 42, 80
+1, 9312, Note_on_c, 0, 45, 73
+1, 9368, Note_on_c, 9, 42, 0
+1, 9376, Note_on_c, 0, 45, 0
+1, 9380, Note_on_c, 0, 38, 0
+1, 9408, Note_on_c, 0, 50, 77
+1, 9472, Note_on_c, 0, 73, 0
+1, 9483, Marker_t, "- "
+1, 9483, Text_t, "- "
+1, 9500, Note_on_c, 0, 50, 0
+1, 9504, Note_on_c, 0, 71, 82
+1, 9504, Note_on_c, 0, 52, 80
+1, 9556, Note_on_c, 2, 62, 41
+1, 9564, Note_on_c, 0, 71, 0
+1, 9592, Note_on_c, 0, 52, 0
+1, 9600, Note_on_c, 0, 71, 96
+1, 9600, Note_on_c, 0, 54, 85
+1, 9600, Note_on_c, 9, 42, 80
+1, 9628, Note_on_c, 0, 54, 0
+1, 9752, Note_on_c, 9, 42, 0
+1, 9792, Note_on_c, 0, 69, 82
+1, 9796, Note_on_c, 0, 71, 0
+1, 9845, Marker_t, "- "
+1, 9845, Text_t, "- [D] "
+1, 9876, Note_on_c, 0, 69, 0
+1, 9972, Note_on_c, 2, 71, 65
+1, 9972, Note_on_c, 2, 57, 32
+1, 9984, Note_on_c, 2, 73, 0
+1, 9984, Note_on_c, 0, 50, 90
+1, 9984, Note_on_c, 0, 73, 85
+1, 9984, Note_on_c, 0, 65, 74
+1, 9984, Note_on_c, 9, 42, 80
+1, 10020, Note_on_c, 2, 62, 0
+1, 10080, Note_on_c, 0, 53, 68
+1, 10136, Note_on_c, 9, 42, 0
+1, 10176, Note_on_c, 0, 65, 0
+1, 10176, Note_on_c, 0, 73, 0
+1, 10176, Note_on_c, 0, 62, 87
+1, 10176, Note_on_c, 0, 71, 97
+1, 10227, Marker_t, "- "
+1, 10227, Text_t, "- "
+1, 10368, Note_on_c, 0, 69, 89
+1, 10368, Note_on_c, 9, 42, 80
+1, 10380, Note_on_c, 2, 65, 25
+1, 10388, Note_on_c, 0, 71, 0
+1, 10460, Note_on_c, 0, 53, 0
+1, 10464, Note_on_c, 0, 50, 0
+1, 10520, Note_on_c, 9, 42, 0
+1, 10560, Note_on_c, 0, 68, 95
+1, 10580, Note_on_c, 0, 69, 0
+1, 10597, Marker_t, "- "
+1, 10597, Text_t, "- [Dm] "
+1, 10624, Note_on_c, 0, 62, 0
+1, 10700, Note_on_c, 2, 69, 56
+1, 10708, Note_on_c, 2, 71, 0
+1, 10732, Note_on_c, 2, 50, 0
+1, 10744, Note_on_c, 2, 65, 0
+1, 10752, Note_on_c, 0, 45, 92
+1, 10752, Note_on_c, 0, 69, 98
+1, 10752, Note_on_c, 9, 42, 80
+1, 10768, Note_on_c, 0, 68, 0
+1, 10848, Note_on_c, 0, 52, 92
+1, 10904, Note_on_c, 9, 42, 0
+1, 10944, Note_on_c, 0, 57, 89
+1, 10973, Marker_t, "- "
+1, 10973, Text_t, "- "
+1, 11040, Note_on_c, 0, 59, 54
+1, 11064, Note_on_c, 2, 64, 23
+1, 11136, Note_on_c, 0, 64, 77
+1, 11136, Note_on_c, 9, 42, 80
+1, 11160, Note_on_c, 0, 69, 0
+1, 11256, Note_on_c, 0, 57, 0
+1, 11280, Note_on_c, 0, 52, 0
+1, 11288, Note_on_c, 9, 42, 0
+1, 11292, Note_on_c, 0, 64, 0
+1, 11328, Note_on_c, 0, 69, 101
+1, 11344, Note_on_c, 0, 45, 0
+1, 11350, Marker_t, "- "
+1, 11350, Text_t, "- [A] "
+1, 11372, Note_on_c, 0, 69, 0
+1, 11424, Note_on_c, 0, 69, 115
+1, 11472, Note_on_c, 0, 69, 0
+1, 11484, Note_on_c, 2, 64, 0
+1, 11504, Note_on_c, 0, 59, 0
+1, 11504, Note_on_c, 2, 52, 34
+1, 11520, Note_on_c, 2, 57, 0
+1, 11520, Note_on_c, 0, 69, 122
+1, 11520, Note_on_c, 0, 40, 95
+1, 11520, Note_on_c, 2, 62, 44
+1, 11520, Note_on_c, 9, 42, 80
+1, 11528, Note_on_c, 2, 66, 35
+1, 11616, Note_on_c, 0, 47, 90
+1, 11672, Note_on_c, 9, 42, 0
+1, 11712, Note_on_c, 0, 68, 97
+1, 11712, Note_on_c, 0, 52, 52
+1, 11716, Note_on_c, 0, 69, 0
+1, 11735, Marker_t, "- "
+1, 11735, Text_t, "- "
+1, 11904, Note_on_c, 0, 66, 96
+1, 11904, Note_on_c, 9, 42, 80
+1, 11920, Note_on_c, 0, 68, 0
+1, 12032, Note_on_c, 0, 40, 0
+1, 12040, Note_on_c, 0, 52, 0
+1, 12052, Note_on_c, 0, 47, 0
+1, 12056, Note_on_c, 9, 42, 0
+1, 12092, Note_on_c, 0, 66, 0
+1, 12096, Note_on_c, 0, 68, 91
+1, 12133, Marker_t, "- "
+1, 12133, Text_t, "- [E] "
+1, 12260, Note_on_c, 2, 69, 0
+1, 12260, Note_on_c, 2, 71, 43
+1, 12272, Note_on_c, 0, 68, 0
+1, 12276, Note_on_c, 2, 66, 0
+1, 12288, Note_on_c, 0, 71, 96
+1, 12288, Note_on_c, 0, 45, 91
+1, 12288, Control_c, 0, 64, 0
+1, 12288, Note_on_c, 0, 64, 92
+1, 12288, Control_c, 0, 64, 127
+1, 12288, Note_on_c, 9, 42, 80
+1, 12292, Note_on_c, 2, 52, 0
+1, 12304, Note_on_c, 2, 57, 24
+1, 12304, Note_on_c, 2, 64, 43
+1, 12324, Note_on_c, 2, 62, 0
+1, 12384, Note_on_c, 0, 52, 83
+1, 12440, Note_on_c, 0, 45, 0
+1, 12440, Note_on_c, 9, 42, 0
+1, 12476, Note_on_c, 0, 52, 0
+1, 12480, Note_on_c, 0, 57, 80
+1, 12504, Marker_t, "- "
+1, 12504, Text_t, "- "
+1, 12572, Note_on_c, 0, 57, 0
+1, 12576, Note_on_c, 0, 69, 90
+1, 12576, Note_on_c, 0, 59, 89
+1, 12584, Note_on_c, 0, 64, 0
+1, 12588, Note_on_c, 0, 71, 0
+1, 12636, Note_on_c, 0, 69, 0
+1, 12664, Note_on_c, 2, 69, 51
+1, 12672, Note_on_c, 0, 69, 87
+1, 12672, Note_on_c, 0, 61, 78
+1, 12672, Note_on_c, 9, 42, 80
+1, 12676, Note_on_c, 0, 59, 0
+1, 12680, Note_on_c, 2, 71, 0
+1, 12696, Note_on_c, 0, 61, 0
+1, 12708, Note_on_c, 0, 69, 0
+1, 12805, Marker_t, "- "
+1, 12805, Text_t, "- "
+1, 12824, Note_on_c, 9, 42, 0
+1, 13056, Note_on_c, 9, 42, 80
+1, 13093, Marker_t, "- "
+1, 13093, Text_t, "- [A] "
+1, 13208, Note_on_c, 9, 42, 0
+1, 13298, Marker_t, "-"
+1, 13298, Text_t, "-"
+1, 13440, Note_on_c, 9, 42, 80
+1, 13484, Marker_t, ""
+1, 13580, Note_on_c, 2, 57, 0
+1, 13584, Note_on_c, 2, 64, 0
+1, 13592, Note_on_c, 9, 42, 0
+1, 13600, Note_on_c, 2, 69, 0
+1, 13824, Note_on_c, 0, 52, 65
+1, 13824, Note_on_c, 0, 57, 96
+1, 13824, Note_on_c, 0, 45, 84
+1, 13824, Note_on_c, 0, 59, 99
+1, 13824, Note_on_c, 0, 64, 95
+1, 13824, Note_on_c, 9, 42, 80
+1, 13828, Control_c, 0, 64, 0
+1, 13976, Note_on_c, 9, 42, 0
+1, 14036, Control_c, 0, 64, 127
+1, 14139, Marker_t, "\\When "
+1, 14139, Text_t, "\\When "
+1, 14208, Note_on_c, 9, 42, 80
+1, 14224, Note_on_c, 0, 45, 0
+1, 14225, Marker_t, "I "
+1, 14225, Text_t, "I "
+1, 14328, Marker_t, "wake "
+1, 14328, Text_t, "wake [A] "
+1, 14360, Note_on_c, 9, 42, 0
+1, 14380, Note_on_c, 0, 57, 0
+1, 14400, Note_on_c, 0, 59, 0
+1, 14404, Note_on_c, 0, 64, 0
+1, 14404, Note_on_c, 0, 52, 0
+1, 14443, Marker_t, "up "
+1, 14443, Text_t, "up "
+1, 14564, Note_on_c, 0, 38, 102
+1, 14564, Note_on_c, 0, 57, 113
+1, 14564, Note_on_c, 0, 54, 103
+1, 14564, Note_on_c, 0, 64, 104
+1, 14592, Note_on_c, 9, 42, 80
+1, 14632, Marker_t, "each "
+1, 14632, Text_t, "each "
+1, 14664, Note_on_c, 0, 45, 82
+1, 14744, Note_on_c, 9, 42, 0
+1, 14752, Marker_t, "mor"
+1, 14752, Text_t, "mor"
+1, 14760, Note_on_c, 0, 50, 82
+1, 14796, Note_on_c, 0, 54, 0
+1, 14852, Note_on_c, 0, 54, 69
+1, 14884, Note_on_c, 0, 57, 0
+1, 14918, Marker_t, "ning "
+1, 14918, Text_t, "ning [D] "
+1, 14976, Note_on_c, 9, 42, 80
+1, 14996, Note_on_c, 0, 54, 0
+1, 15036, Note_on_c, 0, 45, 0
+1, 15036, Note_on_c, 0, 64, 0
+1, 15044, Note_on_c, 0, 38, 0
+1, 15052, Note_on_c, 0, 50, 0
+1, 15128, Note_on_c, 9, 42, 0
+1, 15272, Marker_t, "/try"
+1, 15272, Text_t, "/try"
+1, 15328, Note_on_c, 0, 43, 86
+1, 15336, Control_c, 0, 64, 0
+1, 15348, Note_on_c, 0, 62, 105
+1, 15348, Note_on_c, 0, 57, 112
+1, 15360, Control_c, 0, 64, 127
+1, 15360, Note_on_c, 9, 42, 80
+1, 15390, Marker_t, "ing "
+1, 15390, Text_t, "ing "
+1, 15428, Note_on_c, 0, 50, 67
+1, 15470, Marker_t, "to "
+1, 15470, Text_t, "to "
+1, 15512, Note_on_c, 9, 42, 0
+1, 15556, Marker_t, "find "
+1, 15556, Text_t, "find [G] "
+1, 15647, Marker_t, "my"
+1, 15647, Text_t, "my"
+1, 15736, Note_on_c, 0, 57, 0
+1, 15740, Note_on_c, 0, 59, 63
+1, 15744, Note_on_c, 9, 42, 80
+1, 15801, Marker_t, "self"
+1, 15801, Text_t, "self--E"
+1, 15852, Note_on_c, 0, 59, 0
+1, 15852, Note_on_c, 0, 62, 0
+1, 15896, Note_on_c, 9, 42, 0
+1, 15935, Marker_t, ""
+1, 16128, Note_on_c, 9, 42, 80
+1, 16140, Note_on_c, 0, 62, 73
+1, 16140, Note_on_c, 0, 69, 72
+1, 16280, Note_on_c, 9, 42, 0
+1, 16500, Note_on_c, 0, 50, 0
+1, 16512, Note_on_c, 9, 42, 80
+1, 16520, Note_on_c, 0, 43, 0
+1, 16524, Note_on_c, 0, 69, 0
+1, 16528, Note_on_c, 0, 62, 0
+1, 16664, Note_on_c, 9, 42, 0
+1, 16860, Note_on_c, 0, 52, 83
+1, 16876, Note_on_c, 0, 57, 94
+1, 16882, Marker_t, "/And "
+1, 16882, Text_t, "/And "
+1, 16884, Note_on_c, 0, 59, 93
+1, 16884, Note_on_c, 0, 45, 92
+1, 16896, Control_c, 0, 64, 0
+1, 16896, Note_on_c, 9, 42, 80
+1, 16908, Note_on_c, 0, 64, 101
+1, 16966, Marker_t, "if "
+1, 16966, Text_t, "if "
+1, 17048, Note_on_c, 9, 42, 0
+1, 17104, Control_c, 0, 64, 127
+1, 17141, Marker_t, "I'm "
+1, 17141, Text_t, "I'm "
+1, 17253, Marker_t, "e"
+1, 17253, Text_t, "e"
+1, 17280, Note_on_c, 9, 42, 80
+1, 17364, Note_on_c, 0, 52, 0
+1, 17374, Marker_t, "ver "
+1, 17374, Text_t, "ver [A] "
+1, 17384, Note_on_c, 0, 45, 0
+1, 17404, Note_on_c, 0, 57, 0
+1, 17432, Note_on_c, 9, 42, 0
+1, 17440, Note_on_c, 0, 59, 0
+1, 17460, Note_on_c, 0, 64, 0
+1, 17562, Marker_t, "the "
+1, 17562, Text_t, "the "
+1, 17640, Note_on_c, 0, 38, 90
+1, 17640, Note_on_c, 0, 64, 97
+1, 17640, Note_on_c, 0, 54, 94
+1, 17640, Note_on_c, 0, 57, 103
+1, 17656, Control_c, 0, 64, 0
+1, 17664, Note_on_c, 9, 42, 80
+1, 17692, Marker_t, "least "
+1, 17692, Text_t, "least "
+1, 17708, Control_c, 0, 64, 127
+1, 17816, Note_on_c, 9, 42, 0
+1, 17836, Marker_t, "un"
+1, 17836, Text_t, "un"
+1, 17965, Marker_t, "sure, "
+1, 17965, Text_t, "sure, [D] "
+1, 18044, Note_on_c, 0, 38, 0
+1, 18048, Note_on_c, 9, 42, 80
+1, 18136, Note_on_c, 0, 64, 0
+1, 18144, Note_on_c, 0, 57, 0
+1, 18156, Note_on_c, 0, 54, 0
+1, 18200, Note_on_c, 9, 42, 0
+1, 18236, Marker_t, "/I "
+1, 18236, Text_t, "/I "
+1, 18308, Marker_t, "al"
+1, 18308, Text_t, "al"
+1, 18398, Marker_t, "ways "
+1, 18398, Text_t, "ways "
+1, 18408, Note_on_c, 0, 43, 84
+1, 18408, Note_on_c, 0, 57, 105
+1, 18420, Control_c, 0, 64, 0
+1, 18432, Note_on_c, 0, 50, 96
+1, 18432, Note_on_c, 0, 62, 98
+1, 18432, Note_on_c, 9, 42, 80
+1, 18495, Marker_t, "re"
+1, 18495, Text_t, "re"
+1, 18528, Control_c, 0, 64, 127
+1, 18584, Note_on_c, 9, 42, 0
+1, 18597, Marker_t, "mind "
+1, 18597, Text_t, "mind [G] "
+1, 18808, Marker_t, "my"
+1, 18808, Note_on_c, 0, 59, 92
+1, 18808, Text_t, "my"
+1, 18816, Note_on_c, 0, 57, 0
+1, 18816, Note_on_c, 9, 42, 80
+1, 18836, Note_on_c, 0, 62, 0
+1, 18836, Note_on_c, 0, 59, 0
+1, 18967, Marker_t, "self"
+1, 18967, Text_t, "self--[E]"
+1, 18968, Note_on_c, 9, 42, 0
+1, 19104, Marker_t, ""
+1, 19196, Note_on_c, 0, 74, 85
+1, 19200, Note_on_c, 9, 42, 80
+1, 19216, Note_on_c, 0, 74, 0
+1, 19352, Note_on_c, 9, 42, 0
+1, 19584, Note_on_c, 0, 43, 0
+1, 19584, Note_on_c, 9, 42, 80
+1, 19592, Note_on_c, 0, 50, 0
+1, 19736, Note_on_c, 9, 42, 0
+1, 19936, Note_on_c, 0, 45, 96
+1, 19944, Note_on_c, 0, 64, 99
+1, 19968, Note_on_c, 9, 42, 80
+1, 19978, Marker_t, "/Though "
+1, 19978, Text_t, "/Though "
+1, 20028, Note_on_c, 0, 52, 87
+1, 20065, Marker_t, "you're "
+1, 20065, Text_t, "you're "
+1, 20068, Note_on_c, 0, 45, 0
+1, 20108, Note_on_c, 0, 52, 0
+1, 20120, Note_on_c, 9, 42, 0
+1, 20124, Note_on_c, 0, 57, 80
+1, 20209, Marker_t, "some"
+1, 20209, Text_t, "some"
+1, 20228, Note_on_c, 0, 59, 92
+1, 20248, Note_on_c, 0, 57, 0
+1, 20260, Note_on_c, 0, 64, 0
+1, 20320, Note_on_c, 0, 59, 0
+1, 20324, Note_on_c, 0, 64, 90
+1, 20352, Note_on_c, 9, 42, 80
+1, 20416, Marker_t, "one "
+1, 20416, Note_on_c, 0, 69, 91
+1, 20416, Text_t, "one [A] "
+1, 20504, Note_on_c, 9, 42, 0
+1, 20518, Marker_t, "in "
+1, 20518, Text_t, "in "
+1, 20524, Note_on_c, 0, 71, 84
+1, 20532, Note_on_c, 0, 69, 0
+1, 20588, Note_on_c, 0, 64, 0
+1, 20608, Note_on_c, 0, 73, 83
+1, 20616, Note_on_c, 0, 71, 0
+1, 20653, Marker_t, "this "
+1, 20653, Text_t, "this "
+1, 20676, Note_on_c, 0, 73, 0
+1, 20712, Note_on_c, 0, 45, 90
+1, 20712, Note_on_c, 0, 71, 87
+1, 20736, Note_on_c, 9, 42, 80
+1, 20783, Marker_t, "world "
+1, 20783, Text_t, "world [A7] "
+1, 20792, Note_on_c, 0, 45, 0
+1, 20796, Note_on_c, 0, 50, 83
+1, 20888, Note_on_c, 9, 42, 0
+1, 20900, Note_on_c, 0, 55, 71
+1, 20992, Note_on_c, 0, 59, 84
+1, 21096, Note_on_c, 0, 62, 59
+1, 21108, Note_on_c, 0, 59, 0
+1, 21120, Note_on_c, 9, 42, 80
+1, 21128, Note_on_c, 0, 55, 0
+1, 21133, Marker_t, "/that "
+1, 21133, Text_t, "/that "
+1, 21144, Note_on_c, 0, 50, 0
+1, 21241, Marker_t, "I'll "
+1, 21241, Text_t, "I'll "
+1, 21272, Note_on_c, 9, 42, 0
+1, 21351, Marker_t, "al"
+1, 21351, Text_t, "al"
+1, 21380, Note_on_c, 0, 62, 0
+1, 21459, Marker_t, "ways "
+1, 21459, Text_t, "ways "
+1, 21464, Note_on_c, 0, 71, 0
+1, 21476, Note_on_c, 0, 73, 88
+1, 21484, Note_on_c, 0, 38, 88
+1, 21484, Note_on_c, 0, 64, 88
+1, 21496, Note_on_c, 0, 64, 0
+1, 21504, Note_on_c, 9, 42, 80
+1, 21508, Note_on_c, 0, 73, 0
+1, 21564, Note_on_c, 0, 45, 87
+1, 21632, Note_on_c, 0, 38, 0
+1, 21641, Marker_t, "choose "
+1, 21641, Text_t, "choose [D] "
+1, 21652, Note_on_c, 0, 45, 0
+1, 21656, Note_on_c, 9, 42, 0
+1, 21660, Note_on_c, 0, 50, 92
+1, 21756, Note_on_c, 0, 52, 92
+1, 21807, Marker_t, "to "
+1, 21807, Text_t, "to "
+1, 21848, Note_on_c, 0, 54, 89
+1, 21888, Note_on_c, 9, 42, 80
+1, 21896, Note_on_c, 0, 50, 0
+1, 21920, Note_on_c, 0, 52, 0
+1, 21960, Note_on_c, 0, 57, 95
+1, 21987, Marker_t, "love"
+1, 21987, Text_t, "love~~[Dm] "
+1, 22040, Note_on_c, 9, 42, 0
+1, 22072, Note_on_c, 0, 61, 92
+1, 22080, Note_on_c, 0, 57, 0
+1, 22099, Marker_t, ""
+1, 22104, Note_on_c, 0, 54, 0
+1, 22132, Note_on_c, 0, 61, 0
+1, 22252, Note_on_c, 0, 38, 92
+1, 22252, Note_on_c, 0, 53, 88
+1, 22264, Note_on_c, 0, 59, 103
+1, 22272, Note_on_c, 9, 42, 80
+1, 22288, Control_c, 0, 64, 0
+1, 22308, Control_c, 0, 64, 127
+1, 22424, Note_on_c, 9, 42, 0
+1, 22656, Note_on_c, 9, 42, 80
+1, 22668, Note_on_c, 0, 57, 82
+1, 22684, Note_on_c, 0, 59, 0
+1, 22684, Note_on_c, 0, 38, 0
+1, 22692, Note_on_c, 0, 53, 0
+1, 22712, Note_on_c, 0, 57, 0
+1, 22808, Note_on_c, 9, 42, 0
+1, 22872, Marker_t, "/From "
+1, 22872, Text_t, "/From "
+1, 23036, Note_on_c, 0, 64, 79
+1, 23036, Note_on_c, 0, 45, 84
+1, 23040, Note_on_c, 9, 42, 80
+1, 23048, Note_on_c, 0, 57, 71
+1, 23060, Marker_t, "now "
+1, 23060, Text_t, "now "
+1, 23132, Note_on_c, 0, 52, 82
+1, 23168, Note_on_c, 0, 57, 0
+1, 23184, Note_on_c, 0, 45, 0
+1, 23191, Marker_t, "on "
+1, 23191, Text_t, "on [A] "
+1, 23192, Note_on_c, 9, 42, 0
+1, 23196, Note_on_c, 0, 64, 0
+1, 23212, Note_on_c, 0, 52, 0
+1, 23232, Note_on_c, 0, 57, 92
+1, 23320, Note_on_c, 0, 59, 88
+1, 23412, Note_on_c, 0, 57, 0
+1, 23416, Note_on_c, 0, 61, 86
+1, 23424, Note_on_c, 9, 42, 80
+1, 23432, Note_on_c, 0, 59, 0
+1, 23508, Note_on_c, 0, 64, 86
+1, 23576, Note_on_c, 9, 42, 0
+1, 23612, Note_on_c, 0, 69, 85
+1, 23620, Note_on_c, 0, 64, 0
+1, 23648, Note_on_c, 0, 61, 0
+1, 23680, Marker_t, "you're "
+1, 23680, Text_t, "you're "
+1, 23684, Note_on_c, 0, 69, 0
+1, 23774, Marker_t, "only "
+1, 23774, Text_t, "only "
+1, 23788, Note_on_c, 0, 40, 79
+1, 23800, Note_on_c, 0, 57, 83
+1, 23800, Note_on_c, 0, 62, 87
+1, 23800, Note_on_c, 0, 66, 84
+1, 23800, Note_on_c, 0, 69, 72
+1, 23808, Note_on_c, 9, 42, 80
+1, 23960, Note_on_c, 9, 42, 0
+1, 23974, Marker_t, "some"
+1, 23974, Text_t, "some"
+1, 24143, Marker_t, "one "
+1, 24143, Text_t, "one [E] "
+1, 24192, Note_on_c, 9, 42, 80
+1, 24212, Note_on_c, 0, 57, 0
+1, 24232, Note_on_c, 0, 66, 0
+1, 24232, Note_on_c, 0, 40, 0
+1, 24240, Note_on_c, 0, 69, 0
+1, 24240, Note_on_c, 0, 62, 0
+1, 24344, Note_on_c, 9, 42, 0
+1, 24539, Marker_t, "/that "
+1, 24539, Text_t, "/that "
+1, 24556, Note_on_c, 0, 45, 85
+1, 24556, Note_on_c, 0, 61, 83
+1, 24568, Note_on_c, 0, 59, 87
+1, 24568, Note_on_c, 0, 64, 79
+1, 24576, Control_c, 0, 64, 127
+1, 24576, Note_on_c, 9, 42, 80
+1, 24636, Marker_t, "I "
+1, 24636, Text_t, "I "
+1, 24728, Note_on_c, 9, 42, 0
+1, 24739, Marker_t, "used "
+1, 24739, Text_t, "used [A] "
+1, 24872, Note_on_c, 0, 59, 0
+1, 24880, Note_on_c, 0, 61, 0
+1, 24893, Marker_t, "to "
+1, 24893, Text_t, "to "
+1, 24960, Note_on_c, 9, 42, 80
+1, 25014, Marker_t, "love~~"
+1, 25014, Text_t, "love~~"
+1, 25112, Note_on_c, 9, 42, 0
+1, 25207, Marker_t, ""
+1, 25344, Note_on_c, 9, 42, 80
+1, 25368, Note_on_c, 0, 45, 0
+1, 25448, Note_on_c, 0, 64, 0
+1, 25496, Note_on_c, 9, 42, 0
+1, 25728, Note_on_c, 9, 42, 80
+1, 25880, Note_on_c, 9, 42, 0
+1, 25920, Note_on_c, 0, 69, 77
+1, 26008, Note_on_c, 0, 69, 0
+1, 26020, Note_on_c, 0, 71, 69
+1, 26108, Note_on_c, 2, 73, 32
+1, 26112, Note_on_c, 1, 45, 66
+1, 26112, Note_on_c, 9, 42, 80
+1, 26120, Note_on_c, 0, 57, 80
+1, 26128, Note_on_c, 0, 71, 0
+1, 26128, Note_on_c, 0, 73, 68
+1, 26132, Note_on_c, 2, 57, 28
+1, 26216, Note_on_c, 0, 64, 79
+1, 26235, Marker_t, "\\As "
+1, 26235, Text_t, "\\As "
+1, 26264, Note_on_c, 9, 42, 0
+1, 26314, Marker_t, "for "
+1, 26314, Text_t, "for "
+1, 26409, Marker_t, "me "
+1, 26409, Text_t, "me [A] "
+1, 26496, Note_on_c, 9, 42, 80
+1, 26512, Note_on_c, 0, 64, 0
+1, 26548, Note_on_c, 0, 73, 0
+1, 26570, Marker_t, "it's "
+1, 26570, Text_t, "it's "
+1, 26604, Note_on_c, 0, 57, 0
+1, 26648, Note_on_c, 9, 42, 0
+1, 26662, Marker_t, "get"
+1, 26662, Text_t, "get"
+1, 26688, Note_on_c, 0, 64, 90
+1, 26764, Marker_t, "ting "
+1, 26764, Text_t, "ting "
+1, 26772, Note_on_c, 0, 64, 0
+1, 26776, Note_on_c, 0, 73, 88
+1, 26824, Note_on_c, 0, 73, 0
+1, 26876, Note_on_c, 0, 50, 80
+1, 26876, Note_on_c, 0, 66, 95
+1, 26876, Note_on_c, 0, 73, 91
+1, 26876, Note_on_c, 2, 62, 31
+1, 26880, Note_on_c, 1, 38, 74
+1, 26880, Note_on_c, 9, 42, 80
+1, 26892, Note_on_c, 1, 45, 0
+1, 26899, Marker_t, "down "
+1, 26899, Text_t, "down [D] "
+1, 26936, Note_on_c, 2, 57, 0
+1, 26968, Note_on_c, 0, 57, 78
+1, 27032, Note_on_c, 9, 42, 0
+1, 27072, Note_on_c, 0, 62, 82
+1, 27080, Note_on_c, 0, 66, 0
+1, 27172, Note_on_c, 0, 69, 90
+1, 27200, Note_on_c, 0, 73, 0
+1, 27215, Marker_t, "/to "
+1, 27215, Text_t, "/to "
+1, 27264, Note_on_c, 9, 42, 80
+1, 27296, Marker_t, "the "
+1, 27296, Text_t, "the "
+1, 27381, Marker_t, "last "
+1, 27381, Text_t, "last "
+1, 27416, Note_on_c, 9, 42, 0
+1, 27440, Note_on_c, 0, 50, 0
+1, 27448, Note_on_c, 0, 57, 0
+1, 27452, Note_on_c, 0, 62, 0
+1, 27472, Note_on_c, 0, 69, 0
+1, 27483, Marker_t, "uns"
+1, 27483, Text_t, "uns"
+1, 27608, Control_c, 0, 64, 0
+1, 27611, Marker_t, "po"
+1, 27611, Text_t, "po"
+1, 27632, Note_on_c, 2, 55, 35
+1, 27640, Note_on_c, 0, 55, 77
+1, 27648, Note_on_c, 1, 43, 52
+1, 27648, Note_on_c, 2, 69, 67
+1, 27648, Note_on_c, 9, 42, 80
+1, 27652, Note_on_c, 0, 69, 96
+1, 27664, Note_on_c, 1, 38, 0
+1, 27668, Note_on_c, 2, 62, 0
+1, 27692, Note_on_c, 2, 73, 0
+1, 27744, Note_on_c, 0, 62, 77
+1, 27757, Marker_t, "ken "
+1, 27757, Text_t, "ken "
+1, 27800, Note_on_c, 9, 42, 0
+1, 27836, Note_on_c, 0, 67, 79
+1, 27938, Marker_t, "part"
+1, 27938, Text_t, "part[G]~E"
+1, 27948, Note_on_c, 0, 71, 73
+1, 28004, Note_on_c, 2, 71, 59
+1, 28020, Note_on_c, 2, 69, 0
+1, 28032, Note_on_c, 9, 42, 80
+1, 28063, Marker_t, ""
+1, 28184, Note_on_c, 9, 42, 0
+1, 28368, Note_on_c, 0, 69, 0
+1, 28380, Note_on_c, 0, 71, 0
+1, 28396, Note_on_c, 0, 67, 0
+1, 28400, Note_on_c, 1, 43, 0
+1, 28408, Note_on_c, 0, 52, 92
+1, 28408, Note_on_c, 0, 69, 97
+1, 28412, Note_on_c, 2, 52, 49
+1, 28416, Note_on_c, 1, 40, 71
+1, 28416, Note_on_c, 9, 42, 80
+1, 28420, Note_on_c, 2, 55, 0
+1, 28420, Note_on_c, 0, 62, 0
+1, 28428, Note_on_c, 0, 55, 0
+1, 28568, Note_on_c, 9, 42, 0
+1, 28608, Note_on_c, 0, 62, 80
+1, 28800, Note_on_c, 9, 42, 80
+1, 28816, Note_on_c, 0, 64, 88
+1, 28820, Note_on_c, 0, 68, 95
+1, 28824, Note_on_c, 0, 62, 0
+1, 28824, Note_on_c, 0, 69, 0
+1, 28952, Note_on_c, 9, 42, 0
+1, 29004, Control_c, 0, 64, 127
+1, 29072, Marker_t, "/When "
+1, 29072, Text_t, "/When "
+1, 29080, Note_on_c, 0, 68, 0
+1, 29100, Note_on_c, 0, 64, 0
+1, 29152, Note_on_c, 0, 52, 0
+1, 29172, Control_c, 0, 64, 0
+1, 29180, Marker_t, "you~  "
+1, 29180, Text_t, "you~  [E] "
+1, 29184, Note_on_c, 0, 57, 103
+1, 29184, Note_on_c, 0, 73, 96
+1, 29184, Note_on_c, 1, 45, 73
+1, 29184, Note_on_c, 9, 42, 80
+1, 29188, Note_on_c, 2, 52, 0
+1, 29188, Note_on_c, 2, 73, 40
+1, 29208, Note_on_c, 1, 40, 0
+1, 29228, Note_on_c, 2, 71, 0
+1, 29228, Note_on_c, 2, 57, 24
+1, 29276, Note_on_c, 0, 64, 89
+1, 29336, Note_on_c, 9, 42, 0
+1, 29376, Note_on_c, 0, 69, 96
+1, 29472, Note_on_c, 0, 71, 98
+1, 29476, Note_on_c, 0, 73, 0
+1, 29532, Marker_t, "must "
+1, 29532, Text_t, "must [A] "
+1, 29568, Note_on_c, 9, 42, 80
+1, 29695, Marker_t, "begin "
+1, 29695, Text_t, "begin "
+1, 29720, Note_on_c, 9, 42, 0
+1, 29744, Control_c, 0, 64, 127
+1, 29796, Marker_t, "to "
+1, 29796, Text_t, "to "
+1, 29804, Note_on_c, 0, 71, 0
+1, 29804, Note_on_c, 0, 64, 0
+1, 29804, Note_on_c, 0, 69, 0
+1, 29856, Note_on_c, 0, 57, 0
+1, 29921, Marker_t, "ease "
+1, 29921, Text_t, "ease [D]"
+1, 29924, Note_on_c, 1, 45, 0
+1, 29924, Note_on_c, 2, 50, 27
+1, 29932, Control_c, 0, 64, 0
+1, 29944, Note_on_c, 0, 50, 97
+1, 29944, Note_on_c, 0, 73, 103
+1, 29952, Note_on_c, 1, 38, 101
+1, 29952, Note_on_c, 9, 42, 80
+1, 30040, Note_on_c, 0, 57, 83
+1, 30104, Note_on_c, 9, 42, 0
+1, 30136, Note_on_c, 0, 62, 84
+1, 30232, Note_on_c, 0, 69, 92
+1, 30336, Note_on_c, 9, 42, 80
+1, 30344, Marker_t, "/the "
+1, 30344, Text_t, "/the "
+1, 30413, Marker_t, "pain "
+1, 30413, Text_t, "pain "
+1, 30440, Control_c, 0, 64, 127
+1, 30487, Marker_t, "of "
+1, 30487, Text_t, "of "
+1, 30488, Note_on_c, 9, 42, 0
+1, 30512, Note_on_c, 0, 50, 0
+1, 30528, Note_on_c, 0, 57, 0
+1, 30544, Note_on_c, 0, 62, 0
+1, 30544, Note_on_c, 0, 69, 0
+1, 30568, Marker_t, "a "
+1, 30568, Note_on_c, 0, 73, 0
+1, 30568, Text_t, "a "
+1, 30632, Note_on_c, 0, 62, 87
+1, 30662, Marker_t, "bro"
+1, 30662, Text_t, "bro"
+1, 30668, Note_on_c, 0, 62, 0
+1, 30708, Note_on_c, 2, 57, 0
+1, 30716, Control_c, 0, 64, 0
+1, 30720, Note_on_c, 1, 43, 73
+1, 30720, Note_on_c, 2, 69, 46
+1, 30720, Note_on_c, 9, 42, 80
+1, 30728, Note_on_c, 0, 55, 82
+1, 30728, Note_on_c, 0, 62, 103
+1, 30728, Note_on_c, 0, 69, 106
+1, 30736, Note_on_c, 1, 38, 0
+1, 30736, Note_on_c, 2, 50, 0
+1, 30744, Note_on_c, 2, 55, 25
+1, 30752, Note_on_c, 2, 73, 0
+1, 30872, Note_on_c, 9, 42, 0
+1, 30961, Marker_t, "ken "
+1, 30961, Text_t, "ken "
+1, 31016, Note_on_c, 0, 71, 88
+1, 31036, Note_on_c, 0, 69, 0
+1, 31104, Marker_t, "heart"
+1, 31104, Note_on_c, 9, 42, 80
+1, 31104, Text_t, "heart[G]~E"
+1, 31108, Note_on_c, 2, 71, 50
+1, 31128, Note_on_c, 2, 69, 0
+1, 31160, Control_c, 0, 64, 127
+1, 31256, Note_on_c, 9, 42, 0
+1, 31272, Note_on_c, 0, 55, 0
+1, 31296, Note_on_c, 0, 62, 0
+1, 31308, Note_on_c, 0, 71, 0
+1, 31326, Marker_t, ""
+1, 31456, Control_c, 0, 64, 0
+1, 31468, Note_on_c, 0, 52, 81
+1, 31476, Note_on_c, 0, 62, 90
+1, 31476, Note_on_c, 0, 66, 92
+1, 31484, Note_on_c, 2, 52, 40
+1, 31488, Note_on_c, 1, 40, 82
+1, 31488, Note_on_c, 9, 42, 80
+1, 31496, Note_on_c, 2, 55, 0
+1, 31496, Note_on_c, 1, 43, 0
+1, 31640, Note_on_c, 9, 42, 0
+1, 31660, Control_c, 0, 64, 127
+1, 31736, Note_on_c, 0, 62, 0
+1, 31736, Note_on_c, 0, 66, 0
+1, 31860, Note_on_c, 2, 73, 51
+1, 31868, Note_on_c, 2, 71, 0
+1, 31872, Note_on_c, 9, 42, 80
+1, 31932, Note_on_c, 0, 52, 0
+1, 32024, Note_on_c, 9, 42, 0
+1, 32048, Note_on_c, 2, 74, 56
+1, 32052, Note_on_c, 0, 73, 79
+1, 32072, Note_on_c, 2, 73, 0
+1, 32132, Note_on_c, 0, 74, 83
+1, 32148, Note_on_c, 0, 73, 0
+1, 32224, Note_on_c, 0, 74, 0
+1, 32228, Note_on_c, 2, 76, 63
+1, 32236, Control_c, 0, 64, 0
+1, 32240, Note_on_c, 1, 40, 0
+1, 32248, Note_on_c, 2, 74, 0
+1, 32248, Note_on_c, 0, 57, 90
+1, 32252, Note_on_c, 0, 76, 102
+1, 32254, Marker_t, "/Tell "
+1, 32254, Text_t, "/Tell "
+1, 32256, Note_on_c, 2, 52, 0
+1, 32256, Note_on_c, 1, 45, 92
+1, 32256, Note_on_c, 9, 42, 80
+1, 32268, Note_on_c, 2, 57, 33
+1, 32334, Marker_t, "me "
+1, 32334, Text_t, "me "
+1, 32408, Note_on_c, 9, 42, 0
+1, 32432, Note_on_c, 0, 64, 78
+1, 32446, Marker_t, "why "
+1, 32446, Text_t, "why [A] "
+1, 32616, Control_c, 0, 64, 127
+1, 32616, Note_on_c, 0, 69, 81
+1, 32640, Note_on_c, 9, 42, 80
+1, 32669, Marker_t, "should "
+1, 32669, Text_t, "should "
+1, 32676, Note_on_c, 0, 64, 0
+1, 32732, Note_on_c, 0, 69, 0
+1, 32736, Note_on_c, 0, 76, 0
+1, 32755, Marker_t, "I "
+1, 32755, Text_t, "I "
+1, 32792, Note_on_c, 9, 42, 0
+1, 32796, Note_on_c, 0, 57, 0
+1, 32828, Note_on_c, 0, 76, 88
+1, 32858, Marker_t, "e"
+1, 32858, Text_t, "e"
+1, 32868, Note_on_c, 0, 76, 0
+1, 32949, Marker_t, "ven "
+1, 32949, Text_t, "ven "
+1, 32996, Note_on_c, 2, 67, 38
+1, 33004, Note_on_c, 1, 45, 0
+1, 33016, Note_on_c, 0, 67, 84
+1, 33016, Note_on_c, 0, 74, 88
+1, 33016, Note_on_c, 0, 57, 87
+1, 33024, Note_on_c, 1, 45, 92
+1, 33024, Note_on_c, 9, 42, 80
+1, 33028, Control_c, 0, 64, 0
+1, 33088, Marker_t, "care "
+1, 33088, Text_t, "care [A7]"
+1, 33176, Note_on_c, 9, 42, 0
+1, 33400, Note_on_c, 0, 71, 79
+1, 33404, Note_on_c, 2, 71, 64
+1, 33408, Control_c, 0, 64, 127
+1, 33408, Note_on_c, 0, 62, 78
+1, 33408, Note_on_c, 9, 42, 80
+1, 33414, Marker_t, "/if "
+1, 33414, Text_t, "/if "
+1, 33452, Note_on_c, 2, 67, 0
+1, 33480, Note_on_c, 0, 57, 0
+1, 33496, Marker_t, "I "
+1, 33496, Text_t, "I "
+1, 33548, Note_on_c, 0, 71, 0
+1, 33560, Note_on_c, 9, 42, 0
+1, 33564, Note_on_c, 0, 74, 0
+1, 33564, Note_on_c, 0, 67, 0
+1, 33564, Note_on_c, 0, 62, 0
+1, 33622, Marker_t, "have "
+1, 33622, Text_t, "have "
+1, 33739, Marker_t, "to "
+1, 33739, Text_t, "to "
+1, 33764, Control_c, 0, 64, 0
+1, 33768, Note_on_c, 2, 73, 58
+1, 33776, Note_on_c, 0, 50, 91
+1, 33776, Note_on_c, 0, 73, 88
+1, 33780, Note_on_c, 0, 66, 91
+1, 33784, Note_on_c, 1, 45, 0
+1, 33792, Note_on_c, 1, 38, 90
+1, 33792, Note_on_c, 9, 42, 80
+1, 33796, Note_on_c, 2, 50, 30
+1, 33804, Note_on_c, 2, 76, 0
+1, 33816, Note_on_c, 2, 71, 0
+1, 33876, Note_on_c, 0, 57, 85
+1, 33922, Marker_t, "lose "
+1, 33922, Text_t, "lose [D] "
+1, 33944, Note_on_c, 9, 42, 0
+1, 33984, Note_on_c, 0, 62, 78
+1, 34084, Note_on_c, 0, 69, 92
+1, 34176, Note_on_c, 9, 42, 80
+1, 34231, Marker_t, "your "
+1, 34231, Text_t, "your "
+1, 34248, Control_c, 0, 64, 127
+1, 34328, Note_on_c, 9, 42, 0
+1, 34356, Note_on_c, 0, 62, 0
+1, 34388, Note_on_c, 0, 69, 0
+1, 34404, Note_on_c, 0, 66, 0
+1, 34420, Note_on_c, 0, 73, 0
+1, 34432, Marker_t, "love"
+1, 34432, Text_t, "love[Dm]"
+1, 34452, Note_on_c, 0, 57, 0
+1, 34460, Note_on_c, 0, 50, 0
+1, 34468, Note_on_c, 0, 62, 92
+1, 34516, Note_on_c, 0, 62, 0
+1, 34532, Note_on_c, 2, 65, 36
+1, 34544, Note_on_c, 1, 38, 0
+1, 34548, Control_c, 0, 64, 0
+1, 34548, Note_on_c, 2, 71, 61
+1, 34556, Note_on_c, 2, 73, 0
+1, 34560, Note_on_c, 0, 65, 81
+1, 34560, Note_on_c, 0, 50, 86
+1, 34560, Note_on_c, 1, 38, 82
+1, 34560, Note_on_c, 9, 42, 80
+1, 34572, Note_on_c, 2, 57, 0
+1, 34572, Note_on_c, 0, 71, 92
+1, 34620, Marker_t, ""
+1, 34712, Note_on_c, 9, 42, 0
+1, 34944, Note_on_c, 9, 42, 80
+1, 34952, Control_c, 0, 64, 127
+1, 34968, Note_on_c, 2, 69, 63
+1, 34976, Note_on_c, 2, 71, 0
+1, 35000, Note_on_c, 2, 65, 0
+1, 35004, Note_on_c, 0, 65, 0
+1, 35012, Note_on_c, 0, 71, 0
+1, 35024, Note_on_c, 0, 50, 0
+1, 35096, Note_on_c, 9, 42, 0
+1, 35124, Note_on_c, 0, 69, 90
+1, 35208, Note_on_c, 0, 69, 0
+1, 35208, Note_on_c, 0, 68, 87
+1, 35284, Note_on_c, 0, 68, 0
+1, 35292, Marker_t, "/From "
+1, 35292, Text_t, "/From "
+1, 35300, Note_on_c, 1, 38, 0
+1, 35300, Note_on_c, 2, 64, 51
+1, 35304, Control_c, 0, 64, 0
+1, 35308, Note_on_c, 2, 57, 48
+1, 35316, Note_on_c, 0, 69, 100
+1, 35320, Note_on_c, 0, 57, 90
+1, 35328, Note_on_c, 1, 40, 76
+1, 35328, Note_on_c, 9, 42, 80
+1, 35340, Note_on_c, 2, 50, 0
+1, 35379, Marker_t, "now "
+1, 35379, Text_t, "now "
+1, 35408, Note_on_c, 0, 59, 80
+1, 35480, Marker_t, "on "
+1, 35480, Note_on_c, 9, 42, 0
+1, 35480, Text_t, "on [A] "
+1, 35520, Note_on_c, 0, 61, 87
+1, 35608, Note_on_c, 0, 64, 88
+1, 35676, Note_on_c, 0, 69, 0
+1, 35712, Control_c, 0, 64, 127
+1, 35712, Note_on_c, 9, 42, 80
+1, 35720, Note_on_c, 0, 69, 103
+1, 35840, Note_on_c, 0, 59, 0
+1, 35864, Note_on_c, 9, 42, 0
+1, 35908, Note_on_c, 0, 61, 0
+1, 35908, Note_on_c, 0, 59, 92
+1, 35912, Note_on_c, 0, 64, 0
+1, 35912, Note_on_c, 0, 57, 0
+1, 35944, Note_on_c, 0, 69, 0
+1, 35952, Note_on_c, 0, 59, 0
+1, 36035, Marker_t, "you're "
+1, 36035, Text_t, "you're "
+1, 36040, Note_on_c, 1, 40, 0
+1, 36076, Control_c, 0, 64, 0
+1, 36088, Note_on_c, 0, 52, 91
+1, 36096, Note_on_c, 0, 69, 108
+1, 36096, Note_on_c, 0, 62, 104
+1, 36096, Note_on_c, 1, 40, 79
+1, 36096, Note_on_c, 9, 42, 80
+1, 36100, Note_on_c, 2, 62, 77
+1, 36138, Marker_t, "only "
+1, 36138, Text_t, "only "
+1, 36160, Note_on_c, 2, 64, 0
+1, 36248, Note_on_c, 9, 42, 0
+1, 36304, Marker_t, "some"
+1, 36304, Text_t, "some"
+1, 36455, Marker_t, "one "
+1, 36455, Text_t, "one [E]"
+1, 36464, Note_on_c, 2, 66, 55
+1, 36480, Note_on_c, 9, 42, 80
+1, 36504, Control_c, 0, 64, 127
+1, 36512, Note_on_c, 2, 62, 0
+1, 36592, Note_on_c, 0, 52, 0
+1, 36632, Note_on_c, 9, 42, 0
+1, 36680, Note_on_c, 0, 62, 0
+1, 36720, Note_on_c, 0, 69, 0
+1, 36844, Control_c, 0, 64, 0
+1, 36856, Note_on_c, 0, 45, 87
+1, 36856, Note_on_c, 0, 64, 94
+1, 36860, Note_on_c, 0, 59, 97
+1, 36864, Note_on_c, 1, 40, 0
+1, 36864, Note_on_c, 0, 69, 108
+1, 36864, Note_on_c, 0, 57, 102
+1, 36864, Note_on_c, 1, 45, 85
+1, 36868, Note_on_c, 2, 64, 61
+1, 36872, Control_c, 0, 64, 127
+1, 36876, Note_on_c, 2, 66, 0
+1, 36883, Marker_t, "/that "
+1, 36883, Text_t, "/that "
+1, 36884, Note_on_c, 2, 52, 29
+1, 36970, Marker_t, "I "
+1, 36970, Text_t, "I "
+1, 37040, Note_on_c, 0, 61, 72
+1, 37080, Marker_t, "used "
+1, 37080, Text_t, "used [A] "
+1, 37148, Note_on_c, 0, 64, 0
+1, 37148, Note_on_c, 0, 64, 93
+1, 37184, Note_on_c, 0, 59, 0
+1, 37193, Marker_t, "to "
+1, 37193, Text_t, "to "
+1, 37240, Note_on_c, 0, 61, 0
+1, 37296, Note_on_c, 0, 64, 0
+1, 37310, Marker_t, "love"
+1, 37310, Text_t, "love"
+1, 37344, Note_on_c, 0, 59, 92
+1, 37436, Note_on_c, 0, 61, 88
+1, 37485, Marker_t, ""
+1, 37500, Note_on_c, 0, 59, 0
+1, 37520, Note_on_c, 0, 69, 0
+1, 37524, Note_on_c, 0, 61, 0
+1, 37524, Note_on_c, 0, 64, 96
+1, 37592, Note_on_c, 1, 45, 0
+1, 37612, Note_on_c, 0, 64, 0
+1, 37620, Note_on_c, 0, 69, 104
+1, 37628, Note_on_c, 2, 61, 57
+1, 37632, Note_on_c, 1, 45, 85
+1, 37648, Note_on_c, 0, 69, 0
+1, 37728, Note_on_c, 2, 57, 0
+1, 37784, Note_on_c, 2, 57, 81
+1, 37804, Note_on_c, 2, 64, 0
+1, 37820, Note_on_c, 0, 71, 94
+1, 37824, Note_on_c, 9, 42, 48
+1, 37840, Note_on_c, 2, 57, 0
+1, 37864, Note_on_c, 9, 42, 0
+1, 37868, Note_on_c, 2, 57, 81
+1, 37920, Note_on_c, 9, 42, 64
+1, 37960, Note_on_c, 9, 42, 0
+1, 37992, Note_on_c, 2, 71, 95
+1, 37996, Note_on_c, 1, 45, 0
+1, 38016, Note_on_c, 0, 73, 95
+1, 38016, Note_on_c, 1, 44, 97
+1, 38016, Note_on_c, 9, 46, 64
+1, 38020, Note_on_c, 2, 69, 0
+1, 38032, Note_on_c, 0, 71, 0
+1, 38044, Note_on_c, 2, 73, 85
+1, 38064, Note_on_c, 2, 71, 0
+1, 38072, Note_on_c, 0, 57, 0
+1, 38104, Note_on_c, 2, 74, 75
+1, 38112, Note_on_c, 2, 73, 0
+1, 38136, Note_on_c, 0, 45, 0
+1, 38168, Note_on_c, 9, 46, 0
+1, 38176, Note_on_c, 2, 76, 91
+1, 38204, Note_on_c, 2, 74, 0
+1, 38208, Note_on_c, 2, 52, 0
+1, 38216, Note_on_c, 0, 64, 89
+1, 38224, Note_on_c, 2, 78, 81
+1, 38272, Note_on_c, 0, 73, 0
+1, 38280, Note_on_c, 2, 76, 0
+1, 38288, Note_on_c, 2, 80, 84
+1, 38324, Note_on_c, 2, 78, 0
+1, 38368, Note_on_c, 0, 64, 0
+1, 38372, Note_on_c, 1, 44, 0
+1, 38392, Note_on_c, 2, 54, 60
+1, 38400, Note_on_c, 2, 61, 0
+1, 38400, Note_on_c, 0, 54, 93
+1, 38400, Note_on_c, 0, 69, 115
+1, 38400, Control_c, 0, 64, 127
+1, 38400, Note_on_c, 1, 42, 88
+1, 38400, Note_on_c, 2, 81, 75
+1, 38400, Note_on_c, 9, 35, 112
+1, 38400, Note_on_c, 9, 42, 64
+1, 38400, Note_on_c, 9, 49, 80
+1, 38412, Note_on_c, 2, 57, 0
+1, 38420, Note_on_c, 2, 80, 0
+1, 38476, Note_on_c, 9, 42, 0
+1, 38476, Note_on_c, 9, 35, 0
+1, 38496, Note_on_c, 0, 57, 87
+1, 38552, Note_on_c, 9, 49, 0
+1, 38592, Note_on_c, 0, 61, 92
+1, 38592, Note_on_c, 9, 42, 48
+1, 38668, Note_on_c, 9, 42, 0
+1, 38684, Note_on_c, 0, 69, 0
+1, 38688, Note_on_c, 0, 66, 96
+1, 38709, Marker_t, "\\Yet~~  "
+1, 38709, Text_t, "\\Yet~~  [F#m]~~B  "
+1, 38784, Note_on_c, 0, 68, 112
+1, 38784, Note_on_c, 9, 38, 96
+1, 38784, Note_on_c, 9, 42, 64
+1, 38804, Note_on_c, 2, 69, 53
+1, 38816, Note_on_c, 0, 66, 0
+1, 38860, Note_on_c, 9, 42, 0
+1, 38872, Note_on_c, 1, 42, 0
+1, 38880, Note_on_c, 0, 69, 104
+1, 38884, Note_on_c, 0, 61, 0
+1, 38900, Note_on_c, 0, 68, 0
+1, 38936, Note_on_c, 9, 38, 0
+1, 38948, Note_on_c, 0, 54, 0
+1, 38976, Note_on_c, 0, 66, 93
+1, 38976, Note_on_c, 1, 42, 92
+1, 38976, Note_on_c, 9, 35, 80
+1, 38976, Note_on_c, 9, 42, 48
+1, 38996, Note_on_c, 0, 69, 0
+1, 39052, Note_on_c, 9, 42, 0
+1, 39052, Note_on_c, 9, 35, 0
+1, 39072, Note_on_c, 0, 61, 87
+1, 39080, Note_on_c, 0, 66, 0
+1, 39144, Note_on_c, 1, 42, 0
+1, 39152, Note_on_c, 0, 61, 0
+1, 39152, Note_on_c, 2, 59, 57
+1, 39160, Note_on_c, 2, 54, 0
+1, 39168, Note_on_c, 0, 57, 0
+1, 39168, Note_on_c, 0, 69, 127
+1, 39168, Note_on_c, 0, 47, 103
+1, 39168, Control_c, 0, 64, 0
+1, 39168, Note_on_c, 1, 35, 94
+1, 39168, Note_on_c, 9, 35, 112
+1, 39168, Note_on_c, 9, 42, 64
+1, 39244, Note_on_c, 9, 42, 0
+1, 39244, Note_on_c, 9, 35, 0
+1, 39264, Note_on_c, 0, 54, 95
+1, 39360, Control_c, 0, 64, 127
+1, 39360, Note_on_c, 0, 57, 96
+1, 39360, Note_on_c, 9, 42, 48
+1, 39436, Note_on_c, 9, 42, 0
+1, 39456, Note_on_c, 0, 59, 87
+1, 39552, Note_on_c, 0, 63, 83
+1, 39552, Note_on_c, 9, 38, 96
+1, 39552, Note_on_c, 9, 42, 64
+1, 39596, Note_on_c, 0, 69, 0
+1, 39628, Note_on_c, 9, 42, 0
+1, 39704, Note_on_c, 9, 38, 0
+1, 39725, Marker_t, "it "
+1, 39725, Text_t, "it "
+1, 39740, Note_on_c, 0, 47, 0
+1, 39740, Note_on_c, 0, 63, 0
+1, 39744, Note_on_c, 0, 66, 90
+1, 39744, Note_on_c, 9, 42, 48
+1, 39768, Note_on_c, 0, 54, 0
+1, 39796, Note_on_c, 0, 57, 0
+1, 39816, Marker_t, "wasn't "
+1, 39816, Text_t, "wasn't "
+1, 39820, Note_on_c, 9, 42, 0
+1, 39828, Note_on_c, 0, 66, 0
+1, 39840, Note_on_c, 0, 69, 96
+1, 39848, Note_on_c, 0, 59, 0
+1, 39903, Marker_t, "e"
+1, 39903, Text_t, "e"
+1, 39912, Note_on_c, 2, 78, 72
+1, 39920, Note_on_c, 1, 35, 0
+1, 39920, Note_on_c, 2, 52, 59
+1, 39928, Note_on_c, 0, 69, 0
+1, 39936, Note_on_c, 0, 66, 102
+1, 39936, Note_on_c, 0, 52, 103
+1, 39936, Note_on_c, 0, 59, 96
+1, 39936, Control_c, 0, 64, 0
+1, 39936, Note_on_c, 1, 40, 82
+1, 39936, Note_on_c, 9, 35, 112
+1, 39936, Note_on_c, 9, 42, 64
+1, 39940, Note_on_c, 2, 69, 0
+1, 39940, Note_on_c, 2, 81, 0
+1, 40012, Note_on_c, 9, 35, 0
+1, 40012, Note_on_c, 9, 42, 0
+1, 40023, Marker_t, "nough "
+1, 40023, Text_t, "nough "
+1, 40032, Control_c, 0, 64, 127
+1, 40128, Note_on_c, 0, 56, 80
+1, 40128, Note_on_c, 9, 42, 48
+1, 40159, Marker_t, "for "
+1, 40159, Text_t, "for [E] "
+1, 40204, Note_on_c, 9, 42, 0
+1, 40224, Note_on_c, 0, 68, 103
+1, 40240, Note_on_c, 0, 66, 0
+1, 40292, Marker_t, "you"
+1, 40292, Text_t, "you"
+1, 40312, Note_on_c, 2, 80, 77
+1, 40320, Note_on_c, 0, 59, 0
+1, 40320, Note_on_c, 2, 78, 0
+1, 40320, Note_on_c, 9, 38, 96
+1, 40320, Note_on_c, 9, 42, 64
+1, 40396, Note_on_c, 9, 42, 0
+1, 40416, Note_on_c, 0, 59, 89
+1, 40428, Note_on_c, 0, 68, 0
+1, 40436, Note_on_c, 1, 40, 0
+1, 40472, Note_on_c, 9, 38, 0
+1, 40512, Note_on_c, 0, 66, 87
+1, 40512, Note_on_c, 1, 40, 82
+1, 40512, Note_on_c, 9, 35, 80
+1, 40512, Note_on_c, 9, 42, 48
+1, 40580, Note_on_c, 0, 66, 0
+1, 40588, Note_on_c, 9, 42, 0
+1, 40588, Note_on_c, 9, 35, 0
+1, 40608, Note_on_c, 0, 71, 103
+1, 40620, Note_on_c, 1, 40, 0
+1, 40688, Note_on_c, 0, 59, 0
+1, 40704, Note_on_c, 1, 40, 94
+1, 40704, Note_on_c, 9, 35, 112
+1, 40704, Note_on_c, 9, 42, 64
+1, 40780, Note_on_c, 9, 42, 0
+1, 40780, Note_on_c, 9, 35, 0
+1, 40800, Note_on_c, 0, 59, 88
+1, 40896, Note_on_c, 0, 66, 92
+1, 40896, Note_on_c, 9, 42, 48
+1, 40972, Note_on_c, 9, 42, 0
+1, 40992, Note_on_c, 0, 68, 108
+1, 41000, Note_on_c, 0, 66, 0
+1, 41068, Note_on_c, 0, 59, 0
+1, 41088, Note_on_c, 9, 38, 96
+1, 41088, Note_on_c, 9, 42, 64
+1, 41160, Note_on_c, 0, 68, 0
+1, 41164, Note_on_c, 9, 42, 0
+1, 41220, Note_on_c, 0, 56, 0
+1, 41220, Note_on_c, 0, 71, 0
+1, 41232, Note_on_c, 0, 52, 0
+1, 41240, Note_on_c, 9, 38, 0
+1, 41260, Note_on_c, 2, 76, 59
+1, 41280, Note_on_c, 0, 64, 92
+1, 41280, Note_on_c, 9, 42, 48
+1, 41292, Note_on_c, 2, 80, 0
+1, 41332, Note_on_c, 2, 78, 77
+1, 41352, Note_on_c, 2, 76, 0
+1, 41356, Note_on_c, 9, 42, 0
+1, 41364, Note_on_c, 0, 64, 0
+1, 41376, Note_on_c, 0, 66, 83
+1, 41412, Note_on_c, 1, 40, 0
+1, 41426, Marker_t, "/All "
+1, 41426, Text_t, "/All "
+1, 41452, Note_on_c, 2, 79, 64
+1, 41456, Note_on_c, 0, 66, 0
+1, 41460, Note_on_c, 2, 78, 0
+1, 41472, Note_on_c, 0, 67, 93
+1, 41472, Note_on_c, 0, 52, 98
+1, 41472, Control_c, 0, 64, 0
+1, 41472, Note_on_c, 1, 40, 99
+1, 41472, Note_on_c, 9, 35, 112
+1, 41472, Note_on_c, 9, 42, 64
+1, 41537, Marker_t, "the "
+1, 41537, Text_t, "the "
+1, 41548, Note_on_c, 9, 42, 0
+1, 41548, Note_on_c, 9, 35, 0
+1, 41568, Note_on_c, 0, 55, 85
+1, 41568, Control_c, 0, 64, 127
+1, 41645, Marker_t, "love "
+1, 41645, Text_t, "love [Em]~A "
+1, 41664, Note_on_c, 0, 59, 87
+1, 41664, Note_on_c, 9, 42, 48
+1, 41740, Note_on_c, 9, 42, 0
+1, 41760, Note_on_c, 0, 62, 92
+1, 41784, Note_on_c, 0, 67, 0
+1, 41828, Note_on_c, 2, 67, 48
+1, 41856, Note_on_c, 0, 67, 103
+1, 41856, Note_on_c, 9, 38, 96
+1, 41856, Note_on_c, 9, 42, 64
+1, 41876, Note_on_c, 0, 62, 0
+1, 41880, Note_on_c, 0, 59, 0
+1, 41904, Note_on_c, 0, 55, 0
+1, 41932, Note_on_c, 9, 42, 0
+1, 41936, Note_on_c, 0, 52, 0
+1, 41952, Note_on_c, 0, 59, 96
+1, 41976, Note_on_c, 1, 40, 0
+1, 42008, Note_on_c, 9, 38, 0
+1, 42048, Note_on_c, 0, 67, 0
+1, 42048, Note_on_c, 0, 62, 93
+1, 42048, Note_on_c, 1, 40, 97
+1, 42048, Note_on_c, 9, 35, 80
+1, 42048, Note_on_c, 9, 42, 48
+1, 42108, Note_on_c, 0, 59, 0
+1, 42124, Note_on_c, 9, 42, 0
+1, 42124, Note_on_c, 9, 35, 0
+1, 42144, Note_on_c, 0, 62, 0
+1, 42144, Note_on_c, 0, 67, 76
+1, 42196, Note_on_c, 0, 67, 0
+1, 42216, Note_on_c, 2, 57, 36
+1, 42224, Note_on_c, 1, 40, 0
+1, 42232, Note_on_c, 2, 59, 0
+1, 42240, Note_on_c, 2, 52, 0
+1, 42240, Note_on_c, 0, 67, 84
+1, 42240, Note_on_c, 0, 57, 99
+1, 42240, Note_on_c, 0, 45, 88
+1, 42240, Note_on_c, 0, 62, 99
+1, 42240, Note_on_c, 1, 33, 101
+1, 42240, Note_on_c, 9, 35, 112
+1, 42240, Note_on_c, 9, 42, 64
+1, 42260, Note_on_c, 2, 71, 29
+1, 42316, Note_on_c, 9, 42, 0
+1, 42316, Note_on_c, 9, 35, 0
+1, 42396, Note_on_c, 0, 57, 0
+1, 42432, Note_on_c, 0, 57, 73
+1, 42432, Note_on_c, 9, 42, 48
+1, 42480, Note_on_c, 0, 62, 0
+1, 42508, Note_on_c, 9, 42, 0
+1, 42528, Note_on_c, 0, 62, 91
+1, 42544, Note_on_c, 0, 67, 0
+1, 42568, Note_on_c, 2, 71, 0
+1, 42620, Note_on_c, 0, 57, 0
+1, 42624, Note_on_c, 0, 52, 100
+1, 42624, Note_on_c, 9, 38, 96
+1, 42624, Note_on_c, 9, 42, 64
+1, 42639, Marker_t, "I "
+1, 42639, Text_t, "I "
+1, 42644, Note_on_c, 0, 45, 0
+1, 42652, Note_on_c, 0, 52, 0
+1, 42700, Note_on_c, 9, 42, 0
+1, 42708, Note_on_c, 0, 62, 0
+1, 42720, Note_on_c, 0, 57, 95
+1, 42749, Marker_t, "had "
+1, 42749, Text_t, "had "
+1, 42776, Note_on_c, 9, 38, 0
+1, 42816, Note_on_c, 0, 64, 91
+1, 42816, Note_on_c, 9, 42, 48
+1, 42860, Note_on_c, 0, 57, 0
+1, 42892, Note_on_c, 9, 42, 0
+1, 42908, Note_on_c, 0, 64, 0
+1, 42912, Note_on_c, 0, 57, 85
+1, 42962, Marker_t, "to "
+1, 42962, Text_t, "to "
+1, 42964, Note_on_c, 0, 57, 0
+1, 42980, Note_on_c, 2, 76, 67
+1, 42988, Note_on_c, 1, 33, 0
+1, 43000, Note_on_c, 2, 79, 0
+1, 43000, Note_on_c, 2, 50, 47
+1, 43008, Note_on_c, 0, 64, 108
+1, 43008, Note_on_c, 0, 50, 96
+1, 43008, Note_on_c, 0, 57, 78
+1, 43008, Control_c, 0, 64, 0
+1, 43008, Note_on_c, 1, 38, 99
+1, 43008, Note_on_c, 9, 35, 112
+1, 43008, Note_on_c, 9, 42, 64
+1, 43028, Note_on_c, 2, 67, 0
+1, 43036, Note_on_c, 0, 57, 0
+1, 43074, Marker_t, "give~~"
+1, 43074, Text_t, "give~~[D] "
+1, 43084, Note_on_c, 9, 42, 0
+1, 43084, Note_on_c, 9, 35, 0
+1, 43104, Note_on_c, 0, 54, 75
+1, 43200, Control_c, 0, 64, 127
+1, 43200, Note_on_c, 0, 57, 90
+1, 43200, Note_on_c, 9, 42, 48
+1, 43224, Note_on_c, 0, 64, 0
+1, 43236, Marker_t, ""
+1, 43276, Note_on_c, 9, 42, 0
+1, 43296, Note_on_c, 0, 62, 92
+1, 43372, Note_on_c, 0, 62, 0
+1, 43392, Note_on_c, 0, 66, 109
+1, 43392, Note_on_c, 9, 38, 96
+1, 43392, Note_on_c, 9, 42, 64
+1, 43400, Note_on_c, 0, 57, 0
+1, 43400, Note_on_c, 2, 78, 63
+1, 43420, Note_on_c, 2, 76, 0
+1, 43468, Note_on_c, 9, 42, 0
+1, 43488, Note_on_c, 0, 57, 96
+1, 43544, Note_on_c, 1, 38, 0
+1, 43544, Note_on_c, 9, 38, 0
+1, 43580, Note_on_c, 0, 66, 0
+1, 43584, Note_on_c, 0, 62, 90
+1, 43584, Note_on_c, 1, 38, 101
+1, 43584, Note_on_c, 9, 35, 80
+1, 43584, Note_on_c, 9, 42, 48
+1, 43660, Note_on_c, 9, 42, 0
+1, 43660, Note_on_c, 9, 35, 0
+1, 43668, Note_on_c, 0, 62, 0
+1, 43680, Note_on_c, 0, 64, 96
+1, 43700, Note_on_c, 1, 38, 0
+1, 43744, Note_on_c, 0, 64, 0
+1, 43776, Control_c, 0, 64, 0
+1, 43776, Note_on_c, 0, 69, 120
+1, 43776, Control_c, 0, 64, 127
+1, 43776, Note_on_c, 1, 38, 110
+1, 43776, Note_on_c, 9, 35, 112
+1, 43776, Note_on_c, 9, 42, 64
+1, 43780, Note_on_c, 0, 57, 0
+1, 43852, Note_on_c, 9, 42, 0
+1, 43852, Note_on_c, 9, 35, 0
+1, 43872, Note_on_c, 0, 57, 93
+1, 43968, Note_on_c, 0, 62, 94
+1, 43968, Note_on_c, 9, 42, 48
+1, 44044, Note_on_c, 9, 42, 0
+1, 44052, Note_on_c, 0, 62, 0
+1, 44064, Note_on_c, 0, 64, 116
+1, 44092, Note_on_c, 0, 54, 0
+1, 44144, Note_on_c, 1, 38, 0
+1, 44160, Note_on_c, 0, 54, 127
+1, 44160, Note_on_c, 1, 40, 90
+1, 44160, Note_on_c, 9, 38, 96
+1, 44176, Note_on_c, 0, 50, 0
+1, 44184, Note_on_c, 0, 57, 0
+1, 44212, Note_on_c, 0, 54, 0
+1, 44240, Note_on_c, 0, 64, 0
+1, 44256, Note_on_c, 0, 57, 110
+1, 44256, Note_on_c, 9, 45, 80
+1, 44296, Note_on_c, 9, 45, 0
+1, 44312, Note_on_c, 9, 38, 0
+1, 44344, Note_on_c, 0, 69, 0
+1, 44352, Note_on_c, 0, 64, 97
+1, 44352, Note_on_c, 9, 41, 96
+1, 44424, Note_on_c, 0, 57, 0
+1, 44428, Note_on_c, 9, 41, 0
+1, 44448, Note_on_c, 0, 66, 81
+1, 44460, Note_on_c, 0, 64, 0
+1, 44488, Note_on_c, 0, 66, 0
+1, 44512, Note_on_c, 2, 54, 64
+1, 44512, Note_on_c, 2, 69, 73
+1, 44520, Note_on_c, 2, 50, 0
+1, 44528, Note_on_c, 2, 57, 0
+1, 44544, Note_on_c, 1, 40, 0
+1, 44544, Note_on_c, 0, 69, 118
+1, 44544, Note_on_c, 0, 54, 90
+1, 44544, Control_c, 0, 64, 0
+1, 44544, Note_on_c, 1, 42, 90
+1, 44544, Note_on_c, 9, 35, 112
+1, 44544, Note_on_c, 9, 42, 64
+1, 44544, Note_on_c, 9, 49, 80
+1, 44568, Note_on_c, 2, 78, 0
+1, 44620, Note_on_c, 9, 42, 0
+1, 44620, Note_on_c, 9, 35, 0
+1, 44640, Note_on_c, 0, 57, 91
+1, 44696, Note_on_c, 9, 49, 0
+1, 44720, Note_on_c, 2, 66, 43
+1, 44736, Control_c, 0, 64, 127
+1, 44736, Note_on_c, 0, 61, 88
+1, 44736, Note_on_c, 9, 42, 48
+1, 44788, Note_on_c, 0, 69, 0
+1, 44812, Note_on_c, 9, 42, 0
+1, 44832, Note_on_c, 0, 66, 84
+1, 44884, Note_on_c, 0, 54, 0
+1, 44914, Marker_t, "/I "
+1, 44914, Text_t, "/[F#m] I "
+1, 44928, Note_on_c, 0, 68, 100
+1, 44928, Note_on_c, 2, 73, 68
+1, 44928, Note_on_c, 9, 38, 96
+1, 44928, Note_on_c, 9, 42, 64
+1, 44952, Note_on_c, 0, 66, 0
+1, 44960, Note_on_c, 2, 69, 0
+1, 44972, Note_on_c, 0, 57, 0
+1, 45004, Note_on_c, 9, 42, 0
+1, 45012, Marker_t, "did "
+1, 45012, Text_t, "did "
+1, 45024, Note_on_c, 0, 69, 96
+1, 45036, Note_on_c, 1, 42, 0
+1, 45044, Note_on_c, 0, 68, 0
+1, 45068, Note_on_c, 0, 61, 0
+1, 45080, Note_on_c, 9, 38, 0
+1, 45096, Note_on_c, 0, 69, 0
+1, 45112, Note_on_c, 2, 76, 78
+1, 45120, Note_on_c, 0, 69, 99
+1, 45120, Note_on_c, 1, 42, 86
+1, 45120, Note_on_c, 9, 35, 80
+1, 45120, Note_on_c, 9, 42, 48
+1, 45128, Note_on_c, 2, 73, 0
+1, 45143, Marker_t, "my "
+1, 45143, Text_t, "my "
+1, 45176, Note_on_c, 2, 66, 0
+1, 45180, Note_on_c, 0, 69, 0
+1, 45196, Note_on_c, 9, 42, 0
+1, 45196, Note_on_c, 9, 35, 0
+1, 45216, Note_on_c, 0, 54, 87
+1, 45296, Note_on_c, 1, 42, 0
+1, 45304, Marker_t, "best "
+1, 45304, Text_t, "best [B] "
+1, 45312, Note_on_c, 0, 63, 90
+1, 45312, Note_on_c, 0, 69, 109
+1, 45312, Note_on_c, 0, 47, 96
+1, 45312, Control_c, 0, 64, 0
+1, 45312, Note_on_c, 1, 35, 97
+1, 45312, Note_on_c, 2, 75, 59
+1, 45312, Note_on_c, 9, 35, 112
+1, 45312, Note_on_c, 9, 42, 64
+1, 45320, Note_on_c, 2, 59, 52
+1, 45324, Note_on_c, 2, 54, 0
+1, 45332, Note_on_c, 2, 76, 0
+1, 45356, Note_on_c, 0, 54, 0
+1, 45388, Note_on_c, 9, 35, 0
+1, 45388, Note_on_c, 9, 42, 0
+1, 45408, Note_on_c, 0, 54, 96
+1, 45504, Control_c, 0, 64, 127
+1, 45504, Note_on_c, 0, 57, 95
+1, 45504, Note_on_c, 9, 42, 48
+1, 45580, Note_on_c, 9, 42, 0
+1, 45600, Note_on_c, 0, 59, 106
+1, 45608, Note_on_c, 0, 63, 0
+1, 45688, Marker_t, "to "
+1, 45688, Text_t, "to "
+1, 45696, Note_on_c, 0, 63, 96
+1, 45696, Note_on_c, 9, 38, 96
+1, 45696, Note_on_c, 9, 42, 64
+1, 45720, Note_on_c, 0, 69, 0
+1, 45748, Note_on_c, 0, 47, 0
+1, 45772, Note_on_c, 9, 42, 0
+1, 45780, Note_on_c, 0, 57, 0
+1, 45792, Note_on_c, 0, 54, 0
+1, 45815, Marker_t, "keep "
+1, 45815, Text_t, "keep "
+1, 45848, Note_on_c, 9, 38, 0
+1, 45856, Note_on_c, 1, 35, 0
+1, 45888, Note_on_c, 0, 66, 89
+1, 45888, Note_on_c, 1, 35, 94
+1, 45888, Note_on_c, 9, 42, 48
+1, 45956, Note_on_c, 0, 63, 0
+1, 45964, Note_on_c, 9, 42, 0
+1, 45980, Note_on_c, 0, 66, 0
+1, 45984, Note_on_c, 0, 69, 95
+1, 46003, Marker_t, "you "
+1, 46003, Text_t, "you "
+1, 46008, Note_on_c, 0, 59, 0
+1, 46068, Note_on_c, 2, 78, 45
+1, 46072, Note_on_c, 0, 69, 0
+1, 46076, Note_on_c, 2, 52, 58
+1, 46080, Note_on_c, 1, 35, 0
+1, 46080, Note_on_c, 0, 66, 105
+1, 46080, Note_on_c, 0, 59, 104
+1, 46080, Note_on_c, 0, 52, 96
+1, 46080, Control_c, 0, 64, 0
+1, 46080, Note_on_c, 1, 40, 99
+1, 46080, Note_on_c, 9, 35, 112
+1, 46080, Note_on_c, 9, 42, 64
+1, 46136, Note_on_c, 2, 75, 0
+1, 46156, Note_on_c, 9, 42, 0
+1, 46156, Note_on_c, 9, 35, 0
+1, 46176, Control_c, 0, 64, 127
+1, 46212, Marker_t, "sa"
+1, 46212, Text_t, "sa[E]"
+1, 46272, Note_on_c, 0, 56, 91
+1, 46272, Note_on_c, 9, 42, 48
+1, 46284, Note_on_c, 0, 59, 0
+1, 46308, Marker_t, "tis"
+1, 46308, Text_t, "tis"
+1, 46348, Note_on_c, 9, 42, 0
+1, 46368, Note_on_c, 0, 59, 83
+1, 46376, Note_on_c, 0, 66, 0
+1, 46455, Marker_t, "fied~ "
+1, 46455, Text_t, "fied~ F#m"
+1, 46464, Note_on_c, 0, 64, 108
+1, 46464, Note_on_c, 0, 68, 113
+1, 46464, Note_on_c, 9, 38, 96
+1, 46464, Note_on_c, 9, 42, 64
+1, 46496, Note_on_c, 0, 59, 0
+1, 46540, Note_on_c, 9, 42, 0
+1, 46572, Note_on_c, 1, 40, 0
+1, 46616, Note_on_c, 9, 38, 0
+1, 46618, Marker_t, ""
+1, 46636, Note_on_c, 2, 71, 58
+1, 46640, Note_on_c, 0, 68, 0
+1, 46652, Note_on_c, 0, 64, 0
+1, 46656, Note_on_c, 0, 59, 80
+1, 46656, Note_on_c, 1, 40, 83
+1, 46656, Note_on_c, 9, 35, 80
+1, 46656, Note_on_c, 9, 42, 48
+1, 46676, Note_on_c, 0, 56, 0
+1, 46700, Note_on_c, 0, 59, 0
+1, 46732, Note_on_c, 9, 42, 0
+1, 46732, Note_on_c, 9, 35, 0
+1, 46752, Note_on_c, 0, 56, 103
+1, 46792, Note_on_c, 1, 40, 0
+1, 46832, Note_on_c, 2, 80, 80
+1, 46848, Note_on_c, 0, 63, 93
+1, 46848, Note_on_c, 0, 71, 109
+1, 46848, Control_c, 0, 64, 0
+1, 46848, Note_on_c, 1, 40, 90
+1, 46848, Note_on_c, 9, 35, 112
+1, 46848, Note_on_c, 9, 42, 64
+1, 46852, Note_on_c, 2, 78, 0
+1, 46924, Note_on_c, 9, 35, 0
+1, 46924, Note_on_c, 9, 42, 0
+1, 46944, Control_c, 0, 64, 127
+1, 47000, Note_on_c, 0, 56, 0
+1, 47040, Note_on_c, 9, 42, 48
+1, 47116, Note_on_c, 9, 42, 0
+1, 47136, Note_on_c, 0, 56, 91
+1, 47204, Note_on_c, 0, 71, 0
+1, 47216, Note_on_c, 1, 40, 0
+1, 47232, Note_on_c, 0, 66, 100
+1, 47232, Note_on_c, 0, 59, 99
+1, 47232, Note_on_c, 1, 41, 86
+1, 47232, Note_on_c, 9, 38, 96
+1, 47232, Note_on_c, 9, 42, 64
+1, 47240, Note_on_c, 0, 63, 0
+1, 47308, Note_on_c, 9, 42, 0
+1, 47332, Note_on_c, 0, 56, 0
+1, 47352, Note_on_c, 0, 52, 0
+1, 47384, Note_on_c, 9, 38, 0
+1, 47424, Note_on_c, 0, 64, 102
+1, 47424, Note_on_c, 9, 42, 48
+1, 47468, Note_on_c, 0, 66, 0
+1, 47476, Note_on_c, 0, 59, 0
+1, 47500, Note_on_c, 9, 42, 0
+1, 47568, Note_on_c, 2, 52, 0
+1, 47576, Note_on_c, 2, 54, 58
+1, 47596, Note_on_c, 1, 41, 0
+1, 47596, Note_on_c, 2, 59, 0
+1, 47596, Note_on_c, 2, 81, 69
+1, 47616, Note_on_c, 2, 80, 0
+1, 47616, Note_on_c, 0, 69, 106
+1, 47616, Note_on_c, 0, 61, 96
+1, 47616, Note_on_c, 0, 54, 90
+1, 47616, Control_c, 0, 64, 0
+1, 47616, Note_on_c, 1, 42, 88
+1, 47616, Note_on_c, 9, 35, 112
+1, 47616, Note_on_c, 9, 42, 64
+1, 47624, Note_on_c, 2, 71, 0
+1, 47632, Note_on_c, 0, 64, 0
+1, 47692, Note_on_c, 9, 35, 0
+1, 47692, Note_on_c, 9, 42, 0
+1, 47712, Note_on_c, 0, 57, 92
+1, 47712, Control_c, 0, 64, 127
+1, 47784, Note_on_c, 0, 61, 0
+1, 47808, Note_on_c, 0, 61, 85
+1, 47808, Note_on_c, 9, 42, 48
+1, 47884, Note_on_c, 9, 42, 0
+1, 47904, Note_on_c, 0, 66, 87
+1, 47924, Note_on_c, 0, 69, 0
+1, 47948, Note_on_c, 2, 69, 50
+1, 48000, Note_on_c, 0, 68, 112
+1, 48000, Note_on_c, 9, 38, 96
+1, 48000, Note_on_c, 9, 42, 64
+1, 48028, Note_on_c, 0, 66, 0
+1, 48056, Note_on_c, 0, 61, 0
+1, 48067, Marker_t, "/I "
+1, 48067, Text_t, "/I "
+1, 48076, Note_on_c, 9, 42, 0
+1, 48084, Note_on_c, 0, 57, 0
+1, 48124, Note_on_c, 0, 54, 0
+1, 48152, Note_on_c, 9, 38, 0
+1, 48160, Note_on_c, 0, 68, 0
+1, 48168, Note_on_c, 1, 42, 0
+1, 48192, Note_on_c, 0, 66, 88
+1, 48192, Note_on_c, 1, 42, 86
+1, 48192, Note_on_c, 9, 35, 80
+1, 48192, Note_on_c, 9, 42, 48
+1, 48198, Marker_t, "guess "
+1, 48198, Text_t, "guess "
+1, 48268, Note_on_c, 9, 42, 0
+1, 48268, Note_on_c, 9, 35, 0
+1, 48284, Note_on_c, 0, 66, 0
+1, 48317, Marker_t, "you'll "
+1, 48317, Text_t, "you'll "
+1, 48356, Note_on_c, 2, 54, 0
+1, 48356, Note_on_c, 2, 59, 81
+1, 48368, Note_on_c, 1, 42, 0
+1, 48384, Note_on_c, 0, 47, 93
+1, 48384, Note_on_c, 0, 63, 88
+1, 48384, Note_on_c, 0, 59, 103
+1, 48384, Control_c, 0, 64, 0
+1, 48384, Note_on_c, 1, 35, 99
+1, 48384, Note_on_c, 9, 35, 112
+1, 48384, Note_on_c, 9, 42, 64
+1, 48429, Marker_t, "ne"
+1, 48429, Text_t, "ne"
+1, 48460, Note_on_c, 9, 42, 0
+1, 48460, Note_on_c, 9, 35, 0
+1, 48480, Note_on_c, 0, 54, 88
+1, 48480, Control_c, 0, 64, 127
+1, 48534, Marker_t, "ver "
+1, 48534, Text_t, "ver [B] "
+1, 48576, Note_on_c, 0, 57, 92
+1, 48576, Note_on_c, 9, 42, 48
+1, 48580, Note_on_c, 0, 59, 0
+1, 48652, Note_on_c, 9, 42, 0
+1, 48666, Marker_t, "know "
+1, 48666, Text_t, "know "
+1, 48672, Note_on_c, 0, 59, 97
+1, 48680, Note_on_c, 0, 63, 0
+1, 48768, Note_on_c, 0, 63, 88
+1, 48768, Note_on_c, 9, 38, 96
+1, 48768, Note_on_c, 9, 42, 64
+1, 48844, Note_on_c, 9, 42, 0
+1, 48864, Note_on_c, 0, 66, 97
+1, 48920, Note_on_c, 9, 38, 0
+1, 48932, Note_on_c, 0, 63, 0
+1, 48960, Note_on_c, 0, 69, 108
+1, 48960, Note_on_c, 9, 42, 48
+1, 48968, Note_on_c, 1, 35, 0
+1, 48988, Note_on_c, 0, 66, 0
+1, 49012, Note_on_c, 0, 54, 0
+1, 49028, Note_on_c, 0, 47, 0
+1, 49036, Note_on_c, 9, 42, 0
+1, 49040, Note_on_c, 0, 69, 0
+1, 49044, Note_on_c, 0, 59, 0
+1, 49124, Note_on_c, 0, 57, 0
+1, 49124, Note_on_c, 2, 74, 75
+1, 49132, Note_on_c, 2, 66, 57
+1, 49144, Note_on_c, 2, 69, 0
+1, 49152, Note_on_c, 0, 66, 109
+1, 49152, Note_on_c, 0, 62, 113
+1, 49152, Note_on_c, 0, 47, 97
+1, 49152, Control_c, 0, 64, 0
+1, 49152, Note_on_c, 1, 35, 90
+1, 49152, Note_on_c, 9, 35, 112
+1, 49152, Note_on_c, 9, 42, 64
+1, 49160, Note_on_c, 2, 81, 0
+1, 49194, Marker_t, "/how "
+1, 49194, Text_t, "/how "
+1, 49228, Note_on_c, 9, 42, 0
+1, 49228, Note_on_c, 9, 35, 0
+1, 49248, Note_on_c, 0, 54, 96
+1, 49248, Control_c, 0, 64, 127
+1, 49289, Marker_t, "much "
+1, 49289, Text_t, "much [Bm] "
+1, 49344, Note_on_c, 0, 57, 109
+1, 49344, Note_on_c, 9, 42, 48
+1, 49420, Note_on_c, 9, 42, 0
+1, 49440, Note_on_c, 0, 66, 0
+1, 49440, Note_on_c, 0, 61, 110
+1, 49452, Note_on_c, 0, 62, 0
+1, 49479, Marker_t, "I "
+1, 49479, Text_t, "I "
+1, 49520, Note_on_c, 2, 73, 70
+1, 49536, Note_on_c, 2, 74, 0
+1, 49536, Note_on_c, 0, 62, 127
+1, 49536, Note_on_c, 9, 38, 96
+1, 49536, Note_on_c, 9, 42, 64
+1, 49582, Marker_t, "tried, "
+1, 49582, Text_t, "tried, "
+1, 49592, Note_on_c, 2, 66, 0
+1, 49612, Note_on_c, 9, 42, 0
+1, 49612, Note_on_c, 0, 61, 0
+1, 49632, Note_on_c, 0, 69, 118
+1, 49644, Note_on_c, 0, 62, 0
+1, 49648, Note_on_c, 0, 57, 0
+1, 49676, Note_on_c, 0, 54, 0
+1, 49688, Note_on_c, 9, 38, 0
+1, 49708, Note_on_c, 0, 47, 0
+1, 49728, Note_on_c, 0, 66, 104
+1, 49728, Note_on_c, 9, 35, 80
+1, 49728, Note_on_c, 9, 42, 48
+1, 49796, Note_on_c, 0, 66, 0
+1, 49804, Note_on_c, 9, 35, 0
+1, 49804, Note_on_c, 9, 42, 0
+1, 49824, Note_on_c, 0, 69, 0
+1, 49888, Note_on_c, 2, 69, 73
+1, 49896, Note_on_c, 2, 62, 58
+1, 49904, Note_on_c, 2, 52, 50
+1, 49912, Note_on_c, 2, 73, 0
+1, 49914, Marker_t, "/I "
+1, 49914, Text_t, "/I "
+1, 49920, Note_on_c, 0, 40, 101
+1, 49920, Note_on_c, 0, 62, 120
+1, 49920, Note_on_c, 0, 57, 113
+1, 49920, Note_on_c, 0, 66, 115
+1, 49920, Control_c, 0, 64, 0
+1, 49920, Note_on_c, 1, 40, 94
+1, 49920, Note_on_c, 9, 35, 112
+1, 49920, Note_on_c, 9, 42, 64
+1, 49924, Note_on_c, 1, 35, 0
+1, 49996, Note_on_c, 9, 35, 0
+1, 49996, Note_on_c, 9, 42, 0
+1, 50016, Control_c, 0, 64, 127
+1, 50025, Marker_t, "real"
+1, 50025, Text_t, "real"
+1, 50112, Note_on_c, 9, 42, 48
+1, 50124, Note_on_c, 0, 66, 0
+1, 50146, Marker_t, "ly "
+1, 50146, Text_t, "ly [E] "
+1, 50148, Note_on_c, 0, 62, 0
+1, 50156, Note_on_c, 0, 57, 0
+1, 50188, Note_on_c, 9, 42, 0
+1, 50256, Note_on_c, 0, 40, 0
+1, 50279, Marker_t, "tried"
+1, 50279, Text_t, "tried"
+1, 50284, Note_on_c, 2, 66, 61
+1, 50300, Note_on_c, 2, 69, 0
+1, 50304, Note_on_c, 0, 62, 100
+1, 50304, Note_on_c, 0, 57, 104
+1, 50304, Note_on_c, 0, 54, 92
+1, 50304, Note_on_c, 9, 38, 96
+1, 50368, Note_on_c, 0, 54, 0
+1, 50368, Note_on_c, 0, 57, 0
+1, 50400, Note_on_c, 0, 62, 0
+1, 50400, Note_on_c, 9, 45, 80
+1, 50427, Marker_t, ""
+1, 50436, Note_on_c, 2, 66, 0
+1, 50440, Note_on_c, 9, 45, 0
+1, 50456, Note_on_c, 9, 38, 0
+1, 50468, Note_on_c, 2, 66, 42
+1, 50496, Note_on_c, 9, 41, 96
+1, 50528, Note_on_c, 1, 40, 0
+1, 50572, Note_on_c, 9, 41, 0
+1, 50664, Note_on_c, 2, 64, 42
+1, 50672, Note_on_c, 2, 62, 0
+1, 50672, Note_on_c, 2, 66, 0
+1, 50672, Note_on_c, 2, 61, 37
+1, 50684, Note_on_c, 2, 59, 0
+1, 50688, Note_on_c, 0, 61, 90
+1, 50688, Note_on_c, 0, 45, 85
+1, 50688, Note_on_c, 0, 59, 93
+1, 50688, Note_on_c, 0, 64, 87
+1, 50688, Control_c, 0, 64, 127
+1, 50688, Note_on_c, 1, 33, 107
+1, 50688, Note_on_c, 9, 35, 112
+1, 50688, Note_on_c, 9, 42, 64
+1, 50696, Note_on_c, 2, 52, 0
+1, 50764, Note_on_c, 9, 42, 0
+1, 50764, Note_on_c, 9, 35, 0
+1, 50880, Note_on_c, 0, 52, 77
+1, 50880, Note_on_c, 9, 42, 48
+1, 50956, Note_on_c, 9, 42, 0
+1, 51020, Note_on_c, 0, 59, 0
+1, 51044, Note_on_c, 0, 61, 0
+1, 51064, Marker_t, "\\And "
+1, 51064, Text_t, "\\And "
+1, 51072, Note_on_c, 9, 42, 64
+1, 51072, Note_on_c, 9, 37, 96
+1, 51096, Note_on_c, 0, 52, 0
+1, 51148, Note_on_c, 9, 42, 0
+1, 51154, Marker_t, "if "
+1, 51154, Text_t, "if "
+1, 51168, Note_on_c, 0, 52, 79
+1, 51200, Note_on_c, 1, 33, 0
+1, 51224, Note_on_c, 9, 37, 0
+1, 51264, Note_on_c, 0, 57, 101
+1, 51264, Note_on_c, 1, 33, 94
+1, 51264, Note_on_c, 9, 35, 80
+1, 51264, Note_on_c, 9, 42, 48
+1, 51273, Marker_t, "ever "
+1, 51273, Text_t, "ever [A] "
+1, 51288, Note_on_c, 0, 64, 0
+1, 51308, Note_on_c, 0, 45, 0
+1, 51328, Note_on_c, 0, 57, 0
+1, 51340, Note_on_c, 9, 35, 0
+1, 51340, Note_on_c, 9, 42, 0
+1, 51360, Note_on_c, 0, 64, 100
+1, 51377, Marker_t, "our "
+1, 51377, Text_t, "our "
+1, 51384, Note_on_c, 0, 52, 0
+1, 51412, Note_on_c, 0, 64, 0
+1, 51436, Note_on_c, 2, 57, 39
+1, 51456, Note_on_c, 1, 33, 0
+1, 51456, Note_on_c, 0, 57, 113
+1, 51456, Note_on_c, 0, 50, 105
+1, 51456, Note_on_c, 0, 54, 99
+1, 51456, Note_on_c, 0, 64, 120
+1, 51456, Control_c, 0, 64, 0
+1, 51456, Note_on_c, 1, 38, 97
+1, 51456, Note_on_c, 9, 35, 112
+1, 51456, Note_on_c, 9, 42, 64
+1, 51475, Marker_t, "paths "
+1, 51475, Text_t, "paths [D] "
+1, 51532, Note_on_c, 9, 42, 0
+1, 51532, Note_on_c, 9, 35, 0
+1, 51609, Marker_t, "should "
+1, 51609, Text_t, "should "
+1, 51648, Control_c, 0, 64, 127
+1, 51648, Note_on_c, 9, 42, 48
+1, 51724, Note_on_c, 9, 42, 0
+1, 51733, Marker_t, "cross "
+1, 51733, Text_t, "cross "
+1, 51736, Note_on_c, 0, 64, 0
+1, 51740, Note_on_c, 0, 57, 0
+1, 51744, Note_on_c, 0, 62, 97
+1, 51804, Note_on_c, 0, 62, 0
+1, 51840, Note_on_c, 9, 42, 64
+1, 51840, Note_on_c, 9, 37, 96
+1, 51916, Note_on_c, 9, 42, 0
+1, 51920, Note_on_c, 0, 54, 0
+1, 51936, Note_on_c, 0, 61, 73
+1, 51992, Note_on_c, 9, 37, 0
+1, 52032, Note_on_c, 0, 50, 0
+1, 52032, Note_on_c, 9, 42, 48
+1, 52052, Note_on_c, 0, 61, 0
+1, 52055, Marker_t, "a"
+1, 52055, Text_t, "a"
+1, 52108, Note_on_c, 9, 42, 0
+1, 52128, Note_on_c, 1, 38, 0
+1, 52128, Note_on_c, 0, 59, 88
+1, 52152, Note_on_c, 0, 59, 0
+1, 52172, Note_on_c, 2, 61, 0
+1, 52177, Marker_t, "gain"
+1, 52177, Text_t, "gain[G]~~E"
+1, 52184, Note_on_c, 2, 62, 78
+1, 52204, Note_on_c, 2, 64, 0
+1, 52224, Note_on_c, 0, 50, 100
+1, 52224, Note_on_c, 0, 57, 108
+1, 52224, Control_c, 0, 64, 0
+1, 52224, Note_on_c, 1, 43, 73
+1, 52224, Note_on_c, 9, 35, 112
+1, 52224, Note_on_c, 9, 42, 64
+1, 52300, Note_on_c, 9, 42, 0
+1, 52300, Note_on_c, 9, 35, 0
+1, 52416, Control_c, 0, 64, 127
+1, 52416, Note_on_c, 9, 42, 48
+1, 52492, Note_on_c, 9, 42, 0
+1, 52512, Note_on_c, 0, 55, 77
+1, 52512, Note_on_c, 0, 59, 101
+1, 52520, Note_on_c, 0, 57, 0
+1, 52536, Note_on_c, 0, 55, 0
+1, 52548, Note_on_c, 0, 50, 0
+1, 52548, Note_on_c, 0, 59, 0
+1, 52608, Note_on_c, 9, 42, 64
+1, 52608, Note_on_c, 9, 37, 96
+1, 52676, Note_on_c, 1, 43, 0
+1, 52684, Note_on_c, 9, 42, 0
+1, 52760, Note_on_c, 9, 37, 0
+1, 52800, Note_on_c, 1, 43, 77
+1, 52800, Note_on_c, 9, 35, 80
+1, 52800, Note_on_c, 9, 42, 48
+1, 52845, Marker_t, ""
+1, 52876, Note_on_c, 9, 42, 0
+1, 52876, Note_on_c, 9, 35, 0
+1, 52912, Note_on_c, 1, 43, 0
+1, 52984, Note_on_c, 2, 64, 56
+1, 52992, Control_c, 0, 64, 0
+1, 52992, Note_on_c, 0, 57, 96
+1, 52992, Note_on_c, 0, 50, 89
+1, 52992, Note_on_c, 0, 54, 96
+1, 52992, Note_on_c, 1, 40, 79
+1, 52992, Note_on_c, 9, 35, 112
+1, 52992, Note_on_c, 9, 42, 64
+1, 53000, Note_on_c, 2, 62, 0
+1, 53000, Note_on_c, 2, 59, 55
+1, 53028, Note_on_c, 2, 57, 0
+1, 53068, Note_on_c, 9, 35, 0
+1, 53068, Note_on_c, 9, 42, 0
+1, 53088, Control_c, 0, 64, 127
+1, 53184, Note_on_c, 9, 42, 48
+1, 53204, Note_on_c, 0, 50, 0
+1, 53204, Note_on_c, 0, 54, 0
+1, 53252, Note_on_c, 0, 57, 0
+1, 53260, Note_on_c, 9, 42, 0
+1, 53376, Note_on_c, 0, 59, 105
+1, 53376, Note_on_c, 0, 52, 98
+1, 53376, Note_on_c, 9, 42, 64
+1, 53376, Note_on_c, 9, 37, 96
+1, 53452, Note_on_c, 9, 42, 0
+1, 53527, Marker_t, "/Well~, "
+1, 53527, Text_t, "/Well~, "
+1, 53528, Note_on_c, 9, 37, 0
+1, 53556, Note_on_c, 0, 59, 0
+1, 53564, Note_on_c, 0, 52, 0
+1, 53568, Note_on_c, 9, 42, 48
+1, 53616, Note_on_c, 1, 40, 0
+1, 53644, Note_on_c, 9, 42, 0
+1, 53736, Note_on_c, 2, 69, 29
+1, 53760, Note_on_c, 0, 61, 93
+1, 53760, Note_on_c, 0, 57, 103
+1, 53760, Control_c, 0, 64, 0
+1, 53760, Note_on_c, 1, 33, 101
+1, 53760, Note_on_c, 9, 35, 112
+1, 53760, Note_on_c, 9, 42, 64
+1, 53792, Note_on_c, 2, 59, 0
+1, 53830, Marker_t, "you "
+1, 53830, Text_t, "you "
+1, 53836, Note_on_c, 9, 42, 0
+1, 53836, Note_on_c, 9, 35, 0
+1, 53856, Control_c, 0, 64, 127
+1, 53952, Note_on_c, 9, 42, 48
+1, 53992, Marker_t, "won't "
+1, 53992, Text_t, "won't [A] "
+1, 54028, Note_on_c, 9, 42, 0
+1, 54144, Note_on_c, 9, 42, 64
+1, 54144, Note_on_c, 9, 37, 96
+1, 54160, Note_on_c, 0, 57, 0
+1, 54220, Note_on_c, 9, 42, 0
+1, 54240, Note_on_c, 0, 52, 82
+1, 54248, Note_on_c, 1, 33, 0
+1, 54273, Marker_t, "find "
+1, 54273, Text_t, "find "
+1, 54296, Note_on_c, 9, 37, 0
+1, 54312, Note_on_c, 0, 61, 0
+1, 54336, Note_on_c, 0, 57, 90
+1, 54336, Note_on_c, 1, 45, 75
+1, 54336, Note_on_c, 9, 35, 80
+1, 54336, Note_on_c, 9, 42, 48
+1, 54385, Marker_t, "me "
+1, 54385, Text_t, "me [D] "
+1, 54412, Note_on_c, 9, 42, 0
+1, 54412, Note_on_c, 0, 57, 0
+1, 54412, Note_on_c, 9, 35, 0
+1, 54428, Note_on_c, 0, 52, 0
+1, 54432, Note_on_c, 0, 61, 91
+1, 54468, Note_on_c, 0, 61, 0
+1, 54500, Note_on_c, 1, 45, 0
+1, 54508, Marker_t, "being "
+1, 54508, Text_t, "being "
+1, 54516, Note_on_c, 2, 64, 0
+1, 54516, Note_on_c, 2, 73, 31
+1, 54524, Note_on_c, 2, 66, 68
+1, 54528, Note_on_c, 0, 61, 98
+1, 54528, Note_on_c, 0, 57, 110
+1, 54528, Note_on_c, 0, 52, 100
+1, 54528, Control_c, 0, 64, 0
+1, 54528, Note_on_c, 1, 38, 101
+1, 54528, Note_on_c, 9, 35, 112
+1, 54528, Note_on_c, 9, 42, 64
+1, 54536, Note_on_c, 2, 69, 0
+1, 54604, Note_on_c, 9, 42, 0
+1, 54604, Note_on_c, 9, 35, 0
+1, 54633, Marker_t, "the "
+1, 54633, Text_t, "the "
+1, 54720, Control_c, 0, 64, 127
+1, 54720, Note_on_c, 9, 42, 48
+1, 54742, Marker_t, "one "
+1, 54742, Text_t, "one "
+1, 54796, Note_on_c, 9, 42, 0
+1, 54800, Note_on_c, 0, 57, 0
+1, 54816, Note_on_c, 0, 59, 87
+1, 54840, Note_on_c, 0, 61, 0
+1, 54884, Note_on_c, 0, 59, 0
+1, 54912, Note_on_c, 9, 42, 64
+1, 54912, Note_on_c, 9, 37, 96
+1, 54928, Note_on_c, 0, 52, 0
+1, 54988, Note_on_c, 9, 42, 0
+1, 55042, Marker_t, "/to "
+1, 55042, Text_t, "/to "
+1, 55064, Note_on_c, 9, 37, 0
+1, 55104, Note_on_c, 0, 57, 98
+1, 55104, Note_on_c, 9, 42, 48
+1, 55127, Marker_t, "get "
+1, 55127, Text_t, "get "
+1, 55148, Note_on_c, 0, 57, 0
+1, 55152, Note_on_c, 1, 38, 0
+1, 55180, Note_on_c, 9, 42, 0
+1, 55220, Marker_t, "lost "
+1, 55220, Text_t, "lost "
+1, 55288, Note_on_c, 2, 69, 63
+1, 55296, Note_on_c, 0, 50, 100
+1, 55296, Note_on_c, 0, 57, 115
+1, 55296, Control_c, 0, 64, 0
+1, 55296, Note_on_c, 1, 43, 66
+1, 55296, Note_on_c, 9, 35, 112
+1, 55296, Note_on_c, 9, 42, 64
+1, 55308, Note_on_c, 2, 62, 34
+1, 55312, Note_on_c, 2, 73, 0
+1, 55316, Note_on_c, 2, 66, 0
+1, 55372, Note_on_c, 9, 42, 0
+1, 55372, Note_on_c, 9, 35, 0
+1, 55457, Marker_t, "a"
+1, 55457, Text_t, "a"
+1, 55488, Control_c, 0, 64, 127
+1, 55488, Note_on_c, 9, 42, 48
+1, 55564, Note_on_c, 9, 42, 0
+1, 55584, Note_on_c, 0, 59, 96
+1, 55622, Marker_t, "gain"
+1, 55622, Text_t, "gain[G~~E]"
+1, 55624, Note_on_c, 0, 57, 0
+1, 55656, Note_on_c, 0, 50, 0
+1, 55680, Note_on_c, 2, 71, 69
+1, 55680, Note_on_c, 9, 42, 64
+1, 55680, Note_on_c, 9, 37, 96
+1, 55700, Note_on_c, 2, 69, 0
+1, 55744, Marker_t, ""
+1, 55756, Note_on_c, 9, 42, 0
+1, 55776, Note_on_c, 0, 50, 90
+1, 55824, Note_on_c, 1, 43, 0
+1, 55832, Note_on_c, 0, 59, 0
+1, 55832, Note_on_c, 9, 37, 0
+1, 55872, Note_on_c, 0, 55, 84
+1, 55872, Note_on_c, 1, 43, 75
+1, 55872, Note_on_c, 9, 35, 80
+1, 55872, Note_on_c, 9, 42, 48
+1, 55948, Note_on_c, 9, 42, 0
+1, 55948, Note_on_c, 9, 35, 0
+1, 55952, Note_on_c, 0, 55, 0
+1, 55968, Note_on_c, 0, 59, 97
+1, 55988, Note_on_c, 0, 50, 0
+1, 56020, Note_on_c, 0, 59, 0
+1, 56052, Note_on_c, 1, 43, 0
+1, 56056, Note_on_c, 2, 66, 53
+1, 56064, Note_on_c, 0, 52, 99
+1, 56064, Note_on_c, 0, 59, 116
+1, 56064, Control_c, 0, 64, 0
+1, 56064, Note_on_c, 1, 40, 85
+1, 56064, Note_on_c, 9, 35, 112
+1, 56064, Note_on_c, 9, 42, 64
+1, 56140, Note_on_c, 9, 42, 0
+1, 56140, Note_on_c, 9, 35, 0
+1, 56256, Control_c, 0, 64, 127
+1, 56256, Note_on_c, 9, 42, 48
+1, 56332, Note_on_c, 9, 42, 0
+1, 56340, Note_on_c, 0, 59, 0
+1, 56348, Note_on_c, 2, 66, 0
+1, 56372, Note_on_c, 0, 52, 0
+1, 56440, Note_on_c, 2, 73, 63
+1, 56448, Note_on_c, 0, 61, 83
+1, 56448, Note_on_c, 9, 42, 64
+1, 56448, Note_on_c, 9, 37, 96
+1, 56472, Note_on_c, 2, 71, 0
+1, 56524, Note_on_c, 9, 42, 0
+1, 56600, Note_on_c, 9, 37, 0
+1, 56632, Note_on_c, 0, 61, 0
+1, 56632, Note_on_c, 2, 74, 69
+1, 56640, Note_on_c, 0, 62, 85
+1, 56640, Note_on_c, 9, 42, 48
+1, 56656, Note_on_c, 2, 73, 0
+1, 56716, Note_on_c, 9, 42, 0
+1, 56754, Marker_t, "/Once "
+1, 56754, Text_t, "/Once "
+1, 56788, Note_on_c, 2, 76, 66
+1, 56792, Note_on_c, 0, 62, 0
+1, 56804, Note_on_c, 2, 74, 0
+1, 56816, Note_on_c, 1, 40, 0
+1, 56820, Note_on_c, 2, 62, 0
+1, 56832, Note_on_c, 0, 64, 99
+1, 56832, Control_c, 0, 64, 0
+1, 56832, Note_on_c, 0, 57, 92
+1, 56832, Control_c, 0, 64, 127
+1, 56832, Note_on_c, 1, 45, 92
+1, 56832, Note_on_c, 9, 35, 112
+1, 56832, Note_on_c, 9, 42, 64
+1, 56840, Note_on_c, 2, 57, 30
+1, 56857, Marker_t, "I "
+1, 56857, Text_t, "I "
+1, 56908, Note_on_c, 9, 42, 0
+1, 56908, Note_on_c, 9, 35, 0
+1, 56980, Note_on_c, 2, 64, 59
+1, 57005, Marker_t, "had "
+1, 57005, Text_t, "had [A] "
+1, 57024, Note_on_c, 0, 59, 79
+1, 57024, Note_on_c, 9, 42, 48
+1, 57100, Note_on_c, 9, 42, 0
+1, 57120, Note_on_c, 0, 64, 0
+1, 57120, Note_on_c, 0, 61, 78
+1, 57204, Note_on_c, 2, 69, 89
+1, 57216, Note_on_c, 9, 42, 64
+1, 57216, Note_on_c, 9, 37, 96
+1, 57235, Marker_t, "so "
+1, 57235, Text_t, "so "
+1, 57272, Note_on_c, 2, 76, 0
+1, 57292, Note_on_c, 9, 42, 0
+1, 57292, Note_on_c, 0, 61, 0
+1, 57300, Note_on_c, 0, 59, 0
+1, 57312, Note_on_c, 0, 64, 96
+1, 57328, Note_on_c, 1, 45, 0
+1, 57358, Marker_t, "much "
+1, 57358, Text_t, "much "
+1, 57368, Note_on_c, 9, 37, 0
+1, 57384, Note_on_c, 0, 64, 0
+1, 57388, Note_on_c, 2, 73, 67
+1, 57400, Note_on_c, 0, 57, 0
+1, 57408, Note_on_c, 1, 45, 92
+1, 57408, Note_on_c, 9, 35, 80
+1, 57408, Note_on_c, 9, 42, 48
+1, 57412, Note_on_c, 2, 69, 0
+1, 57484, Note_on_c, 9, 35, 0
+1, 57484, Note_on_c, 9, 42, 0
+1, 57513, Marker_t, "to "
+1, 57513, Text_t, "to "
+1, 57516, Note_on_c, 1, 45, 0
+1, 57580, Note_on_c, 2, 71, 75
+1, 57588, Note_on_c, 2, 67, 62
+1, 57600, Note_on_c, 0, 67, 84
+1, 57600, Note_on_c, 0, 57, 95
+1, 57600, Note_on_c, 0, 59, 99
+1, 57600, Note_on_c, 0, 62, 103
+1, 57600, Control_c, 0, 64, 0
+1, 57600, Note_on_c, 1, 45, 99
+1, 57600, Note_on_c, 9, 35, 112
+1, 57600, Note_on_c, 9, 42, 64
+1, 57604, Note_on_c, 2, 64, 0
+1, 57616, Note_on_c, 2, 73, 0
+1, 57660, Note_on_c, 2, 57, 0
+1, 57676, Note_on_c, 9, 35, 0
+1, 57676, Note_on_c, 9, 42, 0
+1, 57703, Marker_t, "give "
+1, 57703, Text_t, "give [A7] "
+1, 57792, Control_c, 0, 64, 127
+1, 57792, Note_on_c, 9, 42, 48
+1, 57848, Note_on_c, 0, 62, 0
+1, 57848, Note_on_c, 0, 59, 0
+1, 57868, Note_on_c, 9, 42, 0
+1, 57876, Note_on_c, 0, 67, 0
+1, 57952, Note_on_c, 2, 62, 60
+1, 57984, Note_on_c, 0, 71, 96
+1, 57984, Note_on_c, 0, 62, 96
+1, 57984, Note_on_c, 9, 42, 64
+1, 57984, Note_on_c, 9, 37, 96
+1, 58036, Note_on_c, 0, 57, 0
+1, 58060, Note_on_c, 9, 42, 0
+1, 58104, Marker_t, "/but "
+1, 58104, Text_t, "/but "
+1, 58136, Note_on_c, 9, 37, 0
+1, 58176, Note_on_c, 9, 42, 48
+1, 58195, Marker_t, "you "
+1, 58195, Text_t, "you "
+1, 58208, Note_on_c, 0, 71, 0
+1, 58220, Note_on_c, 1, 45, 0
+1, 58224, Note_on_c, 0, 62, 0
+1, 58252, Note_on_c, 9, 42, 0
+1, 58313, Marker_t, "just "
+1, 58313, Text_t, "just "
+1, 58340, Note_on_c, 2, 69, 73
+1, 58348, Note_on_c, 2, 71, 0
+1, 58356, Note_on_c, 2, 67, 0
+1, 58368, Note_on_c, 0, 69, 96
+1, 58368, Note_on_c, 0, 64, 100
+1, 58368, Control_c, 0, 64, 0
+1, 58368, Note_on_c, 0, 57, 82
+1, 58368, Note_on_c, 0, 50, 70
+1, 58368, Note_on_c, 1, 38, 107
+1, 58368, Note_on_c, 9, 35, 112
+1, 58368, Note_on_c, 9, 42, 64
+1, 58444, Note_on_c, 9, 42, 0
+1, 58444, Note_on_c, 9, 35, 0
+1, 58467, Marker_t, "re"
+1, 58467, Text_t, "re"
+1, 58560, Control_c, 0, 64, 127
+1, 58560, Note_on_c, 2, 66, 59
+1, 58560, Note_on_c, 9, 42, 48
+1, 58603, Marker_t, "fused "
+1, 58603, Text_t, "fused [D] "
+1, 58636, Note_on_c, 9, 42, 0
+1, 58748, Note_on_c, 2, 73, 71
+1, 58752, Note_on_c, 9, 42, 64
+1, 58752, Note_on_c, 9, 37, 96
+1, 58760, Note_on_c, 2, 69, 0
+1, 58828, Note_on_c, 9, 42, 0
+1, 58832, Note_on_c, 1, 38, 0
+1, 58904, Note_on_c, 9, 37, 0
+1, 58944, Note_on_c, 0, 73, 88
+1, 58944, Note_on_c, 1, 38, 94
+1, 58944, Note_on_c, 9, 35, 80
+1, 58944, Note_on_c, 9, 42, 48
+1, 58948, Note_on_c, 0, 57, 0
+1, 58948, Note_on_c, 0, 69, 0
+1, 58960, Note_on_c, 0, 64, 0
+1, 59016, Note_on_c, 0, 73, 0
+1, 59020, Note_on_c, 9, 42, 0
+1, 59020, Note_on_c, 9, 35, 0
+1, 59056, Note_on_c, 1, 38, 0
+1, 59080, Note_on_c, 2, 66, 0
+1, 59092, Note_on_c, 2, 71, 74
+1, 59093, Marker_t, "my "
+1, 59093, Text_t, "my "
+1, 59136, Note_on_c, 2, 73, 0
+1, 59136, Note_on_c, 0, 57, 90
+1, 59136, Note_on_c, 0, 71, 95
+1, 59136, Note_on_c, 0, 65, 83
+1, 59136, Control_c, 0, 64, 0
+1, 59136, Note_on_c, 1, 38, 101
+1, 59136, Note_on_c, 9, 35, 112
+1, 59136, Note_on_c, 9, 42, 64
+1, 59172, Marker_t, "love"
+1, 59172, Text_t, "love[Dm] "
+1, 59212, Note_on_c, 9, 42, 0
+1, 59212, Note_on_c, 9, 35, 0
+1, 59312, Note_on_c, 2, 65, 54
+1, 59328, Control_c, 0, 64, 127
+1, 59328, Note_on_c, 9, 42, 48
+1, 59356, Note_on_c, 2, 62, 0
+1, 59359, Marker_t, ""
+1, 59404, Note_on_c, 9, 42, 0
+1, 59500, Note_on_c, 0, 71, 0
+1, 59512, Note_on_c, 0, 65, 0
+1, 59516, Note_on_c, 2, 64, 72
+1, 59520, Note_on_c, 9, 42, 64
+1, 59520, Note_on_c, 9, 37, 96
+1, 59532, Note_on_c, 2, 65, 0
+1, 59584, Note_on_c, 0, 50, 0
+1, 59596, Note_on_c, 9, 42, 0
+1, 59644, Note_on_c, 0, 57, 0
+1, 59672, Note_on_c, 9, 37, 0
+1, 59692, Note_on_c, 2, 62, 81
+1, 59712, Note_on_c, 2, 71, 0
+1, 59712, Note_on_c, 0, 69, 90
+1, 59712, Note_on_c, 9, 42, 48
+1, 59724, Note_on_c, 2, 64, 0
+1, 59764, Note_on_c, 1, 38, 0
+1, 59788, Note_on_c, 9, 42, 0
+1, 59800, Note_on_c, 0, 69, 0
+1, 59808, Note_on_c, 0, 68, 83
+1, 59858, Marker_t, "/From "
+1, 59858, Text_t, "/From "
+1, 59860, Note_on_c, 0, 68, 0
+1, 59884, Note_on_c, 2, 64, 77
+1, 59900, Note_on_c, 2, 62, 0
+1, 59904, Note_on_c, 0, 64, 90
+1, 59904, Note_on_c, 0, 69, 92
+1, 59904, Control_c, 0, 64, 0
+1, 59904, Note_on_c, 1, 40, 92
+1, 59904, Note_on_c, 9, 35, 112
+1, 59904, Note_on_c, 9, 42, 64
+1, 59958, Marker_t, "now "
+1, 59958, Text_t, "now "
+1, 59980, Note_on_c, 9, 42, 0
+1, 59980, Note_on_c, 9, 35, 0
+1, 60072, Marker_t, "on "
+1, 60072, Text_t, "on [A] "
+1, 60096, Control_c, 0, 64, 127
+1, 60096, Note_on_c, 9, 42, 48
+1, 60104, Note_on_c, 2, 69, 40
+1, 60172, Note_on_c, 9, 42, 0
+1, 60288, Note_on_c, 9, 42, 64
+1, 60288, Note_on_c, 9, 37, 96
+1, 60356, Note_on_c, 1, 40, 0
+1, 60364, Note_on_c, 9, 42, 0
+1, 60384, Note_on_c, 0, 61, 92
+1, 60396, Note_on_c, 0, 64, 0
+1, 60440, Note_on_c, 9, 37, 0
+1, 60464, Note_on_c, 0, 69, 0
+1, 60480, Note_on_c, 0, 64, 92
+1, 60480, Note_on_c, 1, 40, 80
+1, 60480, Note_on_c, 9, 35, 80
+1, 60480, Note_on_c, 9, 42, 48
+1, 60556, Note_on_c, 9, 42, 0
+1, 60556, Note_on_c, 9, 35, 0
+1, 60560, Note_on_c, 0, 61, 0
+1, 60564, Note_on_c, 0, 64, 0
+1, 60576, Note_on_c, 0, 69, 98
+1, 60600, Note_on_c, 1, 40, 0
+1, 60624, Note_on_c, 0, 69, 0
+1, 60626, Marker_t, "you're "
+1, 60626, Text_t, "you're "
+1, 60660, Note_on_c, 2, 62, 53
+1, 60672, Note_on_c, 0, 62, 108
+1, 60672, Note_on_c, 0, 69, 109
+1, 60672, Note_on_c, 0, 66, 108
+1, 60672, Note_on_c, 1, 40, 92
+1, 60672, Note_on_c, 9, 35, 112
+1, 60672, Note_on_c, 9, 42, 64
+1, 60676, Note_on_c, 2, 64, 0
+1, 60748, Marker_t, "only "
+1, 60748, Note_on_c, 9, 42, 0
+1, 60748, Note_on_c, 9, 35, 0
+1, 60748, Text_t, "only "
+1, 60864, Note_on_c, 9, 42, 48
+1, 60913, Marker_t, "some"
+1, 60913, Text_t, "some"
+1, 60940, Note_on_c, 9, 42, 0
+1, 61032, Note_on_c, 0, 62, 0
+1, 61056, Note_on_c, 9, 42, 64
+1, 61056, Note_on_c, 9, 37, 96
+1, 61073, Marker_t, "one "
+1, 61073, Text_t, "one [E]"
+1, 61120, Note_on_c, 0, 66, 0
+1, 61132, Note_on_c, 9, 42, 0
+1, 61152, Note_on_c, 0, 62, 90
+1, 61208, Note_on_c, 0, 69, 0
+1, 61208, Note_on_c, 9, 37, 0
+1, 61248, Note_on_c, 0, 66, 82
+1, 61248, Note_on_c, 9, 42, 48
+1, 61276, Note_on_c, 0, 62, 0
+1, 61324, Note_on_c, 9, 42, 0
+1, 61332, Note_on_c, 0, 66, 0
+1, 61344, Note_on_c, 0, 69, 89
+1, 61400, Note_on_c, 0, 69, 0
+1, 61408, Note_on_c, 1, 40, 0
+1, 61416, Note_on_c, 2, 64, 63
+1, 61433, Marker_t, "/that "
+1, 61433, Text_t, "/that "
+1, 61440, Note_on_c, 2, 64, 0
+1, 61440, Note_on_c, 2, 69, 0
+1, 61440, Note_on_c, 0, 64, 110
+1, 61440, Note_on_c, 0, 69, 109
+1, 61440, Note_on_c, 0, 57, 105
+1, 61440, Control_c, 0, 64, 0
+1, 61440, Note_on_c, 1, 33, 104
+1, 61440, Note_on_c, 2, 69, 71
+1, 61440, Note_on_c, 2, 64, 67
+1, 61440, Note_on_c, 9, 35, 112
+1, 61440, Note_on_c, 9, 42, 64
+1, 61496, Note_on_c, 2, 62, 0
+1, 61516, Note_on_c, 9, 42, 0
+1, 61516, Note_on_c, 9, 35, 0
+1, 61532, Marker_t, "I "
+1, 61532, Text_t, "I "
+1, 61632, Control_c, 0, 64, 127
+1, 61632, Note_on_c, 9, 42, 48
+1, 61669, Marker_t, "used "
+1, 61669, Text_t, "used [A] "
+1, 61708, Note_on_c, 9, 42, 0
+1, 61784, Note_on_c, 0, 64, 0
+1, 61812, Note_on_c, 0, 69, 0
+1, 61824, Note_on_c, 9, 42, 64
+1, 61824, Note_on_c, 9, 37, 96
+1, 61848, Marker_t, "to "
+1, 61848, Text_t, "to "
+1, 61900, Note_on_c, 9, 42, 0
+1, 61944, Note_on_c, 1, 33, 0
+1, 61976, Note_on_c, 9, 37, 0
+1, 62016, Note_on_c, 0, 64, 90
+1, 62016, Note_on_c, 1, 33, 92
+1, 62016, Note_on_c, 9, 35, 80
+1, 62016, Note_on_c, 9, 42, 48
+1, 62035, Marker_t, "love~~~"
+1, 62035, Text_t, "love~~~"
+1, 62092, Note_on_c, 9, 42, 0
+1, 62092, Note_on_c, 9, 35, 0
+1, 62112, Note_on_c, 0, 71, 88
+1, 62164, Note_on_c, 1, 33, 0
+1, 62208, Note_on_c, 0, 73, 96
+1, 62208, Note_on_c, 1, 33, 104
+1, 62208, Note_on_c, 9, 35, 112
+1, 62208, Note_on_c, 9, 42, 64
+1, 62228, Note_on_c, 0, 64, 0
+1, 62244, Note_on_c, 0, 71, 0
+1, 62258, Marker_t, "/adlib "
+1, 62258, Text_t, "/adlib "
+1, 62280, Note_on_c, 0, 57, 0
+1, 62284, Note_on_c, 9, 42, 0
+1, 62284, Note_on_c, 9, 35, 0
+1, 62400, Note_on_c, 0, 64, 84
+1, 62400, Note_on_c, 9, 46, 48
+1, 62420, Note_on_c, 0, 73, 0
+1, 62476, Note_on_c, 9, 46, 0
+1, 62496, Note_on_c, 0, 69, 96
+1, 62496, Note_on_c, 9, 48, 96
+1, 62536, Note_on_c, 9, 48, 0
+1, 62556, Note_on_c, 2, 64, 0
+1, 62568, Note_on_c, 2, 57, 78
+1, 62584, Note_on_c, 0, 64, 0
+1, 62592, Note_on_c, 0, 76, 96
+1, 62592, Note_on_c, 1, 44, 99
+1, 62592, Note_on_c, 9, 38, 96
+1, 62612, Note_on_c, 0, 69, 0
+1, 62616, Note_on_c, 0, 76, 0
+1, 62620, Note_on_c, 1, 33, 0
+1, 62688, Note_on_c, 9, 45, 80
+1, 62728, Note_on_c, 9, 45, 0
+1, 62744, Note_on_c, 9, 38, 0
+1, 62760, Note_on_c, 2, 73, 55
+1, 62784, Note_on_c, 9, 41, 96
+1, 62828, Note_on_c, 2, 69, 0
+1, 62860, Note_on_c, 9, 41, 0
+1, 62908, Note_on_c, 1, 44, 0
+1, 62956, Note_on_c, 2, 57, 0
+1, 62956, Note_on_c, 2, 81, 93
+1, 62956, Note_on_c, 2, 69, 81
+1, 62976, Note_on_c, 2, 73, 0
+1, 62976, Note_on_c, 0, 54, 93
+1, 62976, Note_on_c, 0, 69, 115
+1, 62976, Control_c, 0, 64, 127
+1, 62976, Note_on_c, 1, 42, 88
+1, 62976, Note_on_c, 9, 35, 112
+1, 62976, Note_on_c, 9, 42, 64
+1, 62976, Note_on_c, 9, 49, 80
+1, 63052, Note_on_c, 9, 42, 0
+1, 63052, Note_on_c, 9, 35, 0
+1, 63072, Note_on_c, 0, 57, 87
+1, 63128, Note_on_c, 9, 49, 0
+1, 63168, Note_on_c, 0, 61, 92
+1, 63168, Note_on_c, 9, 42, 48
+1, 63228, Marker_t, "/- "
+1, 63228, Text_t, "/- F#m "
+1, 63244, Note_on_c, 9, 42, 0
+1, 63260, Note_on_c, 0, 69, 0
+1, 63264, Note_on_c, 0, 66, 96
+1, 63360, Note_on_c, 0, 68, 112
+1, 63360, Note_on_c, 9, 38, 96
+1, 63360, Note_on_c, 9, 42, 64
+1, 63392, Note_on_c, 0, 66, 0
+1, 63436, Note_on_c, 9, 42, 0
+1, 63448, Note_on_c, 1, 42, 0
+1, 63456, Note_on_c, 0, 69, 104
+1, 63460, Note_on_c, 0, 61, 0
+1, 63476, Note_on_c, 0, 68, 0
+1, 63512, Note_on_c, 9, 38, 0
+1, 63524, Note_on_c, 0, 54, 0
+1, 63552, Note_on_c, 0, 66, 93
+1, 63552, Note_on_c, 1, 42, 92
+1, 63552, Note_on_c, 9, 35, 80
+1, 63552, Note_on_c, 9, 42, 48
+1, 63572, Note_on_c, 0, 69, 0
+1, 63605, Marker_t, "- "
+1, 63605, Text_t, "- "
+1, 63628, Note_on_c, 9, 42, 0
+1, 63628, Note_on_c, 9, 35, 0
+1, 63648, Note_on_c, 0, 61, 87
+1, 63656, Note_on_c, 0, 66, 0
+1, 63720, Note_on_c, 1, 42, 0
+1, 63728, Note_on_c, 0, 61, 0
+1, 63744, Note_on_c, 0, 57, 0
+1, 63744, Note_on_c, 0, 69, 127
+1, 63744, Note_on_c, 0, 47, 103
+1, 63744, Control_c, 0, 64, 0
+1, 63744, Note_on_c, 1, 35, 94
+1, 63744, Note_on_c, 9, 35, 112
+1, 63744, Note_on_c, 9, 42, 64
+1, 63820, Note_on_c, 9, 42, 0
+1, 63820, Note_on_c, 9, 35, 0
+1, 63840, Note_on_c, 0, 54, 95
+1, 63936, Control_c, 0, 64, 127
+1, 63936, Note_on_c, 0, 57, 96
+1, 63936, Note_on_c, 9, 42, 48
+1, 63993, Marker_t, "- "
+1, 63993, Text_t, "- [B] "
+1, 64012, Note_on_c, 9, 42, 0
+1, 64032, Note_on_c, 0, 59, 87
+1, 64112, Note_on_c, 2, 75, 78
+1, 64120, Note_on_c, 2, 63, 94
+1, 64128, Note_on_c, 2, 81, 0
+1, 64128, Note_on_c, 0, 63, 83
+1, 64128, Note_on_c, 9, 38, 96
+1, 64128, Note_on_c, 9, 42, 64
+1, 64156, Note_on_c, 2, 69, 0
+1, 64172, Note_on_c, 0, 69, 0
+1, 64204, Note_on_c, 9, 42, 0
+1, 64248, Note_on_c, 2, 64, 89
+1, 64252, Note_on_c, 2, 76, 105
+1, 64260, Note_on_c, 2, 63, 0
+1, 64276, Note_on_c, 2, 75, 0
+1, 64280, Note_on_c, 9, 38, 0
+1, 64316, Note_on_c, 0, 47, 0
+1, 64316, Note_on_c, 0, 63, 0
+1, 64320, Note_on_c, 0, 66, 90
+1, 64320, Note_on_c, 9, 42, 48
+1, 64344, Note_on_c, 0, 54, 0
+1, 64356, Note_on_c, 2, 78, 100
+1, 64356, Note_on_c, 2, 66, 98
+1, 64368, Note_on_c, 2, 64, 0
+1, 64369, Marker_t, "- "
+1, 64369, Text_t, "- "
+1, 64372, Note_on_c, 0, 57, 0
+1, 64384, Note_on_c, 2, 76, 0
+1, 64396, Note_on_c, 9, 42, 0
+1, 64404, Note_on_c, 0, 66, 0
+1, 64416, Note_on_c, 0, 69, 96
+1, 64424, Note_on_c, 0, 59, 0
+1, 64460, Note_on_c, 2, 78, 0
+1, 64472, Note_on_c, 2, 66, 0
+1, 64492, Note_on_c, 2, 78, 101
+1, 64492, Note_on_c, 2, 66, 109
+1, 64496, Note_on_c, 1, 35, 0
+1, 64504, Note_on_c, 0, 69, 0
+1, 64512, Note_on_c, 0, 66, 102
+1, 64512, Note_on_c, 0, 52, 103
+1, 64512, Note_on_c, 0, 59, 96
+1, 64512, Control_c, 0, 64, 0
+1, 64512, Note_on_c, 1, 40, 82
+1, 64512, Note_on_c, 9, 35, 112
+1, 64512, Note_on_c, 9, 42, 64
+1, 64588, Note_on_c, 9, 42, 0
+1, 64588, Note_on_c, 9, 35, 0
+1, 64608, Control_c, 0, 64, 127
+1, 64688, Note_on_c, 2, 68, 103
+1, 64692, Note_on_c, 2, 66, 0
+1, 64692, Note_on_c, 2, 80, 105
+1, 64704, Note_on_c, 0, 56, 80
+1, 64704, Note_on_c, 9, 42, 48
+1, 64712, Note_on_c, 2, 78, 0
+1, 64756, Marker_t, "- "
+1, 64756, Text_t, "- "
+1, 64780, Note_on_c, 9, 42, 0
+1, 64800, Note_on_c, 0, 68, 103
+1, 64816, Note_on_c, 0, 66, 0
+1, 64848, Note_on_c, 2, 80, 0
+1, 64860, Note_on_c, 2, 68, 0
+1, 64876, Note_on_c, 2, 80, 97
+1, 64884, Note_on_c, 2, 68, 101
+1, 64896, Note_on_c, 0, 59, 0
+1, 64896, Note_on_c, 9, 38, 96
+1, 64896, Note_on_c, 9, 42, 64
+1, 64972, Note_on_c, 9, 42, 0
+1, 64992, Note_on_c, 0, 59, 89
+1, 65004, Note_on_c, 0, 68, 0
+1, 65012, Note_on_c, 1, 40, 0
+1, 65048, Note_on_c, 9, 38, 0
+1, 65088, Note_on_c, 0, 66, 87
+1, 65088, Note_on_c, 1, 40, 82
+1, 65088, Note_on_c, 9, 35, 80
+1, 65088, Note_on_c, 9, 42, 48
+1, 65136, Marker_t, "- "
+1, 65136, Text_t, "- [E] "
+1, 65156, Note_on_c, 0, 66, 0
+1, 65164, Note_on_c, 9, 42, 0
+1, 65164, Note_on_c, 9, 35, 0
+1, 65184, Note_on_c, 0, 71, 103
+1, 65196, Note_on_c, 1, 40, 0
+1, 65264, Note_on_c, 0, 59, 0
+1, 65280, Note_on_c, 1, 40, 94
+1, 65280, Note_on_c, 9, 35, 112
+1, 65280, Note_on_c, 9, 42, 64
+1, 65356, Note_on_c, 9, 42, 0
+1, 65356, Note_on_c, 9, 35, 0
+1, 65376, Note_on_c, 0, 59, 88
+1, 65472, Note_on_c, 0, 66, 92
+1, 65472, Note_on_c, 9, 42, 48
+1, 65531, Marker_t, "- "
+1, 65531, Text_t, "- "
+1, 65548, Note_on_c, 9, 42, 0
+1, 65568, Note_on_c, 0, 68, 108
+1, 65576, Note_on_c, 0, 66, 0
+1, 65644, Note_on_c, 0, 59, 0
+1, 65664, Note_on_c, 9, 38, 96
+1, 65664, Note_on_c, 9, 42, 64
+1, 65736, Note_on_c, 0, 68, 0
+1, 65740, Note_on_c, 9, 42, 0
+1, 65796, Note_on_c, 0, 71, 0
+1, 65796, Note_on_c, 0, 56, 0
+1, 65808, Note_on_c, 0, 52, 0
+1, 65816, Note_on_c, 9, 38, 0
+1, 65840, Note_on_c, 2, 76, 91
+1, 65848, Note_on_c, 2, 64, 94
+1, 65856, Note_on_c, 0, 64, 92
+1, 65856, Note_on_c, 9, 42, 48
+1, 65860, Note_on_c, 2, 68, 0
+1, 65860, Note_on_c, 2, 80, 0
+1, 65903, Marker_t, "- "
+1, 65903, Text_t, "- "
+1, 65920, Note_on_c, 2, 78, 87
+1, 65932, Note_on_c, 9, 42, 0
+1, 65940, Note_on_c, 0, 64, 0
+1, 65940, Note_on_c, 2, 66, 91
+1, 65948, Note_on_c, 2, 76, 0
+1, 65952, Note_on_c, 0, 66, 83
+1, 65968, Note_on_c, 2, 64, 0
+1, 65988, Note_on_c, 1, 40, 0
+1, 66028, Note_on_c, 2, 79, 90
+1, 66032, Note_on_c, 2, 66, 0
+1, 66032, Note_on_c, 0, 66, 0
+1, 66032, Note_on_c, 2, 67, 83
+1, 66048, Note_on_c, 0, 67, 93
+1, 66048, Note_on_c, 0, 52, 98
+1, 66048, Control_c, 0, 64, 0
+1, 66048, Note_on_c, 1, 40, 99
+1, 66048, Note_on_c, 9, 35, 112
+1, 66048, Note_on_c, 9, 42, 64
+1, 66056, Note_on_c, 2, 78, 0
+1, 66124, Note_on_c, 9, 42, 0
+1, 66124, Note_on_c, 9, 35, 0
+1, 66144, Note_on_c, 0, 55, 85
+1, 66144, Control_c, 0, 64, 127
+1, 66240, Note_on_c, 0, 59, 87
+1, 66240, Note_on_c, 9, 42, 48
+1, 66279, Marker_t, "- "
+1, 66279, Text_t, "- "
+1, 66316, Note_on_c, 9, 42, 0
+1, 66336, Note_on_c, 0, 62, 92
+1, 66360, Note_on_c, 0, 67, 0
+1, 66432, Note_on_c, 0, 67, 103
+1, 66432, Note_on_c, 9, 38, 96
+1, 66432, Note_on_c, 9, 42, 64
+1, 66452, Note_on_c, 0, 62, 0
+1, 66456, Note_on_c, 0, 59, 0
+1, 66480, Note_on_c, 0, 55, 0
+1, 66508, Note_on_c, 9, 42, 0
+1, 66512, Note_on_c, 0, 52, 0
+1, 66528, Note_on_c, 0, 59, 96
+1, 66552, Note_on_c, 1, 40, 0
+1, 66584, Note_on_c, 9, 38, 0
+1, 66624, Note_on_c, 0, 67, 0
+1, 66624, Note_on_c, 0, 62, 93
+1, 66624, Note_on_c, 1, 40, 97
+1, 66624, Note_on_c, 9, 35, 80
+1, 66624, Note_on_c, 9, 42, 48
+1, 66677, Marker_t, "- "
+1, 66677, Text_t, "- [Em] "
+1, 66684, Note_on_c, 0, 59, 0
+1, 66700, Note_on_c, 9, 35, 0
+1, 66700, Note_on_c, 9, 42, 0
+1, 66720, Note_on_c, 0, 62, 0
+1, 66720, Note_on_c, 0, 67, 76
+1, 66772, Note_on_c, 0, 67, 0
+1, 66800, Note_on_c, 1, 40, 0
+1, 66816, Note_on_c, 0, 67, 84
+1, 66816, Note_on_c, 0, 57, 99
+1, 66816, Note_on_c, 0, 45, 88
+1, 66816, Note_on_c, 0, 62, 99
+1, 66816, Note_on_c, 1, 33, 101
+1, 66816, Note_on_c, 9, 35, 112
+1, 66816, Note_on_c, 9, 42, 64
+1, 66892, Note_on_c, 9, 42, 0
+1, 66892, Note_on_c, 9, 35, 0
+1, 66972, Note_on_c, 0, 57, 0
+1, 66976, Note_on_c, 2, 61, 81
+1, 66984, Note_on_c, 2, 73, 81
+1, 66996, Note_on_c, 2, 67, 0
+1, 66996, Note_on_c, 2, 79, 0
+1, 67008, Note_on_c, 0, 57, 73
+1, 67008, Note_on_c, 9, 42, 48
+1, 67034, Marker_t, "- "
+1, 67034, Text_t, "- "
+1, 67056, Note_on_c, 0, 62, 0
+1, 67084, Note_on_c, 9, 42, 0
+1, 67104, Note_on_c, 0, 62, 91
+1, 67120, Note_on_c, 0, 67, 0
+1, 67164, Note_on_c, 2, 61, 0
+1, 67168, Note_on_c, 2, 62, 86
+1, 67176, Note_on_c, 2, 74, 81
+1, 67192, Note_on_c, 2, 73, 0
+1, 67196, Note_on_c, 0, 57, 0
+1, 67200, Note_on_c, 0, 52, 100
+1, 67200, Note_on_c, 9, 38, 96
+1, 67200, Note_on_c, 9, 42, 64
+1, 67220, Note_on_c, 0, 45, 0
+1, 67228, Note_on_c, 0, 52, 0
+1, 67276, Note_on_c, 9, 42, 0
+1, 67284, Note_on_c, 0, 62, 0
+1, 67296, Note_on_c, 0, 57, 95
+1, 67352, Note_on_c, 9, 38, 0
+1, 67360, Note_on_c, 2, 64, 94
+1, 67368, Note_on_c, 2, 62, 0
+1, 67368, Note_on_c, 2, 76, 95
+1, 67376, Note_on_c, 2, 74, 0
+1, 67392, Note_on_c, 0, 64, 91
+1, 67392, Note_on_c, 9, 42, 48
+1, 67436, Note_on_c, 0, 57, 0
+1, 67450, Marker_t, "- "
+1, 67450, Text_t, "- [A] "
+1, 67468, Note_on_c, 9, 42, 0
+1, 67484, Note_on_c, 0, 64, 0
+1, 67488, Note_on_c, 0, 57, 85
+1, 67524, Note_on_c, 2, 76, 0
+1, 67532, Note_on_c, 2, 64, 0
+1, 67540, Note_on_c, 0, 57, 0
+1, 67564, Note_on_c, 1, 33, 0
+1, 67568, Note_on_c, 2, 64, 97
+1, 67568, Note_on_c, 2, 76, 98
+1, 67584, Note_on_c, 0, 64, 108
+1, 67584, Note_on_c, 0, 50, 96
+1, 67584, Note_on_c, 0, 57, 78
+1, 67584, Control_c, 0, 64, 0
+1, 67584, Note_on_c, 1, 38, 99
+1, 67584, Note_on_c, 9, 35, 112
+1, 67584, Note_on_c, 9, 42, 64
+1, 67612, Note_on_c, 0, 57, 0
+1, 67660, Note_on_c, 9, 42, 0
+1, 67660, Note_on_c, 9, 35, 0
+1, 67680, Note_on_c, 0, 54, 75
+1, 67738, Marker_t, "- "
+1, 67738, Text_t, "- "
+1, 67776, Control_c, 0, 64, 127
+1, 67776, Note_on_c, 0, 57, 90
+1, 67776, Note_on_c, 9, 42, 48
+1, 67800, Note_on_c, 0, 64, 0
+1, 67852, Note_on_c, 9, 42, 0
+1, 67872, Note_on_c, 0, 62, 92
+1, 67880, Note_on_c, 2, 76, 0
+1, 67880, Note_on_c, 2, 78, 89
+1, 67880, Note_on_c, 2, 66, 80
+1, 67900, Note_on_c, 2, 64, 0
+1, 67948, Note_on_c, 0, 62, 0
+1, 67968, Note_on_c, 0, 66, 109
+1, 67968, Note_on_c, 9, 38, 96
+1, 67968, Note_on_c, 9, 42, 64
+1, 67976, Note_on_c, 0, 57, 0
+1, 67987, Marker_t, "- "
+1, 67987, Text_t, "- "
+1, 68044, Note_on_c, 9, 42, 0
+1, 68064, Note_on_c, 0, 57, 96
+1, 68120, Note_on_c, 1, 38, 0
+1, 68120, Note_on_c, 9, 38, 0
+1, 68156, Note_on_c, 0, 66, 0
+1, 68160, Note_on_c, 0, 62, 90
+1, 68160, Note_on_c, 1, 38, 101
+1, 68160, Note_on_c, 9, 35, 80
+1, 68160, Note_on_c, 9, 42, 48
+1, 68236, Note_on_c, 9, 42, 0
+1, 68236, Note_on_c, 9, 35, 0
+1, 68244, Note_on_c, 0, 62, 0
+1, 68249, Marker_t, "- "
+1, 68249, Text_t, "- [D] "
+1, 68256, Note_on_c, 0, 64, 96
+1, 68276, Note_on_c, 1, 38, 0
+1, 68320, Note_on_c, 0, 64, 0
+1, 68352, Control_c, 0, 64, 0
+1, 68352, Note_on_c, 0, 69, 120
+1, 68352, Control_c, 0, 64, 127
+1, 68352, Note_on_c, 1, 38, 110
+1, 68352, Note_on_c, 9, 35, 112
+1, 68352, Note_on_c, 9, 42, 64
+1, 68356, Note_on_c, 0, 57, 0
+1, 68428, Note_on_c, 9, 42, 0
+1, 68428, Note_on_c, 9, 35, 0
+1, 68442, Marker_t, "-"
+1, 68442, Text_t, "-"
+1, 68448, Note_on_c, 0, 57, 93
+1, 68544, Note_on_c, 0, 62, 94
+1, 68544, Note_on_c, 9, 42, 48
+1, 68620, Note_on_c, 9, 42, 0
+1, 68628, Note_on_c, 0, 62, 0
+1, 68640, Note_on_c, 0, 64, 116
+1, 68658, Marker_t, ""
+1, 68668, Note_on_c, 0, 54, 0
+1, 68720, Note_on_c, 1, 38, 0
+1, 68736, Note_on_c, 0, 54, 127
+1, 68736, Note_on_c, 1, 40, 90
+1, 68736, Note_on_c, 9, 38, 96
+1, 68752, Note_on_c, 0, 50, 0
+1, 68760, Note_on_c, 0, 57, 0
+1, 68788, Note_on_c, 0, 54, 0
+1, 68816, Note_on_c, 0, 64, 0
+1, 68832, Note_on_c, 0, 57, 110
+1, 68832, Note_on_c, 9, 45, 80
+1, 68872, Note_on_c, 9, 45, 0
+1, 68888, Note_on_c, 9, 38, 0
+1, 68920, Note_on_c, 0, 69, 0
+1, 68928, Note_on_c, 0, 64, 97
+1, 68928, Note_on_c, 9, 41, 96
+1, 68956, Note_on_c, 2, 66, 0
+1, 69000, Note_on_c, 0, 57, 0
+1, 69004, Note_on_c, 9, 41, 0
+1, 69012, Note_on_c, 2, 78, 0
+1, 69024, Note_on_c, 0, 66, 81
+1, 69036, Note_on_c, 0, 64, 0
+1, 69064, Note_on_c, 0, 66, 0
+1, 69120, Note_on_c, 1, 40, 0
+1, 69120, Note_on_c, 0, 69, 118
+1, 69120, Note_on_c, 0, 54, 90
+1, 69120, Control_c, 0, 64, 0
+1, 69120, Note_on_c, 1, 42, 90
+1, 69120, Note_on_c, 9, 35, 112
+1, 69120, Note_on_c, 9, 42, 64
+1, 69120, Note_on_c, 9, 49, 80
+1, 69196, Note_on_c, 9, 42, 0
+1, 69196, Note_on_c, 9, 35, 0
+1, 69216, Note_on_c, 0, 57, 91
+1, 69272, Note_on_c, 9, 49, 0
+1, 69312, Control_c, 0, 64, 127
+1, 69312, Note_on_c, 0, 61, 88
+1, 69312, Note_on_c, 9, 42, 48
+1, 69364, Note_on_c, 0, 69, 0
+1, 69388, Note_on_c, 9, 42, 0
+1, 69408, Note_on_c, 0, 66, 84
+1, 69460, Note_on_c, 0, 54, 0
+1, 69464, Note_on_c, 2, 61, 54
+1, 69504, Note_on_c, 0, 68, 100
+1, 69504, Note_on_c, 9, 38, 96
+1, 69504, Note_on_c, 9, 42, 64
+1, 69528, Note_on_c, 0, 66, 0
+1, 69548, Note_on_c, 0, 57, 0
+1, 69580, Note_on_c, 9, 42, 0
+1, 69600, Note_on_c, 0, 69, 96
+1, 69612, Note_on_c, 1, 42, 0
+1, 69620, Note_on_c, 0, 68, 0
+1, 69644, Note_on_c, 0, 61, 0
+1, 69656, Note_on_c, 9, 38, 0
+1, 69672, Note_on_c, 0, 69, 0
+1, 69696, Note_on_c, 0, 69, 99
+1, 69696, Note_on_c, 1, 42, 86
+1, 69696, Note_on_c, 9, 35, 80
+1, 69696, Note_on_c, 9, 42, 48
+1, 69724, Marker_t, "\\I "
+1, 69724, Text_t, "\\[F#m] I "
+1, 69756, Note_on_c, 0, 69, 0
+1, 69772, Note_on_c, 9, 35, 0
+1, 69772, Note_on_c, 9, 42, 0
+1, 69792, Note_on_c, 0, 54, 87
+1, 69837, Marker_t, "did "
+1, 69837, Text_t, "did "
+1, 69864, Note_on_c, 2, 61, 0
+1, 69864, Note_on_c, 2, 63, 53
+1, 69872, Note_on_c, 1, 42, 0
+1, 69888, Note_on_c, 0, 63, 90
+1, 69888, Note_on_c, 0, 69, 109
+1, 69888, Note_on_c, 0, 47, 96
+1, 69888, Control_c, 0, 64, 0
+1, 69888, Note_on_c, 1, 35, 97
+1, 69888, Note_on_c, 9, 35, 112
+1, 69888, Note_on_c, 9, 42, 64
+1, 69932, Note_on_c, 0, 54, 0
+1, 69952, Marker_t, "my "
+1, 69952, Text_t, "my "
+1, 69964, Note_on_c, 9, 42, 0
+1, 69964, Note_on_c, 9, 35, 0
+1, 69984, Note_on_c, 0, 54, 96
+1, 70080, Control_c, 0, 64, 127
+1, 70080, Note_on_c, 0, 57, 95
+1, 70080, Note_on_c, 9, 42, 48
+1, 70086, Marker_t, "best "
+1, 70086, Text_t, "best [B] "
+1, 70156, Note_on_c, 9, 42, 0
+1, 70176, Note_on_c, 0, 59, 106
+1, 70184, Note_on_c, 0, 63, 0
+1, 70272, Note_on_c, 0, 63, 96
+1, 70272, Note_on_c, 9, 38, 96
+1, 70272, Note_on_c, 9, 42, 64
+1, 70296, Note_on_c, 0, 69, 0
+1, 70324, Note_on_c, 0, 47, 0
+1, 70348, Note_on_c, 9, 42, 0
+1, 70356, Note_on_c, 0, 57, 0
+1, 70368, Note_on_c, 0, 54, 0
+1, 70424, Note_on_c, 9, 38, 0
+1, 70432, Note_on_c, 1, 35, 0
+1, 70464, Note_on_c, 0, 66, 89
+1, 70464, Note_on_c, 1, 35, 94
+1, 70464, Note_on_c, 9, 42, 48
+1, 70532, Note_on_c, 0, 63, 0
+1, 70534, Marker_t, "/to "
+1, 70534, Text_t, "/to "
+1, 70540, Note_on_c, 9, 42, 0
+1, 70556, Note_on_c, 0, 66, 0
+1, 70560, Note_on_c, 0, 69, 95
+1, 70584, Note_on_c, 0, 59, 0
+1, 70622, Marker_t, "keep "
+1, 70622, Text_t, "keep "
+1, 70632, Note_on_c, 2, 71, 50
+1, 70640, Note_on_c, 2, 66, 63
+1, 70648, Note_on_c, 0, 69, 0
+1, 70656, Note_on_c, 1, 35, 0
+1, 70656, Note_on_c, 0, 66, 105
+1, 70656, Note_on_c, 0, 59, 104
+1, 70656, Note_on_c, 0, 52, 96
+1, 70656, Control_c, 0, 64, 0
+1, 70656, Note_on_c, 1, 40, 99
+1, 70656, Note_on_c, 9, 35, 112
+1, 70656, Note_on_c, 9, 42, 64
+1, 70660, Note_on_c, 2, 63, 0
+1, 70732, Note_on_c, 9, 42, 0
+1, 70732, Note_on_c, 9, 35, 0
+1, 70752, Control_c, 0, 64, 127
+1, 70755, Marker_t, "you "
+1, 70755, Text_t, "you "
+1, 70848, Note_on_c, 0, 56, 91
+1, 70848, Note_on_c, 9, 42, 48
+1, 70860, Note_on_c, 0, 59, 0
+1, 70894, Marker_t, "sa"
+1, 70894, Text_t, "sa[E]"
+1, 70924, Note_on_c, 9, 42, 0
+1, 70944, Note_on_c, 0, 59, 83
+1, 70952, Note_on_c, 0, 66, 0
+1, 71020, Note_on_c, 2, 68, 67
+1, 71024, Marker_t, "tis"
+1, 71024, Text_t, "tis"
+1, 71040, Note_on_c, 0, 64, 108
+1, 71040, Note_on_c, 0, 68, 113
+1, 71040, Note_on_c, 9, 38, 96
+1, 71040, Note_on_c, 9, 42, 64
+1, 71052, Note_on_c, 2, 66, 0
+1, 71072, Note_on_c, 0, 59, 0
+1, 71116, Note_on_c, 9, 42, 0
+1, 71124, Marker_t, "fied~~~"
+1, 71124, Text_t, "fied~~~"
+1, 71148, Note_on_c, 1, 40, 0
+1, 71192, Note_on_c, 9, 38, 0
+1, 71216, Note_on_c, 0, 68, 0
+1, 71228, Note_on_c, 0, 64, 0
+1, 71232, Note_on_c, 0, 59, 80
+1, 71232, Note_on_c, 1, 40, 83
+1, 71232, Note_on_c, 9, 35, 80
+1, 71232, Note_on_c, 9, 42, 48
+1, 71252, Note_on_c, 0, 56, 0
+1, 71276, Note_on_c, 0, 59, 0
+1, 71308, Note_on_c, 9, 42, 0
+1, 71308, Note_on_c, 9, 35, 0
+1, 71317, Marker_t, ""
+1, 71328, Note_on_c, 0, 56, 103
+1, 71368, Note_on_c, 1, 40, 0
+1, 71424, Note_on_c, 0, 63, 93
+1, 71424, Note_on_c, 0, 71, 109
+1, 71424, Control_c, 0, 64, 0
+1, 71424, Note_on_c, 1, 40, 90
+1, 71424, Note_on_c, 9, 35, 112
+1, 71424, Note_on_c, 9, 42, 64
+1, 71500, Note_on_c, 9, 42, 0
+1, 71500, Note_on_c, 9, 35, 0
+1, 71520, Control_c, 0, 64, 127
+1, 71576, Note_on_c, 0, 56, 0
+1, 71616, Note_on_c, 9, 42, 48
+1, 71692, Note_on_c, 9, 42, 0
+1, 71712, Note_on_c, 0, 56, 91
+1, 71780, Note_on_c, 0, 71, 0
+1, 71792, Note_on_c, 1, 40, 0
+1, 71808, Note_on_c, 0, 66, 100
+1, 71808, Note_on_c, 0, 59, 99
+1, 71808, Note_on_c, 1, 41, 86
+1, 71808, Note_on_c, 9, 38, 96
+1, 71808, Note_on_c, 9, 42, 64
+1, 71816, Note_on_c, 0, 63, 0
+1, 71880, Note_on_c, 2, 68, 0
+1, 71884, Note_on_c, 9, 42, 0
+1, 71908, Note_on_c, 0, 56, 0
+1, 71928, Note_on_c, 0, 52, 0
+1, 71960, Note_on_c, 9, 38, 0
+1, 72000, Note_on_c, 0, 64, 102
+1, 72000, Note_on_c, 9, 42, 48
+1, 72044, Note_on_c, 0, 66, 0
+1, 72052, Note_on_c, 0, 59, 0
+1, 72076, Note_on_c, 9, 42, 0
+1, 72164, Note_on_c, 2, 66, 36
+1, 72168, Note_on_c, 2, 69, 71
+1, 72172, Note_on_c, 1, 41, 0
+1, 72188, Note_on_c, 2, 71, 0
+1, 72192, Note_on_c, 0, 69, 106
+1, 72192, Note_on_c, 0, 61, 96
+1, 72192, Note_on_c, 0, 54, 90
+1, 72192, Control_c, 0, 64, 0
+1, 72192, Note_on_c, 1, 42, 88
+1, 72192, Note_on_c, 9, 35, 112
+1, 72192, Note_on_c, 9, 42, 64
+1, 72208, Note_on_c, 0, 64, 0
+1, 72268, Note_on_c, 9, 42, 0
+1, 72268, Note_on_c, 9, 35, 0
+1, 72288, Note_on_c, 0, 57, 92
+1, 72288, Control_c, 0, 64, 127
+1, 72360, Note_on_c, 0, 61, 0
+1, 72384, Note_on_c, 0, 61, 85
+1, 72384, Note_on_c, 9, 42, 48
+1, 72460, Note_on_c, 9, 42, 0
+1, 72480, Note_on_c, 0, 66, 87
+1, 72500, Note_on_c, 0, 69, 0
+1, 72576, Note_on_c, 0, 68, 112
+1, 72576, Note_on_c, 9, 38, 96
+1, 72576, Note_on_c, 9, 42, 64
+1, 72604, Note_on_c, 0, 66, 0
+1, 72615, Marker_t, "/I "
+1, 72615, Text_t, "/[F#m] I "
+1, 72632, Note_on_c, 0, 61, 0
+1, 72652, Note_on_c, 9, 42, 0
+1, 72660, Note_on_c, 0, 57, 0
+1, 72700, Note_on_c, 0, 54, 0
+1, 72717, Marker_t, "guess "
+1, 72717, Text_t, "guess "
+1, 72728, Note_on_c, 9, 38, 0
+1, 72736, Note_on_c, 0, 68, 0
+1, 72744, Note_on_c, 1, 42, 0
+1, 72768, Note_on_c, 0, 66, 88
+1, 72768, Note_on_c, 1, 42, 86
+1, 72768, Note_on_c, 9, 35, 80
+1, 72768, Note_on_c, 9, 42, 48
+1, 72826, Marker_t, "you'll "
+1, 72826, Text_t, "you'll "
+1, 72844, Note_on_c, 9, 42, 0
+1, 72844, Note_on_c, 9, 35, 0
+1, 72860, Note_on_c, 0, 66, 0
+1, 72932, Note_on_c, 2, 63, 50
+1, 72944, Note_on_c, 1, 42, 0
+1, 72960, Note_on_c, 0, 47, 93
+1, 72960, Note_on_c, 0, 63, 88
+1, 72960, Note_on_c, 0, 59, 103
+1, 72960, Control_c, 0, 64, 0
+1, 72960, Note_on_c, 1, 35, 99
+1, 72960, Note_on_c, 9, 35, 112
+1, 72960, Note_on_c, 9, 42, 64
+1, 72999, Marker_t, "ne"
+1, 72999, Text_t, "ne"
+1, 73036, Note_on_c, 9, 42, 0
+1, 73036, Note_on_c, 9, 35, 0
+1, 73056, Note_on_c, 0, 54, 88
+1, 73056, Control_c, 0, 64, 127
+1, 73134, Marker_t, "ver "
+1, 73134, Text_t, "ver "
+1, 73152, Note_on_c, 0, 57, 92
+1, 73152, Note_on_c, 9, 42, 48
+1, 73156, Note_on_c, 0, 59, 0
+1, 73228, Note_on_c, 9, 42, 0
+1, 73248, Note_on_c, 0, 59, 97
+1, 73256, Note_on_c, 0, 63, 0
+1, 73282, Marker_t, "know "
+1, 73282, Text_t, "know [B] "
+1, 73344, Note_on_c, 0, 63, 88
+1, 73344, Note_on_c, 9, 38, 96
+1, 73344, Note_on_c, 9, 42, 64
+1, 73420, Note_on_c, 9, 42, 0
+1, 73440, Note_on_c, 0, 66, 97
+1, 73496, Note_on_c, 9, 38, 0
+1, 73508, Note_on_c, 0, 63, 0
+1, 73536, Note_on_c, 0, 69, 108
+1, 73536, Note_on_c, 9, 42, 48
+1, 73544, Note_on_c, 1, 35, 0
+1, 73564, Note_on_c, 0, 66, 0
+1, 73588, Note_on_c, 0, 54, 0
+1, 73604, Note_on_c, 0, 47, 0
+1, 73612, Note_on_c, 9, 42, 0
+1, 73616, Note_on_c, 0, 69, 0
+1, 73620, Note_on_c, 0, 59, 0
+1, 73680, Note_on_c, 2, 63, 0
+1, 73683, Marker_t, "/how "
+1, 73683, Text_t, "/how "
+1, 73688, Note_on_c, 2, 62, 82
+1, 73700, Note_on_c, 0, 57, 0
+1, 73728, Control_c, 0, 64, 127
+1, 73728, Note_on_c, 0, 54, 95
+1, 73728, Note_on_c, 0, 47, 92
+1, 73728, Note_on_c, 0, 69, 110
+1, 73728, Note_on_c, 1, 35, 107
+1, 73728, Note_on_c, 9, 35, 112
+1, 73728, Note_on_c, 9, 42, 64
+1, 73793, Marker_t, "much "
+1, 73793, Text_t, "much [Bm] "
+1, 73804, Note_on_c, 9, 42, 0
+1, 73804, Note_on_c, 9, 35, 0
+1, 73920, Note_on_c, 9, 42, 48
+1, 73930, Marker_t, "I "
+1, 73930, Text_t, "I "
+1, 73960, Note_on_c, 0, 54, 0
+1, 73996, Note_on_c, 9, 42, 0
+1, 74054, Marker_t, "tried~, "
+1, 74054, Text_t, "tried~, "
+1, 74068, Note_on_c, 0, 69, 0
+1, 74076, Note_on_c, 2, 73, 91
+1, 74112, Note_on_c, 9, 38, 96
+1, 74112, Note_on_c, 9, 42, 64
+1, 74116, Note_on_c, 0, 54, 102
+1, 74124, Note_on_c, 0, 47, 0
+1, 74132, Note_on_c, 0, 54, 0
+1, 74188, Note_on_c, 9, 42, 0
+1, 74204, Note_on_c, 0, 61, 97
+1, 74228, Note_on_c, 1, 35, 0
+1, 74264, Note_on_c, 9, 38, 0
+1, 74304, Note_on_c, 0, 62, 97
+1, 74304, Note_on_c, 9, 35, 80
+1, 74304, Note_on_c, 9, 42, 48
+1, 74312, Note_on_c, 1, 35, 94
+1, 74340, Note_on_c, 0, 61, 0
+1, 74380, Note_on_c, 9, 42, 0
+1, 74380, Note_on_c, 9, 35, 0
+1, 74388, Note_on_c, 0, 69, 96
+1, 74400, Note_on_c, 0, 62, 0
+1, 74416, Note_on_c, 0, 69, 0
+1, 74448, Note_on_c, 2, 73, 0
+1, 74464, Note_on_c, 2, 72, 83
+1, 74472, Note_on_c, 2, 66, 0
+1, 74472, Note_on_c, 1, 35, 0
+1, 74472, Note_on_c, 2, 53, 101
+1, 74484, Note_on_c, 2, 69, 0
+1, 74484, Note_on_c, 2, 62, 0
+1, 74484, Note_on_c, 0, 63, 111
+1, 74484, Note_on_c, 1, 41, 104
+1, 74492, Note_on_c, 0, 53, 107
+1, 74492, Note_on_c, 0, 70, 127
+1, 74492, Note_on_c, 0, 67, 122
+1, 74496, Note_on_c, 9, 35, 112
+1, 74496, Note_on_c, 9, 42, 64
+1, 74528, Control_c, 0, 64, 0
+1, 74544, Control_c, 0, 64, 127
+1, 74572, Note_on_c, 9, 42, 0
+1, 74572, Note_on_c, 9, 35, 0
+1, 74611, Marker_t, "/I "
+1, 74611, Text_t, "/I "
+1, 74668, Note_on_c, 2, 60, 101
+1, 74688, Note_on_c, 9, 42, 48
+1, 74718, Marker_t, "really "
+1, 74718, Text_t, "really [F] "
+1, 74736, Note_on_c, 0, 63, 0
+1, 74740, Note_on_c, 0, 67, 0
+1, 74740, Note_on_c, 0, 70, 0
+1, 74756, Note_on_c, 0, 53, 0
+1, 74764, Note_on_c, 9, 42, 0
+1, 74860, Note_on_c, 2, 77, 94
+1, 74864, Note_on_c, 2, 65, 77
+1, 74872, Note_on_c, 2, 72, 0
+1, 74880, Note_on_c, 9, 38, 96
+1, 74888, Note_on_c, 2, 60, 0
+1, 74888, Note_on_c, 0, 65, 99
+1, 74888, Note_on_c, 0, 72, 111
+1, 74912, Note_on_c, 0, 72, 0
+1, 74912, Note_on_c, 0, 65, 0
+1, 74939, Marker_t, "tried~~"
+1, 74939, Text_t, "tried~~"
+1, 74976, Note_on_c, 9, 45, 80
+1, 75016, Note_on_c, 9, 45, 0
+1, 75028, Note_on_c, 2, 65, 0
+1, 75032, Note_on_c, 9, 38, 0
+1, 75044, Note_on_c, 2, 60, 37
+1, 75070, Marker_t, ""
+1, 75072, Note_on_c, 9, 41, 96
+1, 75076, Note_on_c, 2, 65, 71
+1, 75084, Note_on_c, 2, 60, 0
+1, 75136, Note_on_c, 1, 41, 0
+1, 75148, Note_on_c, 9, 41, 0
+1, 75228, Control_c, 0, 64, 0
+1, 75256, Note_on_c, 2, 58, 86
+1, 75264, Note_on_c, 2, 53, 0
+1, 75264, Note_on_c, 0, 62, 90
+1, 75264, Note_on_c, 0, 46, 85
+1, 75264, Note_on_c, 0, 60, 93
+1, 75264, Note_on_c, 0, 65, 87
+1, 75264, Control_c, 0, 64, 127
+1, 75264, Note_on_c, 1, 34, 107
+1, 75264, Note_on_c, 9, 35, 112
+1, 75264, Note_on_c, 9, 42, 64
+1, 75264, Note_on_c, 9, 49, 80
+1, 75340, Note_on_c, 9, 42, 0
+1, 75340, Note_on_c, 9, 35, 0
+1, 75416, Note_on_c, 9, 49, 0
+1, 75456, Note_on_c, 0, 53, 77
+1, 75456, Note_on_c, 9, 42, 48
+1, 75532, Note_on_c, 9, 42, 0
+1, 75596, Note_on_c, 0, 60, 0
+1, 75620, Note_on_c, 0, 62, 0
+1, 75648, Note_on_c, 9, 38, 96
+1, 75648, Note_on_c, 9, 42, 64
+1, 75659, Marker_t, "\\When "
+1, 75659, Text_t, "\\When "
+1, 75672, Note_on_c, 0, 53, 0
+1, 75724, Note_on_c, 9, 42, 0
+1, 75744, Note_on_c, 0, 53, 79
+1, 75753, Marker_t, "I "
+1, 75753, Text_t, "I "
+1, 75776, Note_on_c, 1, 34, 0
+1, 75800, Note_on_c, 9, 38, 0
+1, 75824, Note_on_c, 2, 70, 69
+1, 75840, Note_on_c, 0, 58, 101
+1, 75840, Note_on_c, 1, 34, 94
+1, 75840, Note_on_c, 9, 35, 80
+1, 75840, Note_on_c, 9, 42, 48
+1, 75850, Marker_t, "wake "
+1, 75850, Text_t, "wake [Bb] "
+1, 75864, Note_on_c, 0, 65, 0
+1, 75884, Note_on_c, 0, 46, 0
+1, 75904, Note_on_c, 0, 58, 0
+1, 75916, Note_on_c, 9, 42, 0
+1, 75916, Note_on_c, 9, 35, 0
+1, 75936, Note_on_c, 0, 65, 100
+1, 75959, Marker_t, "up "
+1, 75959, Text_t, "up "
+1, 75960, Note_on_c, 0, 53, 0
+1, 75988, Note_on_c, 0, 65, 0
+1, 75992, Note_on_c, 2, 74, 76
+1, 75992, Note_on_c, 2, 63, 69
+1, 76000, Note_on_c, 2, 65, 0
+1, 76008, Note_on_c, 2, 58, 0
+1, 76008, Note_on_c, 2, 77, 0
+1, 76032, Note_on_c, 1, 34, 0
+1, 76032, Note_on_c, 0, 58, 113
+1, 76032, Note_on_c, 0, 51, 105
+1, 76032, Note_on_c, 0, 55, 99
+1, 76032, Note_on_c, 0, 65, 120
+1, 76032, Control_c, 0, 64, 0
+1, 76032, Note_on_c, 1, 39, 97
+1, 76032, Note_on_c, 9, 35, 112
+1, 76032, Note_on_c, 9, 42, 64
+1, 76044, Marker_t, "each "
+1, 76044, Text_t, "each "
+1, 76108, Note_on_c, 9, 42, 0
+1, 76108, Note_on_c, 9, 35, 0
+1, 76139, Marker_t, "mor"
+1, 76139, Text_t, "mor"
+1, 76224, Control_c, 0, 64, 127
+1, 76224, Note_on_c, 9, 42, 48
+1, 76255, Marker_t, "ning "
+1, 76255, Text_t, "ning [Eb] "
+1, 76300, Note_on_c, 9, 42, 0
+1, 76312, Note_on_c, 0, 65, 0
+1, 76316, Note_on_c, 0, 58, 0
+1, 76320, Note_on_c, 0, 63, 97
+1, 76380, Note_on_c, 0, 63, 0
+1, 76416, Note_on_c, 9, 38, 96
+1, 76416, Note_on_c, 9, 42, 64
+1, 76492, Note_on_c, 9, 42, 0
+1, 76496, Note_on_c, 0, 55, 0
+1, 76512, Note_on_c, 0, 62, 73
+1, 76568, Note_on_c, 9, 38, 0
+1, 76608, Note_on_c, 0, 51, 0
+1, 76608, Note_on_c, 9, 42, 48
+1, 76628, Note_on_c, 0, 62, 0
+1, 76684, Note_on_c, 9, 42, 0
+1, 76694, Marker_t, "/t"
+1, 76694, Text_t, "/t"
+1, 76704, Note_on_c, 1, 39, 0
+1, 76704, Note_on_c, 0, 60, 88
+1, 76728, Note_on_c, 0, 60, 0
+1, 76775, Marker_t, "rying "
+1, 76775, Text_t, "rying "
+1, 76796, Note_on_c, 2, 72, 69
+1, 76800, Note_on_c, 0, 51, 100
+1, 76800, Note_on_c, 0, 58, 108
+1, 76800, Control_c, 0, 64, 0
+1, 76800, Note_on_c, 1, 44, 73
+1, 76800, Note_on_c, 9, 35, 112
+1, 76800, Note_on_c, 9, 42, 64
+1, 76804, Note_on_c, 2, 74, 0
+1, 76804, Note_on_c, 2, 56, 77
+1, 76816, Note_on_c, 2, 70, 0
+1, 76816, Note_on_c, 2, 63, 0
+1, 76860, Marker_t, "to "
+1, 76860, Text_t, "to "
+1, 76876, Note_on_c, 9, 35, 0
+1, 76876, Note_on_c, 9, 42, 0
+1, 76946, Marker_t, "find "
+1, 76946, Text_t, "find [Ab] "
+1, 76984, Note_on_c, 2, 63, 63
+1, 76992, Control_c, 0, 64, 127
+1, 76992, Note_on_c, 9, 42, 48
+1, 77068, Note_on_c, 9, 42, 0
+1, 77088, Note_on_c, 0, 56, 77
+1, 77088, Note_on_c, 0, 60, 101
+1, 77096, Note_on_c, 0, 58, 0
+1, 77112, Note_on_c, 0, 56, 0
+1, 77119, Marker_t, "my"
+1, 77119, Text_t, "my"
+1, 77124, Note_on_c, 0, 60, 0
+1, 77124, Note_on_c, 0, 51, 0
+1, 77184, Note_on_c, 9, 38, 96
+1, 77184, Note_on_c, 9, 42, 64
+1, 77218, Marker_t, "self"
+1, 77218, Text_t, "self[F]"
+1, 77252, Note_on_c, 1, 44, 0
+1, 77260, Note_on_c, 9, 42, 0
+1, 77336, Note_on_c, 9, 38, 0
+1, 77375, Marker_t, ""
+1, 77376, Note_on_c, 1, 44, 77
+1, 77376, Note_on_c, 9, 35, 80
+1, 77376, Note_on_c, 9, 42, 48
+1, 77452, Note_on_c, 9, 42, 0
+1, 77452, Note_on_c, 9, 35, 0
+1, 77488, Note_on_c, 1, 44, 0
+1, 77540, Note_on_c, 2, 70, 88
+1, 77548, Note_on_c, 2, 56, 0
+1, 77548, Note_on_c, 2, 53, 64
+1, 77564, Note_on_c, 2, 63, 0
+1, 77564, Note_on_c, 2, 72, 0
+1, 77568, Control_c, 0, 64, 0
+1, 77568, Note_on_c, 0, 58, 96
+1, 77568, Note_on_c, 0, 51, 89
+1, 77568, Note_on_c, 0, 55, 96
+1, 77568, Note_on_c, 1, 41, 79
+1, 77568, Note_on_c, 9, 35, 112
+1, 77568, Note_on_c, 9, 42, 64
+1, 77644, Note_on_c, 9, 42, 0
+1, 77644, Note_on_c, 9, 35, 0
+1, 77664, Control_c, 0, 64, 127
+1, 77716, Note_on_c, 2, 60, 49
+1, 77760, Note_on_c, 9, 42, 48
+1, 77780, Note_on_c, 0, 51, 0
+1, 77780, Note_on_c, 0, 55, 0
+1, 77828, Note_on_c, 0, 58, 0
+1, 77836, Note_on_c, 9, 42, 0
+1, 77952, Note_on_c, 0, 60, 105
+1, 77952, Note_on_c, 0, 53, 98
+1, 77952, Note_on_c, 2, 72, 90
+1, 77952, Note_on_c, 9, 38, 96
+1, 77952, Note_on_c, 9, 42, 64
+1, 77960, Note_on_c, 2, 70, 0
+1, 78028, Note_on_c, 9, 42, 0
+1, 78056, Note_on_c, 2, 60, 0
+1, 78104, Note_on_c, 9, 38, 0
+1, 78116, Note_on_c, 2, 60, 63
+1, 78130, Marker_t, "/And "
+1, 78130, Text_t, "/And "
+1, 78132, Note_on_c, 0, 60, 0
+1, 78140, Note_on_c, 0, 53, 0
+1, 78144, Note_on_c, 9, 42, 48
+1, 78192, Note_on_c, 1, 41, 0
+1, 78220, Note_on_c, 9, 42, 0
+1, 78241, Marker_t, "if "
+1, 78241, Text_t, "if "
+1, 78312, Note_on_c, 2, 74, 78
+1, 78320, Note_on_c, 2, 58, 69
+1, 78328, Note_on_c, 2, 72, 0
+1, 78332, Note_on_c, 2, 60, 0
+1, 78336, Note_on_c, 0, 62, 93
+1, 78336, Note_on_c, 0, 58, 103
+1, 78336, Control_c, 0, 64, 0
+1, 78336, Note_on_c, 1, 34, 101
+1, 78336, Note_on_c, 9, 35, 112
+1, 78336, Note_on_c, 9, 42, 64
+1, 78340, Note_on_c, 2, 53, 0
+1, 78399, Marker_t, "I'm~  "
+1, 78399, Text_t, "I'm~  "
+1, 78412, Note_on_c, 9, 42, 0
+1, 78412, Note_on_c, 9, 35, 0
+1, 78432, Control_c, 0, 64, 127
+1, 78504, Note_on_c, 2, 62, 73
+1, 78528, Note_on_c, 9, 42, 48
+1, 78604, Note_on_c, 9, 42, 0
+1, 78704, Note_on_c, 2, 65, 73
+1, 78720, Note_on_c, 9, 38, 96
+1, 78720, Note_on_c, 9, 42, 64
+1, 78736, Note_on_c, 0, 58, 0
+1, 78751, Marker_t, "ever "
+1, 78751, Text_t, "ever [Bb] "
+1, 78796, Note_on_c, 9, 42, 0
+1, 78816, Note_on_c, 0, 53, 82
+1, 78824, Note_on_c, 1, 34, 0
+1, 78852, Note_on_c, 2, 74, 0
+1, 78872, Note_on_c, 9, 38, 0
+1, 78880, Note_on_c, 2, 74, 84
+1, 78888, Note_on_c, 0, 62, 0
+1, 78912, Note_on_c, 0, 58, 90
+1, 78912, Note_on_c, 1, 46, 75
+1, 78912, Note_on_c, 9, 35, 80
+1, 78912, Note_on_c, 9, 42, 48
+1, 78916, Note_on_c, 2, 65, 0
+1, 78922, Marker_t, "the "
+1, 78922, Text_t, "the "
+1, 78988, Note_on_c, 9, 42, 0
+1, 78988, Note_on_c, 9, 35, 0
+1, 78988, Note_on_c, 0, 58, 0
+1, 79004, Note_on_c, 0, 53, 0
+1, 79008, Note_on_c, 0, 62, 91
+1, 79025, Marker_t, "least "
+1, 79025, Text_t, "least "
+1, 79044, Note_on_c, 0, 62, 0
+1, 79068, Note_on_c, 2, 51, 66
+1, 79068, Note_on_c, 2, 67, 73
+1, 79076, Note_on_c, 2, 62, 0
+1, 79076, Note_on_c, 1, 46, 0
+1, 79084, Note_on_c, 2, 58, 0
+1, 79104, Note_on_c, 0, 62, 98
+1, 79104, Note_on_c, 0, 58, 110
+1, 79104, Note_on_c, 0, 53, 100
+1, 79104, Control_c, 0, 64, 0
+1, 79104, Note_on_c, 1, 39, 101
+1, 79104, Note_on_c, 9, 35, 112
+1, 79104, Note_on_c, 9, 42, 64
+1, 79132, Marker_t, "un"
+1, 79132, Text_t, "un"
+1, 79180, Note_on_c, 9, 42, 0
+1, 79180, Note_on_c, 9, 35, 0
+1, 79240, Marker_t, "sure, "
+1, 79240, Text_t, "sure, [Eb] "
+1, 79296, Control_c, 0, 64, 127
+1, 79296, Note_on_c, 9, 42, 48
+1, 79372, Note_on_c, 9, 42, 0
+1, 79376, Note_on_c, 0, 58, 0
+1, 79392, Note_on_c, 0, 60, 87
+1, 79416, Note_on_c, 0, 62, 0
+1, 79460, Note_on_c, 0, 60, 0
+1, 79488, Note_on_c, 9, 38, 96
+1, 79488, Note_on_c, 9, 42, 64
+1, 79504, Note_on_c, 0, 53, 0
+1, 79564, Note_on_c, 9, 42, 0
+1, 79616, Marker_t, "/I "
+1, 79616, Text_t, "/I "
+1, 79640, Note_on_c, 9, 38, 0
+1, 79680, Note_on_c, 0, 58, 98
+1, 79680, Note_on_c, 9, 42, 48
+1, 79700, Marker_t, "always "
+1, 79700, Text_t, "always "
+1, 79724, Note_on_c, 0, 58, 0
+1, 79728, Note_on_c, 1, 39, 0
+1, 79756, Note_on_c, 9, 42, 0
+1, 79796, Marker_t, "re"
+1, 79796, Text_t, "re"
+1, 79856, Note_on_c, 2, 70, 84
+1, 79864, Note_on_c, 2, 56, 83
+1, 79872, Note_on_c, 2, 67, 0
+1, 79872, Note_on_c, 2, 51, 0
+1, 79872, Note_on_c, 0, 51, 100
+1, 79872, Note_on_c, 0, 58, 115
+1, 79872, Control_c, 0, 64, 0
+1, 79872, Note_on_c, 1, 44, 66
+1, 79872, Note_on_c, 9, 35, 112
+1, 79872, Note_on_c, 9, 42, 64
+1, 79876, Note_on_c, 2, 74, 0
+1, 79948, Note_on_c, 9, 42, 0
+1, 79948, Note_on_c, 9, 35, 0
+1, 79989, Marker_t, "mind "
+1, 79989, Text_t, "mind [Ab] "
+1, 80064, Control_c, 0, 64, 127
+1, 80064, Note_on_c, 9, 42, 48
+1, 80140, Note_on_c, 9, 42, 0
+1, 80160, Note_on_c, 0, 60, 96
+1, 80200, Note_on_c, 0, 58, 0
+1, 80228, Note_on_c, 2, 72, 88
+1, 80232, Note_on_c, 0, 51, 0
+1, 80244, Note_on_c, 2, 70, 0
+1, 80256, Note_on_c, 9, 38, 96
+1, 80256, Note_on_c, 9, 42, 64
+1, 80274, Marker_t, "my"
+1, 80274, Text_t, "my"
+1, 80332, Note_on_c, 9, 42, 0
+1, 80352, Note_on_c, 0, 51, 90
+1, 80358, Marker_t, "self"
+1, 80358, Text_t, "self~~~F"
+1, 80400, Note_on_c, 1, 44, 0
+1, 80408, Note_on_c, 9, 38, 0
+1, 80408, Note_on_c, 0, 60, 0
+1, 80448, Note_on_c, 0, 56, 84
+1, 80448, Note_on_c, 1, 44, 75
+1, 80448, Note_on_c, 9, 35, 80
+1, 80448, Note_on_c, 9, 42, 48
+1, 80524, Marker_t, ""
+1, 80524, Note_on_c, 9, 42, 0
+1, 80524, Note_on_c, 9, 35, 0
+1, 80528, Note_on_c, 0, 56, 0
+1, 80544, Note_on_c, 0, 60, 97
+1, 80564, Note_on_c, 0, 51, 0
+1, 80596, Note_on_c, 0, 60, 0
+1, 80608, Note_on_c, 2, 53, 79
+1, 80628, Note_on_c, 2, 56, 0
+1, 80628, Note_on_c, 1, 44, 0
+1, 80640, Note_on_c, 0, 53, 99
+1, 80640, Note_on_c, 0, 60, 116
+1, 80640, Control_c, 0, 64, 0
+1, 80640, Note_on_c, 1, 41, 85
+1, 80640, Note_on_c, 9, 35, 112
+1, 80640, Note_on_c, 9, 42, 64
+1, 80716, Note_on_c, 9, 42, 0
+1, 80716, Note_on_c, 9, 35, 0
+1, 80832, Control_c, 0, 64, 127
+1, 80832, Note_on_c, 9, 42, 48
+1, 80884, Note_on_c, 2, 60, 61
+1, 80908, Note_on_c, 9, 42, 0
+1, 80916, Note_on_c, 0, 60, 0
+1, 80948, Note_on_c, 0, 53, 0
+1, 81012, Note_on_c, 2, 74, 81
+1, 81024, Note_on_c, 0, 62, 83
+1, 81024, Note_on_c, 9, 38, 96
+1, 81024, Note_on_c, 9, 42, 64
+1, 81028, Note_on_c, 2, 72, 0
+1, 81100, Note_on_c, 9, 42, 0
+1, 81176, Note_on_c, 9, 38, 0
+1, 81200, Note_on_c, 2, 75, 71
+1, 81208, Note_on_c, 0, 62, 0
+1, 81216, Note_on_c, 0, 63, 85
+1, 81216, Note_on_c, 9, 42, 48
+1, 81220, Note_on_c, 2, 74, 0
+1, 81292, Note_on_c, 9, 42, 0
+1, 81341, Marker_t, "/Though "
+1, 81341, Text_t, "/Though "
+1, 81368, Note_on_c, 0, 63, 0
+1, 81388, Note_on_c, 2, 53, 0
+1, 81388, Note_on_c, 2, 77, 99
+1, 81388, Note_on_c, 2, 58, 79
+1, 81392, Note_on_c, 1, 41, 0
+1, 81400, Note_on_c, 2, 60, 0
+1, 81408, Note_on_c, 0, 65, 99
+1, 81408, Control_c, 0, 64, 0
+1, 81408, Note_on_c, 0, 58, 92
+1, 81408, Control_c, 0, 64, 127
+1, 81408, Note_on_c, 1, 46, 92
+1, 81408, Note_on_c, 9, 35, 112
+1, 81408, Note_on_c, 9, 42, 64
+1, 81416, Note_on_c, 2, 75, 0
+1, 81430, Marker_t, "you're "
+1, 81430, Text_t, "you're "
+1, 81484, Note_on_c, 9, 42, 0
+1, 81484, Note_on_c, 9, 35, 0
+1, 81588, Note_on_c, 2, 65, 59
+1, 81600, Note_on_c, 0, 60, 79
+1, 81600, Note_on_c, 9, 42, 48
+1, 81610, Marker_t, "some"
+1, 81610, Text_t, "some"
+1, 81676, Note_on_c, 9, 42, 0
+1, 81696, Note_on_c, 0, 65, 0
+1, 81696, Note_on_c, 0, 62, 78
+1, 81759, Marker_t, "one "
+1, 81759, Text_t, "one [Bb] "
+1, 81792, Note_on_c, 9, 38, 96
+1, 81792, Note_on_c, 9, 42, 64
+1, 81868, Note_on_c, 9, 42, 0
+1, 81868, Note_on_c, 0, 62, 0
+1, 81876, Note_on_c, 0, 60, 0
+1, 81882, Marker_t, "in "
+1, 81882, Text_t, "in "
+1, 81888, Note_on_c, 0, 65, 96
+1, 81904, Note_on_c, 1, 46, 0
+1, 81944, Note_on_c, 9, 38, 0
+1, 81960, Note_on_c, 0, 65, 0
+1, 81976, Note_on_c, 0, 58, 0
+1, 81984, Note_on_c, 1, 46, 92
+1, 81984, Note_on_c, 9, 35, 80
+1, 81984, Note_on_c, 9, 42, 48
+1, 81998, Marker_t, "this "
+1, 81998, Text_t, "this "
+1, 82004, Note_on_c, 2, 74, 23
+1, 82060, Note_on_c, 9, 42, 0
+1, 82060, Note_on_c, 9, 35, 0
+1, 82092, Note_on_c, 1, 46, 0
+1, 82124, Note_on_c, 2, 74, 0
+1, 82128, Note_on_c, 2, 75, 47
+1, 82144, Note_on_c, 2, 80, 91
+1, 82156, Marker_t, "world "
+1, 82156, Text_t, "world [Bb7] "
+1, 82164, Note_on_c, 2, 77, 0
+1, 82176, Note_on_c, 0, 68, 84
+1, 82176, Note_on_c, 0, 58, 95
+1, 82176, Note_on_c, 0, 60, 99
+1, 82176, Note_on_c, 0, 63, 103
+1, 82176, Control_c, 0, 64, 0
+1, 82176, Note_on_c, 1, 46, 99
+1, 82176, Note_on_c, 9, 35, 112
+1, 82176, Note_on_c, 9, 42, 64
+1, 82252, Note_on_c, 9, 42, 0
+1, 82252, Note_on_c, 9, 35, 0
+1, 82368, Control_c, 0, 64, 127
+1, 82368, Note_on_c, 9, 42, 48
+1, 82424, Note_on_c, 0, 60, 0
+1, 82424, Note_on_c, 0, 63, 0
+1, 82444, Note_on_c, 9, 42, 0
+1, 82452, Note_on_c, 0, 68, 0
+1, 82560, Note_on_c, 0, 72, 96
+1, 82560, Note_on_c, 0, 63, 96
+1, 82560, Note_on_c, 9, 38, 96
+1, 82560, Note_on_c, 9, 42, 64
+1, 82612, Note_on_c, 0, 58, 0
+1, 82636, Note_on_c, 9, 42, 0
+1, 82647, Marker_t, "/that "
+1, 82647, Text_t, "/that "
+1, 82712, Note_on_c, 9, 38, 0
+1, 82744, Marker_t, "I'll "
+1, 82744, Text_t, "I'll "
+1, 82752, Note_on_c, 9, 42, 48
+1, 82784, Note_on_c, 0, 72, 0
+1, 82796, Note_on_c, 1, 46, 0
+1, 82800, Note_on_c, 0, 63, 0
+1, 82828, Note_on_c, 9, 42, 0
+1, 82853, Marker_t, "al"
+1, 82853, Text_t, "al"
+1, 82916, Note_on_c, 2, 74, 80
+1, 82916, Note_on_c, 2, 63, 67
+1, 82928, Note_on_c, 2, 80, 0
+1, 82928, Note_on_c, 2, 65, 0
+1, 82928, Note_on_c, 2, 58, 0
+1, 82936, Note_on_c, 2, 75, 0
+1, 82944, Note_on_c, 0, 70, 96
+1, 82944, Note_on_c, 0, 65, 100
+1, 82944, Control_c, 0, 64, 0
+1, 82944, Note_on_c, 0, 58, 82
+1, 82944, Note_on_c, 0, 51, 70
+1, 82944, Note_on_c, 1, 39, 107
+1, 82944, Note_on_c, 9, 35, 112
+1, 82944, Note_on_c, 9, 42, 64
+1, 82983, Marker_t, "ways "
+1, 82983, Text_t, "ways "
+1, 83020, Note_on_c, 9, 42, 0
+1, 83020, Note_on_c, 9, 35, 0
+1, 83136, Control_c, 0, 64, 127
+1, 83136, Note_on_c, 9, 42, 48
+1, 83160, Marker_t, "choose "
+1, 83160, Text_t, "choose [Em] "
+1, 83212, Note_on_c, 9, 42, 0
+1, 83328, Note_on_c, 9, 38, 96
+1, 83328, Note_on_c, 9, 42, 64
+1, 83404, Note_on_c, 9, 42, 0
+1, 83408, Note_on_c, 1, 39, 0
+1, 83480, Note_on_c, 9, 38, 0
+1, 83520, Note_on_c, 0, 74, 88
+1, 83520, Note_on_c, 1, 39, 94
+1, 83520, Note_on_c, 9, 35, 80
+1, 83520, Note_on_c, 9, 42, 48
+1, 83524, Note_on_c, 0, 70, 0
+1, 83524, Note_on_c, 0, 58, 0
+1, 83536, Note_on_c, 0, 65, 0
+1, 83592, Note_on_c, 0, 74, 0
+1, 83596, Note_on_c, 9, 35, 0
+1, 83596, Note_on_c, 9, 42, 0
+1, 83632, Note_on_c, 1, 39, 0
+1, 83684, Note_on_c, 2, 66, 72
+1, 83687, Marker_t, "to "
+1, 83687, Text_t, "to "
+1, 83692, Note_on_c, 2, 70, 54
+1, 83708, Note_on_c, 2, 74, 0
+1, 83712, Note_on_c, 0, 58, 90
+1, 83712, Note_on_c, 0, 72, 95
+1, 83712, Note_on_c, 0, 66, 83
+1, 83712, Control_c, 0, 64, 0
+1, 83712, Note_on_c, 1, 39, 101
+1, 83712, Note_on_c, 9, 35, 112
+1, 83712, Note_on_c, 9, 42, 64
+1, 83788, Note_on_c, 9, 42, 0
+1, 83788, Note_on_c, 9, 35, 0
+1, 83822, Marker_t, "love"
+1, 83822, Text_t, "love[Ebm]"
+1, 83904, Control_c, 0, 64, 127
+1, 83904, Note_on_c, 9, 42, 48
+1, 83942, Marker_t, ""
+1, 83980, Note_on_c, 9, 42, 0
+1, 84076, Note_on_c, 0, 72, 0
+1, 84088, Note_on_c, 0, 66, 0
+1, 84096, Note_on_c, 9, 38, 96
+1, 84096, Note_on_c, 9, 42, 64
+1, 84160, Note_on_c, 0, 51, 0
+1, 84172, Note_on_c, 9, 42, 0
+1, 84220, Note_on_c, 0, 58, 0
+1, 84248, Note_on_c, 9, 38, 0
+1, 84288, Note_on_c, 0, 70, 90
+1, 84288, Note_on_c, 9, 42, 48
+1, 84340, Note_on_c, 1, 39, 0
+1, 84364, Note_on_c, 9, 42, 0
+1, 84376, Note_on_c, 0, 70, 0
+1, 84384, Note_on_c, 0, 69, 83
+1, 84435, Marker_t, "/From "
+1, 84435, Text_t, "/From "
+1, 84436, Note_on_c, 0, 69, 0
+1, 84460, Note_on_c, 2, 66, 0
+1, 84480, Note_on_c, 2, 63, 0
+1, 84480, Note_on_c, 0, 65, 90
+1, 84480, Note_on_c, 0, 70, 92
+1, 84480, Control_c, 0, 64, 0
+1, 84480, Note_on_c, 1, 41, 100
+1, 84480, Note_on_c, 9, 35, 112
+1, 84480, Note_on_c, 9, 42, 64
+1, 84530, Marker_t, "now "
+1, 84530, Text_t, "now "
+1, 84556, Note_on_c, 9, 42, 0
+1, 84556, Note_on_c, 9, 35, 0
+1, 84624, Note_on_c, 2, 74, 75
+1, 84632, Note_on_c, 2, 70, 0
+1, 84672, Control_c, 0, 64, 127
+1, 84672, Note_on_c, 9, 42, 48
+1, 84686, Marker_t, "on "
+1, 84686, Text_t, "on [Bb] "
+1, 84748, Note_on_c, 9, 42, 0
+1, 84856, Note_on_c, 2, 77, 69
+1, 84864, Note_on_c, 9, 38, 96
+1, 84864, Note_on_c, 9, 42, 64
+1, 84884, Note_on_c, 2, 74, 0
+1, 84936, Note_on_c, 1, 41, 0
+1, 84940, Note_on_c, 9, 42, 0
+1, 84960, Note_on_c, 0, 62, 92
+1, 84972, Note_on_c, 0, 65, 0
+1, 85016, Note_on_c, 9, 38, 0
+1, 85040, Note_on_c, 0, 70, 0
+1, 85052, Note_on_c, 2, 82, 75
+1, 85056, Note_on_c, 0, 65, 92
+1, 85056, Note_on_c, 1, 41, 92
+1, 85056, Note_on_c, 9, 35, 80
+1, 85056, Note_on_c, 9, 42, 48
+1, 85068, Note_on_c, 2, 77, 0
+1, 85132, Note_on_c, 9, 35, 0
+1, 85132, Note_on_c, 9, 42, 0
+1, 85136, Note_on_c, 0, 62, 0
+1, 85140, Note_on_c, 0, 65, 0
+1, 85152, Note_on_c, 0, 70, 98
+1, 85184, Note_on_c, 1, 41, 0
+1, 85200, Note_on_c, 0, 70, 0
+1, 85211, Marker_t, "you're "
+1, 85211, Text_t, "you're "
+1, 85220, Note_on_c, 2, 63, 57
+1, 85240, Note_on_c, 1, 41, 100
+1, 85248, Note_on_c, 0, 63, 108
+1, 85248, Note_on_c, 0, 70, 109
+1, 85248, Note_on_c, 0, 67, 108
+1, 85248, Note_on_c, 9, 35, 112
+1, 85248, Note_on_c, 9, 42, 64
+1, 85320, Marker_t, "only "
+1, 85320, Text_t, "only "
+1, 85324, Note_on_c, 9, 42, 0
+1, 85324, Note_on_c, 9, 35, 0
+1, 85440, Note_on_c, 9, 42, 48
+1, 85497, Marker_t, "some"
+1, 85497, Text_t, "some"
+1, 85516, Note_on_c, 9, 42, 0
+1, 85572, Note_on_c, 1, 41, 0
+1, 85608, Note_on_c, 0, 63, 0
+1, 85624, Note_on_c, 1, 42, 88
+1, 85626, Marker_t, "one "
+1, 85626, Text_t, "one [F] "
+1, 85632, Note_on_c, 9, 38, 96
+1, 85632, Note_on_c, 9, 42, 64
+1, 85696, Note_on_c, 0, 67, 0
+1, 85708, Note_on_c, 9, 42, 0
+1, 85728, Note_on_c, 0, 63, 90
+1, 85784, Note_on_c, 0, 70, 0
+1, 85784, Note_on_c, 9, 38, 0
+1, 85824, Note_on_c, 0, 67, 82
+1, 85824, Note_on_c, 9, 42, 48
+1, 85848, Note_on_c, 2, 63, 0
+1, 85852, Note_on_c, 0, 63, 0
+1, 85900, Note_on_c, 9, 42, 0
+1, 85908, Note_on_c, 0, 67, 0
+1, 85920, Note_on_c, 0, 70, 89
+1, 85932, Note_on_c, 1, 42, 0
+1, 85976, Note_on_c, 0, 70, 0
+1, 86000, Note_on_c, 2, 55, 48
+1, 86000, Note_on_c, 2, 77, 78
+1, 86016, Control_c, 0, 64, 127
+1, 86016, Note_on_c, 0, 65, 84
+1, 86016, Note_on_c, 0, 58, 87
+1, 86016, Note_on_c, 0, 62, 104
+1, 86016, Note_on_c, 1, 43, 92
+1, 86016, Note_on_c, 9, 35, 112
+1, 86016, Note_on_c, 9, 42, 64
+1, 86016, Note_on_c, 9, 49, 80
+1, 86024, Note_on_c, 2, 82, 0
+1, 86033, Marker_t, "/that "
+1, 86033, Text_t, "/that "
+1, 86092, Note_on_c, 9, 42, 0
+1, 86092, Note_on_c, 9, 35, 0
+1, 86138, Marker_t, "I "
+1, 86138, Text_t, "I "
+1, 86168, Note_on_c, 9, 49, 0
+1, 86208, Note_on_c, 9, 42, 48
+1, 86220, Note_on_c, 2, 62, 72
+1, 86254, Marker_t, "used "
+1, 86254, Text_t, "used [Gm] "
+1, 86284, Note_on_c, 9, 42, 0
+1, 86380, Note_on_c, 0, 58, 0
+1, 86400, Note_on_c, 9, 38, 96
+1, 86400, Note_on_c, 9, 42, 64
+1, 86408, Note_on_c, 2, 65, 66
+1, 86434, Marker_t, "to "
+1, 86434, Text_t, "to "
+1, 86472, Note_on_c, 1, 43, 0
+1, 86476, Note_on_c, 9, 42, 0
+1, 86488, Note_on_c, 0, 62, 0
+1, 86488, Note_on_c, 2, 70, 84
+1, 86496, Note_on_c, 0, 58, 84
+1, 86550, Marker_t, "love...."
+1, 86550, Text_t, "love....[C]"
+1, 86552, Note_on_c, 9, 38, 0
+1, 86588, Note_on_c, 0, 65, 0
+1, 86592, Note_on_c, 0, 62, 98
+1, 86592, Note_on_c, 1, 43, 92
+1, 86592, Note_on_c, 9, 35, 80
+1, 86592, Note_on_c, 9, 42, 48
+1, 86668, Note_on_c, 9, 42, 0
+1, 86668, Note_on_c, 9, 35, 0
+1, 86688, Note_on_c, 0, 65, 79
+1, 86692, Note_on_c, 0, 62, 0
+1, 86712, Note_on_c, 0, 58, 0
+1, 86752, Note_on_c, 2, 70, 0
+1, 86752, Note_on_c, 2, 60, 81
+1, 86752, Note_on_c, 2, 78, 95
+1, 86756, Note_on_c, 2, 62, 0
+1, 86760, Note_on_c, 0, 65, 0
+1, 86764, Note_on_c, 2, 65, 0
+1, 86764, Note_on_c, 2, 55, 0
+1, 86774, Marker_t, ""
+1, 86776, Note_on_c, 1, 43, 0
+1, 86784, Note_on_c, 0, 60, 99
+1, 86784, Note_on_c, 0, 66, 108
+1, 86784, Control_c, 0, 64, 0
+1, 86784, Note_on_c, 1, 36, 84
+1, 86784, Note_on_c, 9, 35, 112
+1, 86784, Note_on_c, 9, 42, 64
+1, 86788, Note_on_c, 2, 77, 0
+1, 86860, Note_on_c, 9, 42, 0
+1, 86860, Note_on_c, 9, 35, 0
+1, 86976, Control_c, 0, 64, 127
+1, 86976, Note_on_c, 9, 42, 48
+1, 87052, Note_on_c, 9, 42, 0
+1, 87052, Note_on_c, 0, 66, 0
+1, 87152, Note_on_c, 2, 79, 75
+1, 87164, Note_on_c, 0, 60, 0
+1, 87168, Note_on_c, 0, 67, 84
+1, 87168, Note_on_c, 9, 38, 96
+1, 87168, Note_on_c, 9, 42, 64
+1, 87172, Note_on_c, 2, 78, 0
+1, 87196, Note_on_c, 0, 67, 0
+1, 87244, Note_on_c, 9, 42, 0
+1, 87320, Note_on_c, 9, 38, 0
+1, 87360, Note_on_c, 9, 42, 48
+1, 87412, Note_on_c, 1, 36, 0
+1, 87436, Note_on_c, 9, 42, 0
+1, 87528, Note_on_c, 2, 82, 70
+1, 87544, Note_on_c, 2, 79, 0
+1, 87552, Note_on_c, 2, 60, 0
+1, 87552, Control_c, 0, 64, 0
+1, 87552, Note_on_c, 0, 65, 90
+1, 87552, Note_on_c, 0, 70, 98
+1, 87552, Note_on_c, 1, 41, 81
+1, 87552, Note_on_c, 9, 35, 112
+1, 87552, Note_on_c, 9, 42, 64
+1, 87628, Note_on_c, 9, 42, 0
+1, 87628, Note_on_c, 9, 35, 0
+1, 87658, Marker_t, "/From "
+1, 87658, Text_t, "/From "
+1, 87744, Control_c, 0, 64, 127
+1, 87744, Note_on_c, 9, 42, 48
+1, 87785, Marker_t, "now "
+1, 87785, Text_t, "now "
+1, 87820, Note_on_c, 9, 42, 0
+1, 87927, Marker_t, "on ... "
+1, 87927, Text_t, "on ... [Bb] "
+1, 87936, Note_on_c, 9, 38, 96
+1, 87936, Note_on_c, 9, 42, 64
+1, 87964, Note_on_c, 2, 77, 64
+1, 88012, Note_on_c, 9, 42, 0
+1, 88020, Note_on_c, 1, 41, 0
+1, 88028, Note_on_c, 0, 65, 0
+1, 88032, Note_on_c, 0, 62, 92
+1, 88088, Note_on_c, 9, 38, 0
+1, 88116, Note_on_c, 0, 70, 0
+1, 88128, Note_on_c, 0, 65, 85
+1, 88128, Note_on_c, 1, 41, 86
+1, 88128, Note_on_c, 9, 35, 80
+1, 88128, Note_on_c, 9, 42, 48
+1, 88152, Note_on_c, 0, 62, 0
+1, 88204, Note_on_c, 9, 35, 0
+1, 88204, Note_on_c, 9, 42, 0
+1, 88224, Note_on_c, 0, 65, 0
+1, 88224, Note_on_c, 0, 70, 89
+1, 88240, Note_on_c, 1, 41, 0
+1, 88268, Note_on_c, 0, 70, 0
+1, 88289, Marker_t, "you're "
+1, 88289, Text_t, "you're "
+1, 88304, Note_on_c, 2, 75, 45
+1, 88312, Note_on_c, 2, 77, 0
+1, 88312, Note_on_c, 2, 79, 61
+1, 88320, Note_on_c, 0, 70, 114
+1, 88320, Note_on_c, 0, 63, 103
+1, 88320, Note_on_c, 0, 67, 90
+1, 88320, Control_c, 0, 64, 0
+1, 88320, Note_on_c, 1, 41, 96
+1, 88320, Note_on_c, 9, 35, 112
+1, 88320, Note_on_c, 9, 42, 64
+1, 88396, Note_on_c, 9, 42, 0
+1, 88396, Note_on_c, 9, 35, 0
+1, 88413, Marker_t, "only "
+1, 88413, Text_t, "only "
+1, 88512, Control_c, 0, 64, 127
+1, 88512, Note_on_c, 9, 42, 48
+1, 88576, Marker_t, "some"
+1, 88576, Text_t, "some"
+1, 88588, Note_on_c, 9, 42, 0
+1, 88704, Note_on_c, 9, 38, 96
+1, 88704, Note_on_c, 9, 42, 64
+1, 88758, Marker_t, "one "
+1, 88758, Text_t, "one [F] "
+1, 88764, Note_on_c, 0, 63, 0
+1, 88780, Note_on_c, 9, 42, 0
+1, 88840, Note_on_c, 0, 67, 0
+1, 88856, Note_on_c, 9, 38, 0
+1, 88896, Note_on_c, 0, 63, 69
+1, 88896, Note_on_c, 9, 42, 48
+1, 88904, Note_on_c, 0, 70, 0
+1, 88940, Note_on_c, 0, 63, 0
+1, 88972, Note_on_c, 9, 42, 0
+1, 89028, Note_on_c, 1, 41, 0
+1, 89048, Note_on_c, 2, 79, 0
+1, 89056, Note_on_c, 2, 75, 0
+1, 89064, Note_on_c, 2, 77, 61
+1, 89067, Marker_t, "/that "
+1, 89067, Text_t, "/that "
+1, 89088, Note_on_c, 0, 65, 99
+1, 89088, Note_on_c, 0, 70, 116
+1, 89088, Control_c, 0, 64, 0
+1, 89088, Note_on_c, 1, 46, 89
+1, 89088, Note_on_c, 9, 35, 112
+1, 89088, Note_on_c, 9, 42, 64
+1, 89164, Note_on_c, 9, 42, 0
+1, 89164, Note_on_c, 9, 35, 0
+1, 89184, Control_c, 0, 64, 127
+1, 89187, Marker_t, "I "
+1, 89187, Text_t, "I "
+1, 89280, Note_on_c, 9, 42, 48
+1, 89320, Note_on_c, 0, 65, 0
+1, 89320, Note_on_c, 0, 70, 0
+1, 89337, Marker_t, "used "
+1, 89337, Text_t, "used [Bb] "
+1, 89356, Note_on_c, 9, 42, 0
+1, 89472, Note_on_c, 9, 38, 96
+1, 89472, Note_on_c, 9, 42, 64
+1, 89479, Marker_t, "to "
+1, 89479, Text_t, "to "
+1, 89548, Note_on_c, 9, 42, 0
+1, 89603, Marker_t, "love..."
+1, 89603, Text_t, "love..."
+1, 89616, Note_on_c, 1, 46, 0
+1, 89624, Note_on_c, 9, 38, 0
+1, 89648, Note_on_c, 2, 58, 72
+1, 89664, Note_on_c, 0, 65, 78
+1, 89664, Note_on_c, 0, 60, 71
+1, 89664, Note_on_c, 1, 34, 92
+1, 89664, Note_on_c, 9, 35, 80
+1, 89664, Note_on_c, 9, 42, 48
+1, 89680, Note_on_c, 0, 60, 0
+1, 89708, Note_on_c, 0, 65, 0
+1, 89740, Note_on_c, 9, 42, 0
+1, 89740, Note_on_c, 9, 35, 0
+1, 89760, Note_on_c, 0, 65, 107
+1, 89760, Note_on_c, 0, 60, 101
+1, 89776, Note_on_c, 1, 34, 0
+1, 89792, Note_on_c, 0, 60, 0
+1, 89808, Note_on_c, 0, 65, 0
+1, 89812, Note_on_c, 2, 74, 68
+1, 89856, Note_on_c, 0, 65, 126
+1, 89856, Note_on_c, 0, 60, 122
+1, 89856, Note_on_c, 1, 34, 89
+1, 89856, Note_on_c, 9, 35, 112
+1, 89856, Note_on_c, 9, 42, 64
+1, 89894, Marker_t, "/adlib"
+1, 89894, Text_t, "/adlib"
+1, 89932, Note_on_c, 9, 42, 0
+1, 89932, Note_on_c, 9, 35, 0
+1, 90048, Note_on_c, 9, 42, 48
+1, 90097, Marker_t, "/- "
+1, 90097, Text_t, "/- [Eb] "
+1, 90104, Note_on_c, 2, 58, 0
+1, 90124, Note_on_c, 9, 42, 0
+1, 90200, Note_on_c, 0, 65, 0
+1, 90216, Note_on_c, 2, 63, 74
+1, 90224, Note_on_c, 2, 75, 104
+1, 90236, Note_on_c, 2, 74, 0
+1, 90236, Note_on_c, 2, 82, 0
+1, 90240, Note_on_c, 0, 60, 0
+1, 90240, Note_on_c, 0, 58, 90
+1, 90240, Note_on_c, 0, 65, 87
+1, 90240, Note_on_c, 0, 62, 100
+1, 90240, Note_on_c, 9, 38, 96
+1, 90248, Note_on_c, 2, 77, 0
+1, 90311, Marker_t, "- "
+1, 90311, Text_t, "- "
+1, 90336, Note_on_c, 9, 45, 80
+1, 90360, Note_on_c, 0, 62, 0
+1, 90376, Note_on_c, 9, 45, 0
+1, 90392, Note_on_c, 0, 58, 0
+1, 90392, Note_on_c, 9, 38, 0
+1, 90396, Note_on_c, 0, 65, 0
+1, 90400, Note_on_c, 1, 34, 0
+1, 90404, Note_on_c, 2, 65, 66
+1, 90412, Note_on_c, 2, 77, 107
+1, 90420, Note_on_c, 2, 63, 0
+1, 90432, Note_on_c, 9, 41, 96
+1, 90436, Note_on_c, 2, 75, 0
+1, 90495, Marker_t, "- "
+1, 90495, Text_t, "-  "
+1, 90508, Note_on_c, 9, 41, 0
+1, 90604, Note_on_c, 2, 79, 101
+1, 90612, Note_on_c, 2, 65, 0
+1, 90616, Note_on_c, 2, 67, 64
+1, 90624, Control_c, 0, 64, 0
+1, 90624, Note_on_c, 0, 63, 99
+1, 90624, Note_on_c, 0, 58, 90
+1, 90624, Note_on_c, 0, 67, 103
+1, 90624, Note_on_c, 1, 39, 96
+1, 90624, Note_on_c, 9, 35, 112
+1, 90624, Note_on_c, 9, 42, 64
+1, 90624, Note_on_c, 9, 49, 80
+1, 90628, Note_on_c, 2, 77, 0
+1, 90682, Marker_t, "- "
+1, 90682, Text_t, "-  "
+1, 90700, Note_on_c, 9, 42, 0
+1, 90700, Note_on_c, 9, 35, 0
+1, 90776, Note_on_c, 9, 49, 0
+1, 90816, Control_c, 0, 64, 127
+1, 90816, Note_on_c, 9, 42, 48
+1, 90837, Marker_t, "- "
+1, 90837, Text_t, "- [Cm] "
+1, 90892, Note_on_c, 9, 42, 0
+1, 90968, Note_on_c, 0, 58, 0
+1, 91008, Note_on_c, 9, 38, 96
+1, 91008, Note_on_c, 9, 42, 64
+1, 91068, Note_on_c, 0, 63, 0
+1, 91075, Marker_t, "- "
+1, 91075, Text_t, "- "
+1, 91080, Note_on_c, 0, 67, 0
+1, 91084, Note_on_c, 9, 42, 0
+1, 91092, Note_on_c, 1, 39, 0
+1, 91160, Note_on_c, 9, 38, 0
+1, 91164, Note_on_c, 2, 67, 0
+1, 91176, Note_on_c, 2, 79, 0
+1, 91188, Note_on_c, 2, 67, 74
+1, 91200, Note_on_c, 0, 67, 89
+1, 91200, Note_on_c, 1, 39, 92
+1, 91200, Note_on_c, 9, 35, 80
+1, 91200, Note_on_c, 9, 42, 48
+1, 91204, Note_on_c, 2, 79, 86
+1, 91248, Note_on_c, 0, 67, 0
+1, 91276, Note_on_c, 9, 42, 0
+1, 91276, Note_on_c, 9, 35, 0
+1, 91288, Marker_t, "- "
+1, 91288, Text_t, "-  "
+1, 91340, Note_on_c, 2, 67, 0
+1, 91348, Note_on_c, 1, 39, 0
+1, 91356, Note_on_c, 2, 79, 0
+1, 91372, Note_on_c, 2, 67, 75
+1, 91380, Note_on_c, 2, 79, 94
+1, 91392, Note_on_c, 0, 63, 94
+1, 91392, Note_on_c, 0, 67, 109
+1, 91392, Control_c, 0, 64, 0
+1, 91392, Note_on_c, 1, 36, 92
+1, 91392, Note_on_c, 9, 35, 112
+1, 91392, Note_on_c, 9, 42, 64
+1, 91465, Marker_t, "- "
+1, 91465, Text_t, "- "
+1, 91468, Note_on_c, 9, 42, 0
+1, 91468, Note_on_c, 9, 35, 0
+1, 91488, Control_c, 0, 64, 127
+1, 91584, Note_on_c, 9, 42, 48
+1, 91660, Note_on_c, 9, 42, 0
+1, 91669, Marker_t, "- "
+1, 91669, Text_t, "- "
+1, 91768, Note_on_c, 0, 63, 0
+1, 91776, Note_on_c, 9, 38, 96
+1, 91776, Note_on_c, 9, 42, 64
+1, 91808, Note_on_c, 0, 67, 0
+1, 91852, Note_on_c, 9, 42, 0
+1, 91853, Marker_t, "- "
+1, 91853, Text_t, "- [Fm] "
+1, 91928, Note_on_c, 9, 38, 0
+1, 91952, Note_on_c, 2, 77, 86
+1, 91960, Note_on_c, 2, 65, 66
+1, 91968, Note_on_c, 9, 42, 48
+1, 91996, Note_on_c, 2, 67, 0
+1, 92008, Note_on_c, 1, 36, 0
+1, 92012, Note_on_c, 2, 65, 0
+1, 92031, Marker_t, "- "
+1, 92031, Text_t, "- "
+1, 92036, Note_on_c, 2, 79, 0
+1, 92044, Note_on_c, 9, 42, 0
+1, 92044, Note_on_c, 2, 75, 69
+1, 92052, Note_on_c, 2, 63, 79
+1, 92064, Note_on_c, 0, 63, 74
+1, 92076, Note_on_c, 2, 77, 0
+1, 92100, Note_on_c, 0, 63, 0
+1, 92152, Note_on_c, 2, 77, 96
+1, 92152, Note_on_c, 2, 65, 74
+1, 92160, Note_on_c, 0, 63, 93
+1, 92160, Note_on_c, 0, 60, 96
+1, 92160, Note_on_c, 0, 56, 98
+1, 92160, Note_on_c, 1, 41, 89
+1, 92160, Note_on_c, 9, 35, 112
+1, 92160, Note_on_c, 9, 42, 64
+1, 92164, Note_on_c, 2, 63, 0
+1, 92172, Note_on_c, 2, 75, 0
+1, 92211, Marker_t, "- "
+1, 92211, Text_t, "- "
+1, 92236, Note_on_c, 9, 35, 0
+1, 92236, Note_on_c, 9, 42, 0
+1, 92352, Note_on_c, 9, 42, 48
+1, 92410, Marker_t, "- "
+1, 92410, Text_t, "- [Bb] "
+1, 92428, Note_on_c, 9, 42, 0
+1, 92448, Note_on_c, 0, 65, 83
+1, 92512, Note_on_c, 2, 68, 74
+1, 92544, Note_on_c, 0, 65, 0
+1, 92544, Note_on_c, 0, 65, 90
+1, 92544, Note_on_c, 9, 38, 96
+1, 92544, Note_on_c, 9, 42, 64
+1, 92560, Note_on_c, 0, 60, 0
+1, 92568, Note_on_c, 0, 63, 0
+1, 92600, Note_on_c, 1, 41, 0
+1, 92620, Note_on_c, 9, 42, 0
+1, 92622, Marker_t, "- "
+1, 92622, Text_t, "- "
+1, 92668, Note_on_c, 0, 56, 0
+1, 92696, Note_on_c, 9, 38, 0
+1, 92708, Note_on_c, 2, 72, 62
+1, 92736, Note_on_c, 1, 41, 86
+1, 92736, Note_on_c, 9, 35, 80
+1, 92736, Note_on_c, 9, 42, 48
+1, 92776, Note_on_c, 0, 65, 0
+1, 92808, Marker_t, "- "
+1, 92808, Text_t, "- "
+1, 92812, Note_on_c, 9, 42, 0
+1, 92812, Note_on_c, 9, 35, 0
+1, 92892, Note_on_c, 2, 58, 78
+1, 92912, Note_on_c, 1, 41, 0
+1, 92920, Note_on_c, 2, 65, 0
+1, 92928, Note_on_c, 0, 58, 107
+1, 92928, Note_on_c, 0, 65, 109
+1, 92928, Note_on_c, 0, 63, 101
+1, 92928, Control_c, 0, 64, 0
+1, 92928, Note_on_c, 1, 46, 92
+1, 92928, Note_on_c, 9, 35, 112
+1, 92928, Note_on_c, 9, 42, 64
+1, 92952, Note_on_c, 2, 72, 0
+1, 93004, Note_on_c, 9, 42, 0
+1, 93004, Note_on_c, 9, 35, 0
+1, 93120, Control_c, 0, 64, 127
+1, 93120, Note_on_c, 9, 42, 48
+1, 93196, Note_on_c, 9, 42, 0
+1, 93284, Note_on_c, 2, 79, 86
+1, 93296, Note_on_c, 0, 58, 0
+1, 93304, Note_on_c, 2, 68, 0
+1, 93312, Note_on_c, 9, 38, 96
+1, 93316, Note_on_c, 2, 77, 0
+1, 93408, Note_on_c, 9, 45, 80
+1, 93448, Note_on_c, 9, 45, 0
+1, 93464, Note_on_c, 9, 38, 0
+1, 93488, Note_on_c, 2, 80, 94
+1, 93492, Note_on_c, 1, 46, 0
+1, 93504, Note_on_c, 0, 58, 73
+1, 93504, Note_on_c, 9, 41, 96
+1, 93508, Note_on_c, 2, 79, 0
+1, 93512, Note_on_c, 0, 63, 0
+1, 93520, Note_on_c, 0, 65, 0
+1, 93540, Note_on_c, 0, 58, 0
+1, 93580, Note_on_c, 9, 41, 0
+1, 93672, Note_on_c, 2, 82, 86
+1, 93676, Note_on_c, 2, 51, 71
+1, 93684, Note_on_c, 2, 80, 0
+1, 93696, Note_on_c, 0, 63, 101
+1, 93696, Note_on_c, 0, 58, 98
+1, 93696, Note_on_c, 0, 67, 109
+1, 93696, Control_c, 0, 64, 0
+1, 93696, Note_on_c, 1, 39, 96
+1, 93696, Note_on_c, 9, 35, 112
+1, 93696, Note_on_c, 9, 42, 64
+1, 93696, Note_on_c, 9, 49, 80
+1, 93772, Note_on_c, 9, 42, 0
+1, 93772, Note_on_c, 9, 35, 0
+1, 93774, Marker_t, "-"
+1, 93774, Text_t, "-"
+1, 93848, Note_on_c, 9, 49, 0
+1, 93888, Control_c, 0, 64, 127
+1, 93888, Note_on_c, 9, 42, 48
+1, 93964, Note_on_c, 9, 42, 0
+1, 93964, Note_on_c, 0, 58, 0
+1, 93980, Note_on_c, 0, 63, 0
+1, 94008, Note_on_c, 0, 67, 0
+1, 94061, Marker_t, ""
+1, 94080, Note_on_c, 9, 38, 96
+1, 94080, Note_on_c, 9, 42, 64
+1, 94156, Note_on_c, 9, 42, 0
+1, 94156, Note_on_c, 1, 39, 0
+1, 94176, Note_on_c, 0, 63, 93
+1, 94228, Marker_t, "\\Though "
+1, 94228, Text_t, "\\Though [Bb] "
+1, 94232, Note_on_c, 9, 38, 0
+1, 94272, Note_on_c, 0, 65, 84
+1, 94272, Note_on_c, 1, 39, 96
+1, 94272, Note_on_c, 9, 35, 80
+1, 94272, Note_on_c, 9, 42, 48
+1, 94341, Marker_t, "you're "
+1, 94341, Text_t, "you're "
+1, 94348, Note_on_c, 9, 42, 0
+1, 94348, Note_on_c, 9, 35, 0
+1, 94368, Note_on_c, 0, 65, 0
+1, 94368, Note_on_c, 0, 70, 87
+1, 94380, Note_on_c, 0, 63, 0
+1, 94404, Note_on_c, 1, 39, 0
+1, 94427, Marker_t, "some"
+1, 94427, Text_t, "some"
+1, 94436, Note_on_c, 0, 70, 0
+1, 94436, Note_on_c, 2, 80, 93
+1, 94436, Note_on_c, 2, 73, 83
+1, 94456, Note_on_c, 2, 82, 0
+1, 94456, Note_on_c, 2, 58, 0
+1, 94464, Note_on_c, 0, 65, 96
+1, 94464, Note_on_c, 0, 68, 105
+1, 94464, Note_on_c, 0, 61, 110
+1, 94464, Control_c, 0, 64, 0
+1, 94464, Note_on_c, 1, 39, 92
+1, 94464, Note_on_c, 9, 35, 112
+1, 94464, Note_on_c, 9, 42, 64
+1, 94540, Note_on_c, 9, 42, 0
+1, 94540, Note_on_c, 9, 35, 0
+1, 94656, Control_c, 0, 64, 127
+1, 94656, Note_on_c, 9, 42, 48
+1, 94732, Note_on_c, 9, 42, 0
+1, 94738, Marker_t, "one "
+1, 94738, Text_t, "one [Eb] "
+1, 94813, Marker_t, "in "
+1, 94813, Text_t, "in "
+1, 94848, Note_on_c, 9, 38, 96
+1, 94848, Note_on_c, 9, 42, 64
+1, 94897, Marker_t, "this "
+1, 94897, Text_t, "this "
+1, 94924, Note_on_c, 9, 42, 0
+1, 95000, Note_on_c, 9, 38, 0
+1, 95000, Note_on_c, 0, 68, 0
+1, 95004, Marker_t, "world "
+1, 95004, Text_t, "world [Eb7] "
+1, 95016, Note_on_c, 1, 39, 0
+1, 95024, Note_on_c, 0, 65, 0
+1, 95024, Note_on_c, 0, 61, 0
+1, 95040, Note_on_c, 9, 42, 48
+1, 95093, Marker_t, "/that "
+1, 95093, Text_t, "/that "
+1, 95116, Note_on_c, 9, 42, 0
+1, 95192, Note_on_c, 2, 75, 69
+1, 95196, Note_on_c, 2, 70, 75
+1, 95202, Marker_t, "I'll "
+1, 95202, Text_t, "I'll "
+1, 95204, Note_on_c, 2, 80, 0
+1, 95204, Note_on_c, 2, 51, 0
+1, 95204, Note_on_c, 2, 56, 76
+1, 95220, Note_on_c, 2, 73, 0
+1, 95232, Note_on_c, 0, 60, 90
+1, 95232, Note_on_c, 0, 63, 86
+1, 95232, Note_on_c, 0, 56, 90
+1, 95232, Control_c, 0, 64, 0
+1, 95232, Note_on_c, 1, 44, 79
+1, 95232, Note_on_c, 9, 35, 112
+1, 95232, Note_on_c, 9, 42, 64
+1, 95308, Note_on_c, 9, 42, 0
+1, 95308, Note_on_c, 9, 35, 0
+1, 95328, Control_c, 0, 64, 127
+1, 95362, Marker_t, "always "
+1, 95362, Text_t, "always "
+1, 95424, Note_on_c, 9, 42, 48
+1, 95500, Note_on_c, 9, 42, 0
+1, 95524, Note_on_c, 0, 63, 0
+1, 95548, Note_on_c, 0, 60, 0
+1, 95560, Note_on_c, 0, 56, 0
+1, 95584, Note_on_c, 2, 72, 68
+1, 95600, Note_on_c, 2, 70, 0
+1, 95616, Note_on_c, 9, 38, 96
+1, 95616, Note_on_c, 9, 42, 64
+1, 95657, Marker_t, "choose~ "
+1, 95657, Text_t, "choose~ [Ab] "
+1, 95692, Note_on_c, 9, 42, 0
+1, 95696, Note_on_c, 1, 44, 0
+1, 95712, Note_on_c, 0, 56, 96
+1, 95768, Note_on_c, 9, 38, 0
+1, 95808, Note_on_c, 0, 58, 86
+1, 95808, Note_on_c, 1, 44, 75
+1, 95808, Note_on_c, 9, 35, 80
+1, 95808, Note_on_c, 9, 42, 48
+1, 95884, Note_on_c, 9, 42, 0
+1, 95884, Note_on_c, 9, 35, 0
+1, 95904, Note_on_c, 0, 63, 96
+1, 95908, Note_on_c, 0, 58, 0
+1, 95928, Note_on_c, 0, 56, 0
+1, 95928, Note_on_c, 1, 44, 0
+1, 95956, Note_on_c, 2, 71, 77
+1, 95964, Note_on_c, 0, 63, 0
+1, 95984, Note_on_c, 2, 72, 0
+1, 95999, Marker_t, "to "
+1, 95999, Text_t, "to "
+1, 96000, Note_on_c, 0, 59, 118
+1, 96000, Note_on_c, 0, 63, 99
+1, 96000, Note_on_c, 0, 56, 102
+1, 96000, Control_c, 0, 64, 0
+1, 96000, Note_on_c, 1, 44, 75
+1, 96000, Note_on_c, 9, 35, 112
+1, 96000, Note_on_c, 9, 42, 64
+1, 96012, Note_on_c, 2, 75, 0
+1, 96076, Note_on_c, 9, 42, 0
+1, 96076, Note_on_c, 9, 35, 0
+1, 96155, Marker_t, "love"
+1, 96155, Text_t, "love[Abm] "
+1, 96192, Control_c, 0, 64, 127
+1, 96192, Note_on_c, 9, 42, 48
+1, 96268, Note_on_c, 9, 42, 0
+1, 96301, Marker_t, ""
+1, 96384, Note_on_c, 9, 38, 96
+1, 96384, Note_on_c, 9, 42, 64
+1, 96460, Note_on_c, 9, 42, 0
+1, 96536, Note_on_c, 9, 38, 0
+1, 96556, Note_on_c, 0, 56, 0
+1, 96564, Note_on_c, 0, 59, 0
+1, 96576, Note_on_c, 0, 63, 0
+1, 96576, Note_on_c, 9, 42, 48
+1, 96588, Note_on_c, 1, 44, 0
+1, 96652, Note_on_c, 9, 42, 0
+1, 96747, Marker_t, "/From "
+1, 96747, Text_t, "/From "
+1, 96748, Note_on_c, 2, 79, 59
+1, 96756, Note_on_c, 2, 71, 0
+1, 96768, Note_on_c, 2, 79, 0
+1, 96768, Note_on_c, 1, 46, 81
+1, 96768, Note_on_c, 2, 79, 50
+1, 96768, Note_on_c, 2, 70, 46
+1, 96768, Note_on_c, 9, 35, 112
+1, 96768, Note_on_c, 9, 42, 64
+1, 96772, Note_on_c, 2, 56, 0
+1, 96844, Note_on_c, 9, 35, 0
+1, 96844, Note_on_c, 9, 42, 0
+1, 96850, Marker_t, "now "
+1, 96850, Text_t, "now "
+1, 96960, Note_on_c, 9, 42, 48
+1, 96999, Marker_t, "on "
+1, 96999, Text_t, "on [Eb] "
+1, 97036, Note_on_c, 9, 42, 0
+1, 97152, Note_on_c, 0, 63, 85
+1, 97152, Note_on_c, 9, 38, 96
+1, 97152, Note_on_c, 9, 42, 64
+1, 97228, Note_on_c, 9, 42, 0
+1, 97228, Note_on_c, 1, 46, 0
+1, 97248, Note_on_c, 0, 67, 79
+1, 97304, Note_on_c, 9, 38, 0
+1, 97340, Note_on_c, 0, 63, 0
+1, 97340, Note_on_c, 0, 67, 0
+1, 97344, Note_on_c, 0, 70, 81
+1, 97344, Note_on_c, 1, 46, 64
+1, 97344, Note_on_c, 9, 35, 80
+1, 97344, Note_on_c, 9, 42, 48
+1, 97396, Note_on_c, 0, 70, 0
+1, 97420, Note_on_c, 9, 35, 0
+1, 97420, Note_on_c, 9, 42, 0
+1, 97444, Note_on_c, 1, 46, 0
+1, 97499, Marker_t, "you're "
+1, 97499, Text_t, "you're "
+1, 97500, Note_on_c, 2, 77, 67
+1, 97536, Note_on_c, 0, 70, 88
+1, 97536, Note_on_c, 0, 65, 86
+1, 97536, Note_on_c, 1, 46, 86
+1, 97536, Note_on_c, 9, 35, 112
+1, 97536, Note_on_c, 9, 42, 64
+1, 97544, Note_on_c, 2, 79, 0
+1, 97593, Marker_t, "only "
+1, 97593, Text_t, "only "
+1, 97612, Note_on_c, 9, 42, 0
+1, 97612, Note_on_c, 9, 35, 0
+1, 97728, Note_on_c, 9, 42, 48
+1, 97772, Marker_t, "some"
+1, 97772, Text_t, "some"
+1, 97804, Note_on_c, 9, 42, 0
+1, 97920, Note_on_c, 1, 46, 0
+1, 97920, Note_on_c, 1, 47, 88
+1, 97920, Note_on_c, 9, 38, 96
+1, 97920, Note_on_c, 9, 42, 64
+1, 97929, Marker_t, "one "
+1, 97929, Text_t, "one [Bb] "
+1, 97996, Note_on_c, 9, 42, 0
+1, 98072, Note_on_c, 9, 38, 0
+1, 98088, Note_on_c, 0, 65, 0
+1, 98096, Note_on_c, 0, 70, 0
+1, 98112, Note_on_c, 9, 42, 48
+1, 98188, Note_on_c, 9, 42, 0
+1, 98280, Note_on_c, 2, 72, 53
+1, 98280, Note_on_c, 2, 79, 62
+1, 98292, Note_on_c, 2, 70, 0
+1, 98304, Note_on_c, 0, 67, 101
+1, 98304, Note_on_c, 0, 60, 92
+1, 98304, Control_c, 0, 64, 0
+1, 98304, Note_on_c, 1, 48, 86
+1, 98304, Note_on_c, 9, 35, 112
+1, 98304, Note_on_c, 9, 42, 64
+1, 98308, Note_on_c, 1, 47, 0
+1, 98324, Note_on_c, 2, 77, 0
+1, 98326, Marker_t, "/that "
+1, 98326, Text_t, "/that "
+1, 98380, Note_on_c, 9, 42, 0
+1, 98380, Note_on_c, 9, 35, 0
+1, 98400, Control_c, 0, 64, 127
+1, 98439, Marker_t, "I "
+1, 98439, Text_t, "I "
+1, 98496, Note_on_c, 9, 42, 48
+1, 98551, Marker_t, "used "
+1, 98551, Text_t, "used "
+1, 98572, Note_on_c, 9, 42, 0
+1, 98688, Note_on_c, 0, 63, 96
+1, 98688, Note_on_c, 9, 38, 96
+1, 98688, Note_on_c, 9, 42, 64
+1, 98727, Marker_t, "to "
+1, 98727, Text_t, "to "
+1, 98744, Note_on_c, 0, 63, 0
+1, 98744, Note_on_c, 0, 60, 0
+1, 98764, Note_on_c, 9, 42, 0
+1, 98764, Note_on_c, 0, 67, 0
+1, 98840, Note_on_c, 9, 38, 0
+1, 98880, Note_on_c, 9, 35, 80
+1, 98880, Note_on_c, 9, 42, 48
+1, 98926, Marker_t, "love..."
+1, 98926, Text_t, "love...[Cm] "
+1, 98956, Note_on_c, 9, 42, 0
+1, 98956, Note_on_c, 9, 35, 0
+1, 99044, Note_on_c, 2, 83, 82
+1, 99052, Note_on_c, 2, 72, 0
+1, 99052, Note_on_c, 2, 71, 73
+1, 99060, Note_on_c, 2, 79, 0
+1, 99072, Note_on_c, 0, 65, 96
+1, 99072, Note_on_c, 0, 71, 106
+1, 99072, Note_on_c, 1, 41, 77
+1, 99072, Note_on_c, 9, 35, 112
+1, 99072, Note_on_c, 9, 42, 64
+1, 99076, Note_on_c, 1, 48, 0
+1, 99148, Note_on_c, 9, 42, 0
+1, 99148, Note_on_c, 9, 35, 0
+1, 99264, Note_on_c, 9, 42, 48
+1, 99316, Marker_t, "/ohhh~~~"
+1, 99316, Text_t, "/ohhh~~~[F] "
+1, 99336, Note_on_c, 0, 71, 0
+1, 99340, Note_on_c, 9, 42, 0
+1, 99440, Note_on_c, 0, 65, 0
+1, 99448, Note_on_c, 2, 84, 64
+1, 99452, Note_on_c, 2, 83, 0
+1, 99456, Note_on_c, 0, 72, 81
+1, 99456, Note_on_c, 9, 38, 96
+1, 99456, Note_on_c, 9, 42, 64
+1, 99464, Note_on_c, 2, 72, 57
+1, 99472, Note_on_c, 2, 71, 0
+1, 99484, Note_on_c, 0, 72, 0
+1, 99532, Note_on_c, 9, 42, 0
+1, 99608, Note_on_c, 9, 38, 0
+1, 99648, Note_on_c, 9, 42, 48
+1, 99724, Note_on_c, 9, 42, 0
+1, 99764, Note_on_c, 1, 41, 0
+1, 99816, Note_on_c, 2, 72, 0
+1, 99824, Note_on_c, 2, 75, 59
+1, 99840, Note_on_c, 2, 84, 0
+1, 99840, Note_on_c, 1, 46, 63
+1, 100063, Marker_t, "From "
+1, 100063, Text_t, "From "
+1, 100160, Marker_t, "now "
+1, 100160, Text_t, "now "
+1, 100224, Note_on_c, 0, 63, 74
+1, 100301, Marker_t, "on "
+1, 100301, Text_t, "on [Eb] "
+1, 100320, Note_on_c, 0, 67, 76
+1, 100416, Note_on_c, 0, 70, 74
+1, 100424, Note_on_c, 0, 67, 0
+1, 100488, Note_on_c, 0, 70, 0
+1, 100500, Note_on_c, 1, 46, 0
+1, 100520, Note_on_c, 0, 63, 0
+1, 100604, Note_on_c, 2, 70, 33
+1, 100608, Note_on_c, 0, 63, 75
+1, 100608, Note_on_c, 0, 70, 70
+1, 100608, Note_on_c, 1, 46, 63
+1, 100638, Marker_t, "/you're "
+1, 100638, Text_t, "/you're "
+1, 100762, Marker_t, "only "
+1, 100762, Text_t, "only "
+1, 100910, Marker_t, "some"
+1, 100910, Text_t, "some"
+1, 101085, Marker_t, "one "
+1, 101085, Text_t, "one [Bb] "
+1, 101164, Note_on_c, 0, 70, 0
+1, 101228, Note_on_c, 0, 63, 0
+1, 101344, Note_on_c, 2, 67, 45
+1, 101356, Note_on_c, 2, 63, 38
+1, 101364, Note_on_c, 2, 70, 0
+1, 101372, Note_on_c, 1, 46, 0
+1, 101376, Note_on_c, 0, 70, 79
+1, 101376, Note_on_c, 0, 51, 66
+1, 101376, Note_on_c, 0, 65, 76
+1, 101376, Note_on_c, 1, 39, 57
+1, 101461, Marker_t, "that "
+1, 101461, Text_t, "that "
+1, 101868, Marker_t, "I "
+1, 101868, Text_t, "I "
+1, 101966, Marker_t, "used "
+1, 101966, Text_t, "used "
+1, 102086, Marker_t, "to "
+1, 102086, Text_t, "to "
+1, 102116, Note_on_c, 0, 65, 0
+1, 102140, Note_on_c, 2, 53, 29
+1, 102144, Note_on_c, 0, 53, 84
+1, 102144, Note_on_c, 0, 63, 67
+1, 102144, Note_on_c, 0, 56, 84
+1, 102144, Note_on_c, 0, 60, 48
+1, 102152, Note_on_c, 2, 72, 61
+1, 102152, Note_on_c, 2, 60, 54
+1, 102164, Note_on_c, 2, 75, 0
+1, 102172, Note_on_c, 2, 63, 0
+1, 102172, Note_on_c, 2, 67, 0
+1, 102176, Note_on_c, 0, 70, 0
+1, 102244, Marker_t, "love..."
+1, 102244, Text_t, "love...[Eb] "
+1, 102336, Note_on_c, 0, 65, 81
+1, 102508, Note_on_c, 2, 58, 57
+1, 102516, Note_on_c, 2, 60, 0
+1, 102516, Note_on_c, 2, 65, 39
+1, 102516, Note_on_c, 2, 70, 55
+1, 102520, Note_on_c, 0, 56, 0
+1, 102520, Note_on_c, 0, 60, 0
+1, 102528, Note_on_c, 0, 70, 81
+1, 102528, Note_on_c, 0, 58, 81
+1, 102536, Note_on_c, 2, 72, 0
+1, 102564, Note_on_c, 0, 53, 0
+1, 102576, Note_on_c, 0, 58, 0
+1, 102592, Note_on_c, 0, 51, 0
+1, 102620, Note_on_c, 0, 63, 0
+1, 102720, Note_on_c, 0, 63, 72
+1, 102744, Note_on_c, 0, 65, 0
+1, 102772, Note_on_c, 1, 39, 0
+1, 102816, Note_on_c, 0, 70, 0
+1, 102900, Note_on_c, 2, 67, 55
+1, 102904, Note_on_c, 2, 51, 54
+1, 102912, Note_on_c, 2, 65, 0
+1, 102912, Note_on_c, 2, 53, 0
+1, 102912, Note_on_c, 0, 39, 74
+1, 102912, Note_on_c, 0, 67, 79
+1, 102912, Note_on_c, 0, 51, 74
+1, 102912, Note_on_c, 2, 75, 46
+1, 102916, Note_on_c, 2, 70, 0
+1, 103088, Note_on_c, 0, 51, 0
+1, 103088, Note_on_c, 0, 67, 0
+1, 103096, Note_on_c, 0, 63, 0
+1, 103096, Note_on_c, 0, 39, 0
+1, 104108, Note_on_c, 2, 58, 0
+1, 104120, Note_on_c, 2, 51, 0
+1, 104132, Note_on_c, 2, 67, 0
+1, 104156, Note_on_c, 2, 75, 0
+1, 104448, Control_c, 0, 64, 0
+1, 104448, End_track
+0, 0, End_of_file
